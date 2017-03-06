@@ -94,7 +94,7 @@ var l_musicPlaylist = [
 	{youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
 	{youtube: "dOo2jWb73JY", name: "K-391 - Earth NCS Release"},
 	{youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE - My Hearts"},
-	{youtube: "p7ZsBPK656s", name: "Disfigure - Blank"},
+	{youtube: "_mxrDOnhO2s", name: "THE MOON MAN SONG"},
 	{youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
 	{youtube: "AOeY-nDp7hI", name: "Alan Walker - Spectre [NCS Release]"},
 	{youtube: "nnrECgBw30U", name: "Bag Raiders - Shooting Stars"},
