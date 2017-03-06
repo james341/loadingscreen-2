@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "Ssvu2yncgWU", name: "We Are One - Vexento"},
+	{youtube: "ih-fhlJtCh4", name: "The Mine Song"},
 	{youtube: "SE_QDk3dR4c", name: "Candy-Coloured Sky"},
 	{youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
 	{youtube: "dOo2jWb73JY", name: "K-391 - Earth NCS Release"},
@@ -97,6 +97,7 @@ var l_musicPlaylist = [
 	{youtube: "p7ZsBPK656s", name: "Disfigure - Blank"},
 	{youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
 	{youtube: "AOeY-nDp7hI", name: "Alan Walker - Spectre [NCS Release]"},
+	{youtube: "nnrECgBw30U", name: "Bag Raiders - Shooting Stars"},
 ];
 
 /*Random music order?*/
@@ -111,8 +112,8 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing",
-	"The Admins Are AllWays Watching So Dont Fuck Up!",
+	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
+	"The Admins Are AlWays Watching So Dont Fuck Up And behave nigger!",
 	"Please Do Not Minge In The Server?"
 ];
 
