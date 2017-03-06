@@ -114,7 +114,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"The Admins Are AlWays Watching So Dont Fuck Up And behave nigger!",
-	"Please Do Not Minge In The Server?"
+	"Mingeing In This Server Will Result In A Perma Ban With Questions Asked?"
 ];
 
 /*Random message order?*/
