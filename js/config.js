@@ -90,7 +90,7 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "ih-fhlJtCh4", name: "The Mine Song"},
-	{youtube: "SE_QDk3dR4c", name: "Candy-Coloured Sky"},
+	{youtube: "L7qLK74y3Sw", name: "Krewella - Come And Get It Razihel Remix"},
 	{youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
 	{youtube: "dOo2jWb73JY", name: "K-391 - Earth NCS Release"},
 	{youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE - My Hearts"},
@@ -98,6 +98,7 @@ var l_musicPlaylist = [
 	{youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
 	{youtube: "AOeY-nDp7hI", name: "Alan Walker - Spectre [NCS Release]"},
 	{youtube: "nnrECgBw30U", name: "Bag Raiders - Shooting Stars"},
+	{youtube: "U_ppsAcbZDo", name: "The Chainsmokers ft. Halsey - Closer"},
 ];
 
 /*Random music order?*/
@@ -114,7 +115,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"The Admins Are AlWays Watching So Dont Fuck Up And behave nigger!",
-	"Mingeing In This Server Will Result In A Perma Ban With Questions Asked?"
+	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked?"
 ];
 
 /*Random message order?*/
