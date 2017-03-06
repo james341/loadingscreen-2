@@ -96,9 +96,10 @@ var l_musicPlaylist = [
 	{youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE - My Hearts"},
 	{youtube: "_mxrDOnhO2s", name: "THE MOON MAN SONG"},
 	{youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
-	{youtube: "AOeY-nDp7hI", name: "Alan Walker - Spectre [NCS Release]"},
+	{youtube: "g3OcITL_2CU", name: "Catch Me Outside How bout Dat"},
 	{youtube: "nnrECgBw30U", name: "Bag Raiders - Shooting Stars"},
 	{youtube: "U_ppsAcbZDo", name: "The Chainsmokers ft. Halsey - Closer"},
+	{youtube: "Tu1otiBLPko", name: "TRUMP Stitches"},
 ];
 
 /*Random music order?*/
