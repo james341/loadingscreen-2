@@ -124,7 +124,7 @@ var l_messages = [
         "If you Have Any Issues Contact Us If You Don't See Us In Game 	Let Us Know Here Here chromagaming.mistforums.com/!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here M8!",
         "Donate Send Money To Taine049@gmail.com!",
-        "Donate Send Money To Taine049@gmail.com!" 
+        "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!" 
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
