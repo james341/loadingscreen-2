@@ -103,7 +103,7 @@ var l_musicPlaylist = [
 	{youtube: "nnrECgBw30U", name: "Bag Raiders - Shooting Stars"},
 	{youtube: "U_ppsAcbZDo", name: "The Chainsmokers ft. Halsey - Closer"},
 	{youtube: "Tu1otiBLPko", name: "TRUMP Stitches"},
-	{youtube: "B4EZzGCHEY8", name: "Sail - AWOLNATION"},
+	{youtube: "B4EZzGCHEY8", name: "Sail - AWOLNATION"}
 ];
 
 /*Random music order?*/
