@@ -121,8 +121,8 @@ var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"The Admins Are AlWays Watching So Dont Fuck Up. And Behave Nigger!",
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-];      "If you Have Any Issues Contact Us If You Don't See Us In Game Here http://chromagaming.mistforums.com/!"
-
+        "If you Have Any Issues Contact Us If You Don't See Us In Game Here chromagaming.mistforums.com/!"
+];
 /*Random message order?*/
 var l_messagesRandom = true;
 
