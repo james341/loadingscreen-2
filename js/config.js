@@ -95,7 +95,7 @@ var l_musicPlaylist = [
 	{youtube: "ih-fhlJtCh4", name: "The Mine Song"},
 	{youtube: "L7qLK74y3Sw", name: "Krewella - Come And Get It Razihel Remix"},
 	{youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
-	{youtube: "dOo2jWb73JY", name: "K-391 - Earth NCS Release"},
+	{youtube: "xoUVtthd7gY", name: "Bastille - Pompeii"},
 	{youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE - My Hearts"},
 	{youtube: "_mxrDOnhO2s", name: "THE MOON MAN SONG"},
 	{youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
@@ -103,6 +103,7 @@ var l_musicPlaylist = [
 	{youtube: "nnrECgBw30U", name: "Bag Raiders - Shooting Stars"},
 	{youtube: "U_ppsAcbZDo", name: "The Chainsmokers ft. Halsey - Closer"},
 	{youtube: "Tu1otiBLPko", name: "TRUMP Stitches"},
+	{youtube: "B4EZzGCHEY8", name: "Sail - AWOLNATION"},
 ];
 
 /*Random music order?*/
