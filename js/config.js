@@ -59,7 +59,8 @@ var l_bgImages = [
 	"touhou04.jpg",
 	"touhou05.jpg",
 	"touhou06.jpg",
-	"touhou07.jpg"
+	"touhou07.jpg",
+	"touhou08.jpg"
 ];
 
 /*Random background images order?*/
@@ -122,7 +123,7 @@ var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"The Admins Are AlWays Watching So Dont Fuck Up. And Behave Nigger!",
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-        "If you Have Any Issues Contact Us If You Don't See Us In Game 	Let Us Know Here Here chromagaming.mistforums.com/!",
+        "If you Have Any Issues Contact Us If You Don't See Us In Game 	Let Us Know Here Chromagaming.mistforums.com/!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here M8!",
         "Donate Send Money To Taine049@gmail.com!",
         "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!" 
