@@ -94,7 +94,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "ih-fhlJtCh4", name: "The Mine Song"},
+	{youtube: "CVZXj53i9Js", name: "Together in Electric Dream"},
 	{youtube: "L7qLK74y3Sw", name: "Krewella - Come And Get It Razihel Remix"},
 	{youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
 	{youtube: "xoUVtthd7gY", name: "Bastille - Pompeii"},
