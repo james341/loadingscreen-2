@@ -99,7 +99,7 @@ var l_musicPlaylist = [
 	{youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
 	{youtube: "xoUVtthd7gY", name: "Bastille - Pompeii"},
 	{youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE - My Hearts"},
-	{youtube: "_mxrDOnhO2s", name: "THE MOON MAN SONG"},
+	{youtube: "Wd_pU80mGXk", name: "Video Killed the Radio Star"},
 	{youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
 	{youtube: "g3OcITL_2CU", name: "Catch Me Outside How bout Dat"},
 	{youtube: "nnrECgBw30U", name: "Bag Raiders - Shooting Stars"},
