@@ -67,7 +67,9 @@ var l_bgImages = [
         "touhou012.jpg",      
         "touhou013.jpg",
         "touhou014.jpg",
-        "touhou015.jpg"
+        "touhou015.jpg",
+        "touhou016.jpg",
+        "touhou017.jpg"
 ];
 
 /*Random background images order?*/
@@ -118,7 +120,9 @@ var l_musicPlaylist = [
         {youtube: "nI26a2pDxGk", name: "Don't Tattle On Me"},
         {youtube: "ikOTW3f3xng", name: "Just Another Order"},
         {youtube: "KAo6UHYC1p8", name: "Thirsty Merc In the Summertime"},
-        {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"}
+        {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"},
+        {youtube: "0jnCcejkpjg", name: "LEATHER PANTS"},
+        {youtube: "N48chbcGDfg", name: "Raining Tacos"}
 ];
 
 /*Random music order?*/
