@@ -64,8 +64,8 @@ var l_bgImages = [
         "touhou09.jpg",
         "touhou010.jpg",
         "touhou011.jpg",
-        "touhou012.jpg"      
-        "touhou013.jpg"
+        "touhou012.jpg",      
+        "touhou013.jpg",
         "touhou014.jpg"
 ];
 
