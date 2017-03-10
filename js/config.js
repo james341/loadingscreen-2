@@ -60,7 +60,8 @@ var l_bgImages = [
 	"touhou05.jpg",
 	"touhou06.jpg",
 	"touhou07.jpg",
-	"touhou08.jpg"
+	"touhou08.jpg",
+        "touhou09.jpg"
 ];
 
 /*Random background images order?*/
@@ -129,7 +130,8 @@ var l_messages = [
         "Thanks For Playing Here Hope You Enjoy Your Time Here M8!",
         "Donate Send Money To Taine049@gmail.com!",
         "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
-        "Just Rp For Fuck Sacks!"
+        "Just Rp For Fuck Sakes!",
+        "Do Not Ask For Ranks!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
