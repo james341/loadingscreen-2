@@ -116,7 +116,7 @@ var l_musicPlaylist = [
 	{youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE - My Hearts"},
 	{youtube: "Wd_pU80mGXk", name: "Video Killed the Radio Star"},
 	{youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
-	{youtube: "4i0HDygKdLM", name: "Pocahontas - Colours Of The Wind lyrics"},
+	{youtube: "62Vjm0UGfv8", name: "Real Gone From Cars Movie"},
 	{youtube: "nnrECgBw30U", name: "Bag Raiders - Shooting Stars"},
 	{youtube: "U_ppsAcbZDo", name: "The Chainsmokers ft. Halsey - Closer"},
 	{youtube: "0BVwxMIUK1o", name: "Chip Skylark - My Shiny Teeth And Me"},
