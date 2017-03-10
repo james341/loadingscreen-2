@@ -130,7 +130,8 @@ var l_musicPlaylist = [
         {youtube: "0jnCcejkpjg", name: "LEATHER PANTS"},
         {youtube: "N48chbcGDfg", name: "Raining Tacos"},
         {youtube: "pJLILb3dmqA", name: "MLG - MY HOPE WILL NEVER DIE"},
-        {youtube: "KYUMpgpLLuU", name: "NERD RAGE"}
+        {youtube: "KYUMpgpLLuU", name: "NERD RAGE"},
+        {youtube: "I56-XAACFHs", name: "Stay Away From Me Fnaf"}
 ];
 
 /*Random music order?*/
@@ -153,7 +154,8 @@ var l_messages = [
         "Donate Send Money To Taine049@gmail.com!",
         "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
         "Just Rp For Fuck Sakes!",
-        "Do Not Ask For Ranks!"
+        "Do Not Ask For Ranks!",
+        "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Or Girl Boy So You Dot Get Banned Ok!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
