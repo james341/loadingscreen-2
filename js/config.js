@@ -104,8 +104,9 @@ var l_musicPlaylist = [
 	{youtube: "g3OcITL_2CU", name: "Catch Me Outside How bout Dat"},
 	{youtube: "nnrECgBw30U", name: "Bag Raiders - Shooting Stars"},
 	{youtube: "U_ppsAcbZDo", name: "The Chainsmokers ft. Halsey - Closer"},
-	{youtube: "Tu1otiBLPko", name: "TRUMP Stitches"},
+	{youtube: "0BVwxMIUK1o", name: "Chip Skylark - My Shiny Teeth And Me"},
 	{youtube: "B4EZzGCHEY8", name: "Sail - AWOLNATION"}
+	{youtube: "Sk5SkiBna24", name: "In A Big Country"}
 ];
 
 /*Random music order?*/
