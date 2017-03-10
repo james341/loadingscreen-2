@@ -101,12 +101,13 @@ var l_musicPlaylist = [
 	{youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE - My Hearts"},
 	{youtube: "Wd_pU80mGXk", name: "Video Killed the Radio Star"},
 	{youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
-	{youtube: "g3OcITL_2CU", name: "Catch Me Outside How bout Dat"},
+	{youtube: "4i0HDygKdLM", name: "Pocahontas - Colours Of The Wind lyrics"},
 	{youtube: "nnrECgBw30U", name: "Bag Raiders - Shooting Stars"},
 	{youtube: "U_ppsAcbZDo", name: "The Chainsmokers ft. Halsey - Closer"},
 	{youtube: "0BVwxMIUK1o", name: "Chip Skylark - My Shiny Teeth And Me"},
-	{youtube: "B4EZzGCHEY8", name: "Sail - AWOLNATION"}
-	{youtube: "Sk5SkiBna24", name: "In A Big Country"}
+	{youtube: "B4EZzGCHEY8", name: "Sail - AWOLNATION"},
+	{youtube: "Sk5SkiBna24", name: "In A Big Country"},
+        {youtube: "IeqtAB1WgEw", name: "KC & The Sunshine Band - Give It Up [HQ]"}
 ];
 
 /*Random music order?*/
@@ -127,7 +128,8 @@ var l_messages = [
         "If you Have Any Issues Contact Us If You Don't See Us In Game 	Let Us Know Here Chromagaming.mistforums.com/!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here M8!",
         "Donate Send Money To Taine049@gmail.com!",
-        "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!" 
+        "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
+        "Just Rp For Fuck Sacks!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
