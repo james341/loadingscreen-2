@@ -65,6 +65,8 @@ var l_bgImages = [
         "touhou010.jpg",
         "touhou011.jpg",
         "touhou012.jpg"      
+        "touhou013.jpg"
+        "touhou014.jpg"
 ];
 
 /*Random background images order?*/
@@ -112,6 +114,7 @@ var l_musicPlaylist = [
 	{youtube: "B4EZzGCHEY8", name: "Sail - AWOLNATION"},
 	{youtube: "Sk5SkiBna24", name: "In A Big Country"},
         {youtube: "IeqtAB1WgEw", name: "KC & The Sunshine Band - Give It Up [HQ]"}
+        {youtube: "nI26a2pDxGk", name: "Don't Tattle On Me"}
 ];
 
 /*Random music order?*/
