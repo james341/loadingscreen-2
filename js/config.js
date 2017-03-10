@@ -125,7 +125,9 @@ var l_musicPlaylist = [
         {youtube: "KAo6UHYC1p8", name: "Thirsty Merc In the Summertime"},
         {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"},
         {youtube: "0jnCcejkpjg", name: "LEATHER PANTS"},
-        {youtube: "N48chbcGDfg", name: "Raining Tacos"}
+        {youtube: "N48chbcGDfg", name: "Raining Tacos"},
+        {youtube: "pJLILb3dmqA", name: "MLG - MY HOPE WILL NEVER DIE"},
+        {youtube: "KYUMpgpLLuU", name: "NERD RAGE"}
 ];
 
 /*Random music order?*/
