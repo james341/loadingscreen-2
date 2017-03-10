@@ -113,7 +113,7 @@ var l_musicPlaylist = [
 	{youtube: "0BVwxMIUK1o", name: "Chip Skylark - My Shiny Teeth And Me"},
 	{youtube: "B4EZzGCHEY8", name: "Sail - AWOLNATION"},
 	{youtube: "Sk5SkiBna24", name: "In A Big Country"},
-        {youtube: "IeqtAB1WgEw", name: "KC & The Sunshine Band - Give It Up [HQ]"}
+        {youtube: "IeqtAB1WgEw", name: "KC & The Sunshine Band - Give It Up [HQ]"},
         {youtube: "nI26a2pDxGk", name: "Don't Tattle On Me"}
 ];
 
