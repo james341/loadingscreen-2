@@ -66,7 +66,8 @@ var l_bgImages = [
         "touhou011.jpg",
         "touhou012.jpg",      
         "touhou013.jpg",
-        "touhou014.jpg"
+        "touhou014.jpg",
+        "touhou015.jpg"
 ];
 
 /*Random background images order?*/
@@ -114,7 +115,10 @@ var l_musicPlaylist = [
 	{youtube: "B4EZzGCHEY8", name: "Sail - AWOLNATION"},
 	{youtube: "Sk5SkiBna24", name: "In A Big Country"},
         {youtube: "IeqtAB1WgEw", name: "KC & The Sunshine Band - Give It Up [HQ]"},
-        {youtube: "nI26a2pDxGk", name: "Don't Tattle On Me"}
+        {youtube: "nI26a2pDxGk", name: "Don't Tattle On Me"},
+        {youtube: "ikOTW3f3xng", name: "Just Another Order"},
+        {youtube: "KAo6UHYC1p8", name: "Thirsty Merc In the Summertime"},
+        {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"}
 ];
 
 /*Random music order?*/
