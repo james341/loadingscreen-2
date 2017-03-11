@@ -156,7 +156,7 @@ var l_messages = [
         "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
         "Just Rp For Fuck Sakes!",
         "Do Not Ask For Ranks!",
-        "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Or Girl Boy So You Dot Get Banned Ok!"
+        "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Boy Or Girl  So You Dont Get Banned Ok!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
