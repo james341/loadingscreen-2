@@ -113,7 +113,7 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "CVZXj53i9Js", name: "Together in Electric Dream"},
-	{youtube: "L7qLK74y3Sw", name: "Krewella - Come And Get It Razihel Remix"},
+	{youtube: "K5G1FmU-ldg", name: "Haddaway - What is Love"},
 	{youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
 	{youtube: "xoUVtthd7gY", name: "Bastille - Pompeii"},
 	{youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE - My Hearts"},
@@ -135,6 +135,8 @@ var l_musicPlaylist = [
         {youtube: "pJLILb3dmqA", name: "MLG - MY HOPE WILL NEVER DIE"},
         {youtube: "KYUMpgpLLuU", name: "NERD RAGE"},
         {youtube: "I56-XAACFHs", name: "Stay Away From Me Fnaf"}
+        {youtube: "dQw4w9WgXcQ", name: "Never Gonna Give You Up"}
+        
 ];
 
 /*Random music order?*/
