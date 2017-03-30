@@ -135,7 +135,7 @@ var l_musicPlaylist = [
         {youtube: "pJLILb3dmqA", name: "MLG - MY HOPE WILL NEVER DIE"},
         {youtube: "KYUMpgpLLuU", name: "NERD RAGE"},
         {youtube: "I56-XAACFHs", name: "Stay Away From Me Fnaf"},
-        {youtube: "dQw4w9WgXcQ", name: "Never Gonna Give You Up"}
+        {youtube: "IsYG5Beho1A", name: "Red Hot Chili Peppers"}
         
 ];
 
