@@ -130,9 +130,9 @@ var l_musicPlaylist = [
         {youtube: "pJLILb3dmqA", name: "MLG - MY HOPE WILL NEVER DIE"},
         {youtube: "KYUMpgpLLuU", name: "NERD RAGE"},
         {youtube: "I56-XAACFHs", name: "Stay Away From Me Fnaf"},
-        {youtube: "LHgdjovxa1Q", name: "MLG ALPHABET"}
         {youtube: "tII-duWFrQ0", name: "shrek is love, shrek is life"}
-        {youtube: "5NkCA2ahpTQ", name: "Video de NCS (My Heart) | Editado con MLG"}
+      
+        
 ];
 
 /*Random music order?*/
