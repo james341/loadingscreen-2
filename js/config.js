@@ -125,7 +125,7 @@ var l_musicPlaylist = [
         {youtube: "YAG4k5f9ceQ", name: "take me down like a domino"},
         {youtube: "KAo6UHYC1p8", name: "Thirsty Merc In the Summertime"},
         {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"},
-        {youtube: "ltZ6dtr1Abo", name: "Turn Down for What - MLG Airhorn Remix"},
+        {youtube: "dX3k_QDnzHE", name: "M83 'Midnight City' Official video"},
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
         {youtube: "pJLILb3dmqA", name: "MLG - MY HOPE WILL NEVER DIE"},
         {youtube: "s_KhOempeQE", name: "if you close your eyes"},
