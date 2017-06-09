@@ -112,25 +112,25 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "Q0HeO9h-UNI", name: "MLG Loading Screen 1"},
-	{youtube: "UVJWm5wAfrU", name: "MLG Loading Screen Music 2"},
-	{youtube: "r-GYMjnyFwo", name: "MLG Loading Screen Music 3"},
+	{youtube: "ylbNYjXgh3M", name: "you reposted in the wrong neighborhood"},
+	{youtube: "bR-s4ReIxJo", name: "Foster the People - Pumped up Kicks remix"},
+	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out"},
 	{youtube: "q1ULJ92aldE", name: "Syn Cole - Feel Good"},
 	{youtube: "ChK8TZCItyY", name: "Windows Song Trap Remix"},
 	{youtube: "feA64wXhbjo", name: "Bag Raiders - Shooting Stars"},
 	{youtube: "oxnqx6COUtI", name: "The Notorious B.I.G"},
-	{youtube: "tXpcwWCXfkk", name: "Robbie Williams"},
+	{youtube: "1b2MaQoIbRA", name: "A Himitsu - Adventures"},
         {youtube: "OgqDO1wxQ8E", name: "Over The Horizon"},
-        {youtube: "49ufqkrQSZU", name: "MLG Song Mix"},
+        {youtube: "owrhKIN3Y90", name: "Carefree - Kevin MacLeod"},
         {youtube: "YAG4k5f9ceQ", name: "take me down like a domino"},
-        {youtube: "KAo6UHYC1p8", name: "Thirsty Merc In the Summertime"},
+        {youtube: "n4OS3MsWEtw", name: "Lily Allen - Smile"},
         {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"},
         {youtube: "dX3k_QDnzHE", name: "M83 'Midnight City' Official video"},
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
-        {youtube: "pJLILb3dmqA", name: "MLG - MY HOPE WILL NEVER DIE"},
+        {youtube: "1AJmKkU5POA", name: "Haven't Met You Yet"},
         {youtube: "s_KhOempeQE", name: "if you close your eyes"},
         {youtube: "VoQcGrSYQXI", name: "You And Me"},
-        {youtube: "tII-duWFrQ0", name: "shrek is love, shrek is life"}
+        {youtube: "RPto4nRUsB8", name: "Odjbox - Otto Croy"}
       
         
 ];
