@@ -127,12 +127,13 @@ var l_musicPlaylist = [
         {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"},
         {youtube: "dX3k_QDnzHE", name: "M83 'Midnight City' Official video"},
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
-        {youtube: "1AJmKkU5POA", name: "Haven't Met You Yet"},
+        {youtube: "RLpPpQk6h7A", name: "Nightcore - Cosby Sweater"},
         {youtube: "s_KhOempeQE", name: "if you close your eyes"},
         {youtube: "VoQcGrSYQXI", name: "You And Me"},
         {youtube: "RPto4nRUsB8", name: "Odjbox - Otto Croy"}
-      
+        {youtube: "v1hBPzPGrUA", name: "Poker Face Lyrics"}
         
+
 ];
 
 /*Random music order?*/
