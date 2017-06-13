@@ -129,11 +129,10 @@ var l_musicPlaylist = [
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
         {youtube: "RLpPpQk6h7A", name: "Nightcore - Cosby Sweater"},
         {youtube: "s_KhOempeQE", name: "if you close your eyes"},
-        {youtube: "VoQcGrSYQXI", name: "You And Me"},
+        {youtube: "v1hBPzPGrUA", name: "Poker Face Lyrics"},
         {youtube: "RPto4nRUsB8", name: "Odjbox - Otto Croy"}
-        {youtube: "v1hBPzPGrUA", name: "Poker Face Lyrics"}
         
-
+        
 ];
 
 /*Random music order?*/
