@@ -123,7 +123,7 @@ var l_musicPlaylist = [
         {youtube: "g7KZAoj4YH0", name: "Into The Clouds Nicolai Heidlas Music"},
         {youtube: "owrhKIN3Y90", name: "Carefree - Kevin MacLeod"},
         {youtube: "YAG4k5f9ceQ", name: "take me down like a domino"},
-        {youtube: "n4OS3MsWEtw", name: "Lily Allen - Smile"},
+        {youtube: "liEHDMrnUcc", name: "Rick and Morty - Goodbye Moonmen"},
         {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"},
         {youtube: "dX3k_QDnzHE", name: "M83 'Midnight City' Official video"},
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
