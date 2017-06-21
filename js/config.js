@@ -113,14 +113,14 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "ylbNYjXgh3M", name: "you reposted in the wrong neighborhood"},
-	{youtube: "bR-s4ReIxJo", name: "Foster the People - Pumped up Kicks remix"},
+	{youtube: "nkMUMroTcTg", name: "Danielle Bregoli - Cash Me Outside"},
 	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out"},
 	{youtube: "q1ULJ92aldE", name: "Syn Cole - Feel Good"},
 	{youtube: "ChK8TZCItyY", name: "Windows Song Trap Remix"},
 	{youtube: "feA64wXhbjo", name: "Bag Raiders - Shooting Stars"},
 	{youtube: "oxnqx6COUtI", name: "The Notorious B.I.G"},
 	{youtube: "1b2MaQoIbRA", name: "A Himitsu - Adventures"},
-        {youtube: "OgqDO1wxQ8E", name: "Over The Horizon"},
+        {youtube: "g7KZAoj4YH0", name: "Into The Clouds Nicolai Heidlas Music"},
         {youtube: "owrhKIN3Y90", name: "Carefree - Kevin MacLeod"},
         {youtube: "YAG4k5f9ceQ", name: "take me down like a domino"},
         {youtube: "n4OS3MsWEtw", name: "Lily Allen - Smile"},
@@ -129,7 +129,7 @@ var l_musicPlaylist = [
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
         {youtube: "RLpPpQk6h7A", name: "Nightcore - Cosby Sweater"},
         {youtube: "s_KhOempeQE", name: "if you close your eyes"},
-        {youtube: "v1hBPzPGrUA", name: "Poker Face Lyrics"},
+        {youtube: "GZcUFwBw9OA", name: "Rae Sremmurd- Come Get Her"},
         {youtube: "RPto4nRUsB8", name: "Odjbox - Otto Croy"}
         
         
