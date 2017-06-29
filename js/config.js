@@ -121,7 +121,7 @@ var l_musicPlaylist = [
 	{youtube: "oxnqx6COUtI", name: "The Notorious B.I.G"},
 	{youtube: "1b2MaQoIbRA", name: "A Himitsu - Adventures"},
         {youtube: "hPokJFyUq1s", name: "Fox Stevenson - All This Time"},
-        {youtube: "owrhKIN3Y90", name: "Carefree - Kevin MacLeod"},
+        {youtube: "q7SQcA8ViL8", name: "Colours"},
         {youtube: "__CRWE-L45k", name: "Electro-Light - Symbolism"},
         {youtube: "liEHDMrnUcc", name: "Rick and Morty - Goodbye Moonmen"},
         {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"},
