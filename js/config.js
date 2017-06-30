@@ -115,7 +115,7 @@ var l_musicPlaylist = [
 	{youtube: "ylbNYjXgh3M", name: "you reposted in the wrong neighborhood"},
 	{youtube: "nkMUMroTcTg", name: "Danielle Bregoli - Cash Me Outside"},
 	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out"},
-	{youtube: "q1ULJ92aldE", name: "Syn Cole - Feel Good"},
+	{youtube: "serV18MirGg", name: "Pat Benatar - Hit Me With Your Best Shot"},
 	{youtube: "EP625xQIGzs", name: "Tobu - Hope"},
 	{youtube: "feA64wXhbjo", name: "Bag Raiders - Shooting Stars"},
 	{youtube: "oxnqx6COUtI", name: "The Notorious B.I.G"},
@@ -150,13 +150,13 @@ var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"The Admins Are AlWays Watching So Dont Fuck Up. And Behave Nigger!",
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-        "If you Have Any Issues Contact Us If You Don't See Us In Game 	Let Us Know Here Chromagaming.mistforums.com/!",
-        "Thanks For Playing Here Hope You Enjoy Your Time Here M8!",
+        "If you Have Any Issues With Rule Brakers Contact Us Here http://ultragamingrp.mistforums.com/category/player-reports-64693!",
+        "Thanks For Playing Here Hope You Enjoy Your Time Here!",
         "Donate Send Money To Taine049@gmail.com!",
         "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
-        "Just Rp For Fuck Sakes!",
+        "Try Not To Piss Off The Owner He May Ban Your Gay Cock Sucking Ass Out Of Here Xd!",
         "Do Not Ask For Ranks!",
-        "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Boy Or Girl  So You Dont Get Banned Ok!"
+        "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Boy Or Girl  So You Dont Get Banned!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
