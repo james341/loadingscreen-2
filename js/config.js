@@ -112,17 +112,17 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "ylbNYjXgh3M", name: "you reposted in the wrong neighborhood"},
+	{youtube: "YlnjcPrT7xg", name: "FNaF World Adventure Theme"},
 	{youtube: "nkMUMroTcTg", name: "Danielle Bregoli - Cash Me Outside"},
 	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out"},
 	{youtube: "serV18MirGg", name: "Pat Benatar - Hit Me With Your Best Shot"},
 	{youtube: "EP625xQIGzs", name: "Tobu - Hope"},
-	{youtube: "feA64wXhbjo", name: "Bag Raiders - Shooting Stars"},
-	{youtube: "oxnqx6COUtI", name: "The Notorious B.I.G"},
+	{youtube: "feA64wXhbjo", name: "Boys Of Summer"},
+	{youtube: "Z1k8Kk5VNLs", name: "The Notorious B.I.G"},
 	{youtube: "1b2MaQoIbRA", name: "A Himitsu - Adventures"},
         {youtube: "hPokJFyUq1s", name: "Fox Stevenson - All This Time"},
-        {youtube: "q7SQcA8ViL8", name: "Colours"},
-        {youtube: "__CRWE-L45k", name: "Electro-Light - Symbolism"},
+        {youtube: "KqnxVO5QiCs", name: "Colours"},
+        {youtube: "__CRWE-L45k", name: "The Best Day Ever"},
         {youtube: "liEHDMrnUcc", name: "Rick and Morty - Goodbye Moonmen"},
         {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"},
         {youtube: "dX3k_QDnzHE", name: "M83 'Midnight City' Official video"},
