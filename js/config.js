@@ -129,7 +129,7 @@ var l_musicPlaylist = [
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
         {youtube: "4lXBHD5C8do", name: "Tobu & Itro - Sunburst"},
         {youtube: "6-hRrKFkAQE", name: "WRLD - By Design"},
-        {youtube: "GZcUFwBw9OA", name: "Rae Sremmurd- Come Get Her"},
+        {youtube: "Yim4--J44gk", name: "OneRepublic - Counting Stars"},
         {youtube: "RPto4nRUsB8", name: "Odjbox - Otto Croy"}
         
         
