@@ -157,7 +157,7 @@ var l_messages = [
         "Try Not To Piss Off The Owner He May Ban Your Gay Cock Sucking Ass Out Of Here Xd!",
         "Do Not Ask For Ranks!",
         "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Boy Or Girl  So You Dont Get Banned!",
-        "Crashing The Will Get You Ip Banned!"
+        "Crashing The Server Will Get You Ip Banned!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
