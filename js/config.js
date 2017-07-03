@@ -117,8 +117,8 @@ var l_musicPlaylist = [
 	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out"},
 	{youtube: "serV18MirGg", name: "Pat Benatar - Hit Me With Your Best Shot"},
 	{youtube: "EP625xQIGzs", name: "Tobu - Hope"},
-	{youtube: "feA64wXhbjo", name: "Boys Of Summer"},
-	{youtube: "Z1k8Kk5VNLs", name: "The Notorious B.I.G"},
+	{youtube: "rqwDRl2puCM", name: "Boys Of Summer"},
+	{youtube: "BJ7NVjZ-Eyg", name: "I Ran So Far Away"},
 	{youtube: "1b2MaQoIbRA", name: "A Himitsu - Adventures"},
         {youtube: "hPokJFyUq1s", name: "Fox Stevenson - All This Time"},
         {youtube: "KqnxVO5QiCs", name: "Colours"},
@@ -156,7 +156,8 @@ var l_messages = [
         "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
         "Try Not To Piss Off The Owner He May Ban Your Gay Cock Sucking Ass Out Of Here Xd!",
         "Do Not Ask For Ranks!",
-        "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Boy Or Girl  So You Dont Get Banned!"
+        "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Boy Or Girl  So You Dont Get Banned!",
+        "Crashing The Will Get You Ip Banned!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
