@@ -113,9 +113,9 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "YlnjcPrT7xg", name: "FNaF World Adventure Theme"},
-	{youtube: "nkMUMroTcTg", name: "Danielle Bregoli - Cash Me Outside"},
+	{youtube: "nfBsOYovRHA", name: "Atomic Kitten - Whole Again"},
 	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out"},
-	{youtube: "serV18MirGg", name: "Pat Benatar - Hit Me With Your Best Shot"},
+	{youtube: "PyngXY613L8", name: "She's So High - Tal Bachman"},
 	{youtube: "KaLFZj3wPsc", name: "Hawaiian Roller Coaster"},
 	{youtube: "rqwDRl2puCM", name: "Boys Of Summer"},
 	{youtube: "BJ7NVjZ-Eyg", name: "I Ran So Far Away"},
