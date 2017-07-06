@@ -112,17 +112,17 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "YlnjcPrT7xg", name: "FNaF World Adventure Theme"},
+	{youtube: "feA64wXhbjo", name: "Bag Raiders - Shooting Stars"},
 	{youtube: "nfBsOYovRHA", name: "Atomic Kitten - Whole Again"},
 	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out"},
 	{youtube: "PyngXY613L8", name: "She's So High - Tal Bachman"},
 	{youtube: "KaLFZj3wPsc", name: "Hawaiian Roller Coaster"},
 	{youtube: "rqwDRl2puCM", name: "Boys Of Summer"},
 	{youtube: "BJ7NVjZ-Eyg", name: "I Ran So Far Away"},
-	{youtube: "1b2MaQoIbRA", name: "A Himitsu - Adventures"},
-        {youtube: "WeGycrMGGkY", name: "Under the Sea"},
+	{youtube: "u4cFNwqX8hA", name: "StarShips - Nicki Minaj"},
+        {youtube: "Rgm7YYi3HMQ", name: "wish you never looked at me that"},
         {youtube: "x32pzGAwqLo", name: "Colours"},
-        {youtube: "__CRWE-L45k", name: "The Best Day Ever"},
+        {youtube: "aDaDU8yjgF8", name: "The Legend of Zelda - Majora's Mask - Complete Soundtrack"},
         {youtube: "liEHDMrnUcc", name: "Rick and Morty - Goodbye Moonmen"},
         {youtube: "iH2a30LTeWw", name: "Grease is the word"},
         {youtube: "8L1CDFvHTr4", name: "Fireflies - Owl City"},
