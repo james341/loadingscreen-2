@@ -112,7 +112,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "feA64wXhbjo", name: "Bag Raiders - Shooting Stars"},
+	{youtube: "crCw-97RJNQ", name: "Somewhere on Fullerton"},
 	{youtube: "nfBsOYovRHA", name: "Atomic Kitten - Whole Again"},
 	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out"},
 	{youtube: "H0m3Lfkzcw4", name: "Happy - Pharrell Williams"},
@@ -121,10 +121,10 @@ var l_musicPlaylist = [
 	{youtube: "SzrUuMXcDrA", name: "i'm not going to write you a love song"},
 	{youtube: "u4cFNwqX8hA", name: "StarShips - Nicki Minaj"},
         {youtube: "Rgm7YYi3HMQ", name: "wish you never looked at me that"},
-        {youtube: "x32pzGAwqLo", name: "Colours"},
+        {youtube: "0DTLcR5awn0", name: "You're gonna go far kid lyrics - The Offspring"},
         {youtube: "aDaDU8yjgF8", name: "The Legend of Zelda - Majora's Mask - Complete Soundtrack"},
         {youtube: "liEHDMrnUcc", name: "Rick and Morty - Goodbye Moonmen"},
-        {youtube: "iH2a30LTeWw", name: "Grease is the word"},
+        {youtube: "j248G1OlFio", name: "iPhones Gay (Offspring Parody) ~ Rucka Rucka Ali"},
         {youtube: "8L1CDFvHTr4", name: "Fireflies - Owl City"},
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
         {youtube: "4lXBHD5C8do", name: "Tobu & Itro - Sunburst"},
