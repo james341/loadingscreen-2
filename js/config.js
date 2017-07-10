@@ -124,7 +124,7 @@ var l_musicPlaylist = [
         {youtube: "0DTLcR5awn0", name: "You're gonna go far kid lyrics - The Offspring"},
         {youtube: "vZv9-TWdBJM", name: "Dr. Dre - The Next Episode (San Holo Remix)"},
         {youtube: "liEHDMrnUcc", name: "Rick and Morty - Goodbye Moonmen"},
-        {youtube: "j248G1OlFio", name: "iPhones Gay (Offspring Parody) ~ Rucka Rucka Ali"},
+        {youtube: "5LI5QZVUU98", name: "Jim Yosef - Arrow"},
         {youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
         {youtube: "4lXBHD5C8do", name: "Tobu & Itro - Sunburst"},
