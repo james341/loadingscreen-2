@@ -123,7 +123,7 @@ var l_musicPlaylist = [
         {youtube: "tDexBj46oNI", name: "Up In My Jam"},
         {youtube: "0DTLcR5awn0", name: "You're gonna go far kid lyrics - The Offspring"},
         {youtube: "vZv9-TWdBJM", name: "Dr. Dre - The Next Episode (San Holo Remix)"},
-        {youtube: "liEHDMrnUcc", name: "Rick and Morty - Goodbye Moonmen"},
+        {youtube: "p7ZsBPK656s", name: "Disfigure - Blank"},
         {youtube: "5LI5QZVUU98", name: "Jim Yosef - Arrow"},
         {youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
