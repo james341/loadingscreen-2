@@ -150,7 +150,7 @@ var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"The Admins Are AlWays Watching So Dont Fuck Up. And Behave Nigger!",
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-        "If you Have Any Issues With Rule Brakers Contact Us Here http://ultragamingrp.mistforums.com/category/player-reports-64693!",
+        "If you Have Any Issues With Rule Brakers Contact Us Here http://freedomnetworks1.mistforums.com/category/player-reports-64693!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here!",
         "Donate Send Money To Taine049@gmail.com!",
         "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
