@@ -112,7 +112,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "8DAL4muQUC8", name: "Take It Easy - MBB"},
+	{youtube: "EP625xQIGzs", name: "Tobu - Hope"},
 	{youtube: "Ssvu2yncgWU", name: "We Are One - Vexento"},
 	{youtube: "AOeY-nDp7hI", name: "Alan Walker - Spectre"},
 	{youtube: "dOo2jWb73JY", name: "K-391 - Earth"},
@@ -120,15 +120,15 @@ var l_musicPlaylist = [
 	{youtube: "ibj2vI76XwI", name: "Candy-Coloured Sky"},
 	{youtube: "0BPu5m63_go", name: "Imagine Dragons"},
 	{youtube: "I8mS8Pfgros", name: "twenty one pilots"},
-        {youtube: "tDexBj46oNI", name: "Up In My Jam"},
+        {youtube: "MReNmBOspAg", name: "Jim Yosef & Anna Yvette - Courage"},
         {youtube: "0DTLcR5awn0", name: "You're gonna go far kid lyrics - The Offspring"},
-        {youtube: "vZv9-TWdBJM", name: "Dr. Dre - The Next Episode (San Holo Remix)"},
+        {youtube: "s_KhOempeQE", name: "Pompeii - Bastille if you close your eyes lyrics"},
         {youtube: "p7ZsBPK656s", name: "Disfigure - Blank"},
         {youtube: "5LI5QZVUU98", name: "Jim Yosef - Arrow"},
         {youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
         {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
         {youtube: "4lXBHD5C8do", name: "Tobu & Itro - Sunburst"},
-        {youtube: "6-hRrKFkAQE", name: "WRLD - By Design"},
+        {youtube: "vbXmx80ahiY", name: "Dance Till You're DIP"},
         {youtube: "Yim4--J44gk", name: "OneRepublic - Counting Stars"},
         {youtube: "RPto4nRUsB8", name: "Odjbox - Otto Croy"}
         
