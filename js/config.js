@@ -114,7 +114,7 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "BY3_AhqNDoQ", name: "I Gotta Feeling"},
 	{youtube: "Ssvu2yncgWU", name: "We Are One - Vexento"},
-	{youtube: "VDSDRVsEInQ", name: "Beyond The Sea"},
+	{youtube: "q1ULJ92aldE", name: "Syn Cole - Feel Good"},
 	{youtube: "dOo2jWb73JY", name: "K-391 - Earth"},
 	{youtube: "Y5TnYaZ31b0", name: "Waysons - Running"},
 	{youtube: "dokspLaZqGE", name: "Electric Joy Ride"},
@@ -130,7 +130,7 @@ var l_musicPlaylist = [
         {youtube: "4lXBHD5C8do", name: "Tobu & Itro - Sunburst"},
         {youtube: "vbXmx80ahiY", name: "Dance Till You're DIP"},
         {youtube: "Yim4--J44gk", name: "OneRepublic - Counting Stars"},
-        {youtube: "RPto4nRUsB8", name: "Odjbox - Otto Croy"}
+        {youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"}
         
         
 ];
@@ -156,7 +156,7 @@ var l_messages = [
         "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks!",
-        "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Boy Or Girl  So You Dont Get Banned!",
+        "I Dont Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get You Ip Banned!"
 ];
 /*Random message order?*/
