@@ -112,13 +112,13 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "BY3_AhqNDoQ", name: "I Gotta Feeling"},
+	{youtube: "Mc1i8fD4VE", name: "Puffin Rock Theme Song"},
 	{youtube: "Ssvu2yncgWU", name: "We Are One - Vexento"},
 	{youtube: "q1ULJ92aldE", name: "Syn Cole - Feel Good"},
-	{youtube: "dOo2jWb73JY", name: "K-391 - Earth"},
+	{youtube: "liEHDMrnUcc", name: "Rick and Morty - Goodbye Moonmen"},
 	{youtube: "Y5TnYaZ31b0", name: "Waysons - Running"},
 	{youtube: "dokspLaZqGE", name: "Electric Joy Ride"},
-	{youtube: "0BPu5m63_go", name: "Imagine Dragons"},
+	{youtube: "moTWIO55UeY", name: "Dot in the Pouch of a Red Kangaroo"},
 	{youtube: "qenl_2kIzIg", name: "Protegent Complete Security Antivirus Software"},
         {youtube: "MReNmBOspAg", name: "Jim Yosef & Anna Yvette - Courage"},
         {youtube: "CAV0XrbEwNc", name: "Cee Lo Green - FUCK YOU"},
@@ -128,7 +128,7 @@ var l_musicPlaylist = [
         {youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
         {youtube: "Zyi9QUB-fyo", name: "Smells Like Summer Del"},
         {youtube: "4lXBHD5C8do", name: "Tobu & Itro - Sunburst"},
-        {youtube: "vbXmx80ahiY", name: "Dance Till You're DIP"},
+        {youtube: "FdDDiEkRbvQ", name: "ISISTEP - ALLAHU AKBAR REMIX VIDEO 2015 ISIS"},
         {youtube: "Yim4--J44gk", name: "OneRepublic - Counting Stars"},
         {youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"}
         
@@ -152,7 +152,7 @@ var l_messages = [
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
         "If you Have Any Issues With Rule Brakers Contact Us Here http://freedomnetworks1.mistforums.com/category/player-reports-64693!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here!",
-        "Donate Send Money To Taine049@gmail.com!",
+        "Install Protegent 360 On Your Pc To Day",
         "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks!",
