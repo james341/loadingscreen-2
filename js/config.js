@@ -133,7 +133,9 @@ var l_musicPlaylist = [
         {youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
         {youtube: "r6BC_uQEEmM", name: "Little Talks-Of Monsters and Men"},
         {youtube: "2fAjyFbyb4o", name: "Hush, Hush, Hush (Here Comes The Boogeyman"},
-        {youtube: "0-JzHyJSPmk", name: "Galantis - No Money"}
+        {youtube: "SE_QDk3dR4c", name: "Candy-Coloured Sky"},
+	{youtube: "0-JzHyJSPmk", name: "Galantis - No Money"}
+
 
 
 ];
@@ -153,7 +155,7 @@ var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"The Admins Are AlWays Watching So Dont Fuck Up. And Behave Nigger!",
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-        "If you Have Any Issues With Rule Brakers Contact Us Here http://freedomnetworks1.mistforums.com/category/player-reports-64693!",
+        "Don't You Dare Disconnect From Here Or We Will Hunt You Down And Destroy You",
         "Thanks For Playing Here Hope You Enjoy Your Time Here!",
         "Install Protegent 360 On Your Pc To Day",
         "Here To Advertise Your Server ? Well Then You Can Fuck Off!", 
