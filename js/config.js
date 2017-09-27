@@ -112,7 +112,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "Mc1i8fD4VE", name: "Puffin Rock Theme Song"},
+	{youtube: "u4cFNwqX8hA", name: "StarShips - Nicki Minaj"},
 	{youtube: "Ssvu2yncgWU", name: "We Are One - Vexento"},
 	{youtube: "q1ULJ92aldE", name: "Syn Cole - Feel Good"},
 	{youtube: "liEHDMrnUcc", name: "Rick and Morty - Goodbye Moonmen"},
@@ -121,7 +121,7 @@ var l_musicPlaylist = [
 	{youtube: "moTWIO55UeY", name: "Dot in the Pouch of a Red Kangaroo"},
 	{youtube: "qenl_2kIzIg", name: "Protegent Complete Security Antivirus Software"},
         {youtube: "MReNmBOspAg", name: "Jim Yosef & Anna Yvette - Courage"},
-        {youtube: "CAV0XrbEwNc", name: "Cee Lo Green - FUCK YOU"},
+        {youtube: "bR-s4ReIxJo", name: "Pumped up Kicks"},
         {youtube: "s_KhOempeQE", name: "Pompeii - Bastille if you close your eyes lyrics"},
         {youtube: "p7ZsBPK656s", name: "Disfigure - Blank"},
         {youtube: "5LI5QZVUU98", name: "Jim Yosef - Arrow"},
@@ -130,9 +130,12 @@ var l_musicPlaylist = [
         {youtube: "4lXBHD5C8do", name: "Tobu & Itro - Sunburst"},
         {youtube: "FdDDiEkRbvQ", name: "ISISTEP - ALLAHU AKBAR REMIX VIDEO 2015 ISIS"},
         {youtube: "Yim4--J44gk", name: "OneRepublic - Counting Stars"},
-        {youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"}
-        
-        
+        {youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
+        {youtube: "r6BC_uQEEmM", name: "Little Talks-Of Monsters and Men"},
+        {youtube: "2fAjyFbyb4o", name: "Hush, Hush, Hush (Here Comes The Boogeyman"},
+        {youtube: "0-JzHyJSPmk", name: "Galantis - No Money"}
+
+
 ];
 
 /*Random music order?*/
@@ -153,7 +156,7 @@ var l_messages = [
         "If you Have Any Issues With Rule Brakers Contact Us Here http://freedomnetworks1.mistforums.com/category/player-reports-64693!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here!",
         "Install Protegent 360 On Your Pc To Day",
-        "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
+        "Here To Advertise Your Server ? Well Then You Can Fuck Off!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks!",
         "I Dont Know What Else To Fucking Say AnyMore Just Be Good Ok!",
