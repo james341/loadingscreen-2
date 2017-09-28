@@ -134,7 +134,10 @@ var l_musicPlaylist = [
         {youtube: "r6BC_uQEEmM", name: "Little Talks-Of Monsters and Men"},
         {youtube: "2fAjyFbyb4o", name: "Hush, Hush, Hush (Here Comes The Boogeyman"},
         {youtube: "SE_QDk3dR4c", name: "Candy-Coloured Sky"},
-	{youtube: "0-JzHyJSPmk", name: "Galantis - No Money"}
+	{youtube: "0-JzHyJSPmk", name: "Galantis - No Money"},
+        {youtube: "nX1VeFBo9AQ", name: "James Blunt - You're Beautiful"},
+        {youtube: "mKWtYOswmyk", name: "You had a bad day"},
+        {youtube: "fh5LQHwTAMA", name: "Its Been Raining For So Long"}
 
 
 
@@ -153,14 +156,14 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
-	"The Admins Are AlWays Watching So Dont Fuck Up. And Behave Nigger!",
+	"The Admins Are AlWays Watching So Dont Fuck Up. And Please Behave!",
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-        "Don't You Dare Disconnect From Here Or We Will Hunt You Down And Destroy You",
+        "Don't You Dare Disconnect From Here Or We Will Hunt You Down And Destroy You!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here!",
-        "Install Protegent 360 On Your Pc To Day",
-        "Here To Advertise Your Server ? Well Then You Can Fuck Off!", 
+        "Invite Your Friends For Your Chance To Win Some Really Cool Stuff!",
+        "Here To Advertise Your Server ? Well Then You Can Fuck Off Out Of Here!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
-        "Do Not Ask For Ranks!",
+        "Do Not Ask For Ranks Please Apply On The Forums!",
         "I Dont Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get You Ip Banned!"
 ];
