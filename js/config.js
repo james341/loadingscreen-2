@@ -137,8 +137,14 @@ var l_musicPlaylist = [
 	{youtube: "0-JzHyJSPmk", name: "Galantis - No Money"},
         {youtube: "nX1VeFBo9AQ", name: "James Blunt - You're Beautiful"},
         {youtube: "mKWtYOswmyk", name: "You had a bad day"},
-        {youtube: "fh5LQHwTAMA", name: "Its Been Raining For So Long"}
-
+        {youtube: "fh5LQHwTAMA", name: "Its Been Raining For So Long"},
+        {youtube: "Ss0kFNUP4P4", name: "I Don't Wanna Miss a Thing"},
+        {youtube: "T9TlJOfMYtA", name: "lily allen her life's already over"},
+        {youtube: "pPGa6vzfvqk", name: "Tony Orr- Up the fucking ass"},
+        {youtube: "ZZ5LpwO-An4", name: "HEYYEYAAEYAAAEYAEYAA"},
+        {youtube: "qnxDslfsAy4&t=2s", name: "Hello Rucka Ali"},
+        {youtube: "CuZBfX2mW7s", name: "what does the fox say"}
+        
 
 
 ];
@@ -166,6 +172,7 @@ var l_messages = [
         "Do Not Ask For Ranks Please Apply On The Forums!",
         "I Dont Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get You Ip Banned!"
+        "Poseidon Is Gay XD :)!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
