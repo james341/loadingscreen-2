@@ -171,7 +171,7 @@ var l_messages = [
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Please Apply On The Forums!",
         "I Dont Know What Else To Fucking Say AnyMore Just Be Good Ok!",
-        "Crashing The Server Will Get You Ip Banned!"
+        "Crashing The Server Will Get You Ip Banned!",
         "Poseidon Is Gay XD :)!"
 ];
 /*Random message order?*/
