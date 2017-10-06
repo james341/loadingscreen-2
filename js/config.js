@@ -112,10 +112,10 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "u4cFNwqX8hA", name: "StarShips - Nicki Minaj"},
-	{youtube: "Ssvu2yncgWU", name: "We Are One - Vexento"},
-	{youtube: "q1ULJ92aldE", name: "Syn Cole - Feel Good"},
-	{youtube: "liEHDMrnUcc", name: "Rick and Morty - Goodbye Moonmen"},
+	{youtube: "u4cFNwqX8hA", name: "StarShips Nicki Minaj"},
+	{youtube: "Ssvu2yncgWU", name: "We Are One Vexento"},
+	{youtube: "q1ULJ92aldE", name: "Syn Feel Good"},
+	{youtube: "liEHDMrnUcc", name: "Goodbye Moonmen"},
 	{youtube: "Y5TnYaZ31b0", name: "Waysons - Running"},
 	{youtube: "dokspLaZqGE", name: "Electric Joy Ride"},
 	{youtube: "moTWIO55UeY", name: "Dot in the Pouch of a Red Kangaroo"},
@@ -123,14 +123,14 @@ var l_musicPlaylist = [
         {youtube: "MReNmBOspAg", name: "Jim Yosef & Anna Yvette - Courage"},
         {youtube: "bR-s4ReIxJo", name: "Pumped up Kicks"},
         {youtube: "s_KhOempeQE", name: "Pompeii - Bastille if you close your eyes lyrics"},
-        {youtube: "p7ZsBPK656s", name: "Disfigure - Blank"},
+        {youtube: "p7ZsBPK656s", name: "Disfigure Blank"},
         {youtube: "5LI5QZVUU98", name: "Jim Yosef - Arrow"},
-        {youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
+        {youtube: "UzCFTyluxic", name: "Morning Sun Nicolai Heidlas Music"},
         {youtube: "Zyi9QUB-fyo", name: "Smells Like Summer Del"},
         {youtube: "4lXBHD5C8do", name: "Tobu & Itro - Sunburst"},
-        {youtube: "FdDDiEkRbvQ", name: "ISISTEP - ALLAHU AKBAR REMIX VIDEO 2015 ISIS"},
-        {youtube: "Yim4--J44gk", name: "OneRepublic - Counting Stars"},
-        {youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
+        {youtube: "8UVNT4wvIGY", name: "Gotye Somebody That I Used To Know"},
+        {youtube: "Yim4--J44gk", name: "OneRepublic Counting Stars"},
+        {youtube: "MkNeIUgNPQ8", name: "Adventures A Himitsu"},
         {youtube: "r6BC_uQEEmM", name: "Little Talks-Of Monsters and Men"},
         {youtube: "2fAjyFbyb4o", name: "Hush, Hush, Hush (Here Comes The Boogeyman"},
         {youtube: "SE_QDk3dR4c", name: "Candy-Coloured Sky"},
@@ -140,11 +140,17 @@ var l_musicPlaylist = [
         {youtube: "fh5LQHwTAMA", name: "Its Been Raining For So Long"},
         {youtube: "Ss0kFNUP4P4", name: "I Don't Wanna Miss a Thing"},
         {youtube: "T9TlJOfMYtA", name: "lily allen her life's already over"},
-        {youtube: "pPGa6vzfvqk", name: "Tony Orr- Up the fucking ass"},
+        {youtube: "pPGa6vzfvqk", name: "Tony Orr Up the fucking ass"},
         {youtube: "ZZ5LpwO-An4", name: "HEYYEYAAEYAAAEYAEYAA"},
         {youtube: "qnxDslfsAy4&t=2s", name: "Hello Rucka Ali"},
-        {youtube: "CuZBfX2mW7s", name: "what does the fox say"}
-        
+        {youtube: "CuZBfX2mW7s", name: "what does the fox say"},
+        {youtube: "IeqtAB1WgEw", name: "KC & The Sunshine Band Give It Up"},
+        {youtube: "U4BrnSm1yIs", name: "Opportunity Pete Murray"},
+        {youtube: "r5EXKDlf44M", name: "Green Day Boulevard of Broken Dreams"},
+        {youtube: "q1ULJ92aldE", name: "Cole Feel Good"},
+        {youtube: "Z1k8Kk5VNLs", name: "Boys Of Summer"},
+        {youtube: "psuRGfAaju4", name: "Owl City Fire Flies"}
+
 
 
 ];
@@ -172,7 +178,8 @@ var l_messages = [
         "Do Not Ask For Ranks Please Apply On The Forums!",
         "I Dont Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get You Ip Banned!",
-        "Poseidon Is Gay XD :)!"
+        "Poseidon Is Gay XD :)!",
+        "Check Out Ceyayroxs Youtube Channel He Is A Cool Dude Bro!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
