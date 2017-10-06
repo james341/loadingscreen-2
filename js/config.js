@@ -120,7 +120,7 @@ var l_musicPlaylist = [
 	{youtube: "Y5TnYaZ31b0", name: "Waysons - Running"},
 	{youtube: "dokspLaZqGE", name: "Electric Joy Ride"},
 	{youtube: "moTWIO55UeY", name: "Dot in the Pouch of a Red Kangaroo"},
-	{youtube: "qenl_2kIzIg", name: "Protegent Complete Security Antivirus Software"},
+	{youtube: "SQxL2Kpi04Y", name: "Kid Cudi Day n Nite"},
         {youtube: "MReNmBOspAg", name: "Jim Yosef & Anna Yvette - Courage"},
         {youtube: "bR-s4ReIxJo", name: "Pumped up Kicks"},
         {youtube: "s_KhOempeQE", name: "Pompeii - Bastille if you close your eyes lyrics"},
@@ -136,21 +136,24 @@ var l_musicPlaylist = [
         {youtube: "2fAjyFbyb4o", name: "Hush, Hush, Hush (Here Comes The Boogeyman"},
         {youtube: "SE_QDk3dR4c", name: "Candy-Coloured Sky"},
 	{youtube: "0-JzHyJSPmk", name: "Galantis - No Money"},
-        {youtube: "nX1VeFBo9AQ", name: "James Blunt - You're Beautiful"},
+        {youtube: "nX1VeFBo9AQ", name: "You're Beautiful"},
         {youtube: "mKWtYOswmyk", name: "You had a bad day"},
         {youtube: "fh5LQHwTAMA", name: "Its Been Raining For So Long"},
         {youtube: "Ss0kFNUP4P4", name: "I Don't Wanna Miss a Thing"},
         {youtube: "T9TlJOfMYtA", name: "lily allen her life's already over"},
         {youtube: "pPGa6vzfvqk", name: "Tony Orr Up the fucking ass"},
         {youtube: "ZZ5LpwO-An4", name: "HEYYEYAAEYAAAEYAEYAA"},
-        {youtube: "qnxDslfsAy4&t=2s", name: "Hello Rucka Ali"},
+        {youtube: "FB4OOpo4sBU", name: "Adele Hello"},
         {youtube: "CuZBfX2mW7s", name: "what does the fox say"},
         {youtube: "IeqtAB1WgEw", name: "KC & The Sunshine Band Give It Up"},
         {youtube: "U4BrnSm1yIs", name: "Opportunity Pete Murray"},
         {youtube: "r5EXKDlf44M", name: "Green Day Boulevard of Broken Dreams"},
         {youtube: "q1ULJ92aldE", name: "Cole Feel Good"},
         {youtube: "Z1k8Kk5VNLs", name: "Boys Of Summer"},
-        {youtube: "psuRGfAaju4", name: "Owl City Fire Flies"}
+        {youtube: "psuRGfAaju4", name: "Owl City Fire Flies"},
+        {youtube: "IIrCDAV3EgI", name: "Tobu Candyland"},
+        {youtube: "0t2tjNqGyJI", name: "Twenty One Pilots Stressed Out"},
+        {youtube: "guLKy0aa5I", name: "Kylie Minogue All The Lovers"}
 
 
 
@@ -180,7 +183,8 @@ var l_messages = [
         "I Dont Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get You Ip Banned!",
         "Poseidon Is Gay XD :)!",
-        "Check Out Ceyayroxs Youtube Channel He Is A Cool Dude Bro!"
+        "Check Out Ceyayroxs Youtube Channel He Is A Cool Dude Bro!",
+        "Faded Servers Is Complete 100% Guaranteed Cancer Cheap Lying Scumbags Xd!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
