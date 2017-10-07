@@ -155,7 +155,11 @@ var l_musicPlaylist = [
         {youtube: "psuRGfAaju4", name: "Owl City Fire Flies"},
         {youtube: "IIrCDAV3EgI", name: "Tobu Candyland"},
         {youtube: "0t2tjNqGyJI", name: "Twenty One Pilots Stressed Out"},
-        {youtube: "guLKy0aa5I", name: "Kylie Minogue All The Lovers"}
+        {youtube: "guLKy0aa5I", name: "Kylie Minogue All The Lovers"},
+        {youtube: "dX3k_QDnzHE", name: "M83 'Midnight"},
+        {youtube: "nnrECgBw30U", name: "Bag Raiders Shooting Stars"},
+        {youtube: "nI26a2pDxGk", name: "Tattletail Song Don't Tattle On Me"},
+        {youtube: "K2rwxs1gH9w", name: "Spooky Scary Skeletons"}
 
 
 
@@ -186,7 +190,9 @@ var l_messages = [
         "Crashing The Server Will Get You Ip Banned!",
         "Poseidon Is Gay XD :)!",
         "Check Out Ceyayroxs Youtube Channel He Is A Cool Dude Bro!",
-        "Faded Servers Is Complete 100% Guaranteed Cancer Cheap Lying Scumbags Xd!"
+        "Faded Servers Is Complete 100% Guaranteed Cancer Cheap Lying Scumbags Xd!",
+        "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
+        "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
