@@ -150,12 +150,12 @@ var l_musicPlaylist = [
         {youtube: "r6BC_uQEEmM", name: "Little Talks-Of Monsters and Men"},
         {youtube: "2fAjyFbyb4o", name: "Hush, Hush, Hush (Here Comes The Boogeyman"},
         {youtube: "SE_QDk3dR4c", name: "Candy-Coloured Sky"},
-	{youtube: "0-JzHyJSPmk", name: "Galantis - No Money"},
+	{youtube: "0-JzHyJSPmk", name: "Galantis No Money"},
         {youtube: "nX1VeFBo9AQ", name: "You're Beautiful"},
         {youtube: "mKWtYOswmyk", name: "You had a bad day"},
         {youtube: "fh5LQHwTAMA", name: "Its Been Raining For So Long"},
         {youtube: "Ss0kFNUP4P4", name: "I Don't Wanna Miss a Thing"},
-        {youtube: "T9TlJOfMYtA", name: "lily allen her life's already over"},
+        {youtube: "CuDEP6eFkeA", name: "Haddaway What is Love"},
         {youtube: "pPGa6vzfvqk", name: "Tony Orr Up the fucking ass"},
         {youtube: "ZZ5LpwO-An4", name: "HEYYEYAAEYAAAEYAEYAA"},
         {youtube: "FB4OOpo4sBU", name: "Adele Hello"},
@@ -168,14 +168,16 @@ var l_musicPlaylist = [
         {youtube: "psuRGfAaju4", name: "Owl City Fire Flies"},
         {youtube: "IIrCDAV3EgI", name: "Tobu Candyland"},
         {youtube: "0t2tjNqGyJI", name: "Twenty One Pilots Stressed Out"},
-        {youtube: "guLKy0aa5I", name: "Kylie Minogue All The Lovers"},
+        {youtube: "PqXwslCcPws", name: "Bob Marley Red Red Wine"},
         {youtube: "dX3k_QDnzHE", name: "M83 'Midnight"},
-        {youtube: "nnrECgBw30U", name: "Bag Raiders Shooting Stars"},
-        {youtube: "nI26a2pDxGk", name: "Tattletail Song Don't Tattle On Me"},
+        {youtube: "nnrECgBw30U", name: "Shooting Stars"},
+        {youtube: "nI26a2pDxGk", name: "Don't Tattle On Me"},
         {youtube: "K2rwxs1gH9w", name: "Spooky Scary Skeletons"},
         {youtube: "C0X3CLJVMJU", name: "Turning Japanese"},
         {youtube: "UknCBaEt38k", name: "Eric Prydz - Call On Me"},
-        {youtube: "HJVW42s3vrk", name: "Shakira - Try Everything"}
+        {youtube: "HJVW42s3vrk", name: "Try Everything"},
+        {youtube: "mIIN_SGQy9c", name: "Sexy Bitch"},
+        {youtube: "85Ts8jI0KhY", name: "Sex On The Radio"}
 
 
 
@@ -209,7 +211,8 @@ var l_messages = [
         "Faded Servers Is Complete 100% Guaranteed Cancer Cheap Lying Scumbags Xd!",
         "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
-        "Dont Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Twat!"
+        "Dont Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Twat!",
+        "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
