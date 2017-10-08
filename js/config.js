@@ -89,7 +89,12 @@ var l_bgImages = [
         "touhou034.jpg",
         "touhou035.jpg",
         "touhou036.jpg",
-        "touhou037.jpg"
+        "touhou037.jpg",
+        "touhou039.jpg",
+        "touhou040.jpg"
+        "touhou041.jpg"
+        "touhou042.jpg"
+        "touhou043.jpg"
 ];
 
 /*Random background images order?*/
