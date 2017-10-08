@@ -167,7 +167,10 @@ var l_musicPlaylist = [
         {youtube: "dX3k_QDnzHE", name: "M83 'Midnight"},
         {youtube: "nnrECgBw30U", name: "Bag Raiders Shooting Stars"},
         {youtube: "nI26a2pDxGk", name: "Tattletail Song Don't Tattle On Me"},
-        {youtube: "K2rwxs1gH9w", name: "Spooky Scary Skeletons"}
+        {youtube: "K2rwxs1gH9w", name: "Spooky Scary Skeletons"},
+        {youtube: "C0X3CLJVMJU", name: "Turning Japanese"},
+        {youtube: "UknCBaEt38k", name: "Eric Prydz - Call On Me"},
+        {youtube: "HJVW42s3vrk", name: "Shakira - Try Everything"}
 
 
 
@@ -200,7 +203,8 @@ var l_messages = [
         "Check Out Ceyayroxs Youtube Channel He Is A Cool Dude Bro!",
         "Faded Servers Is Complete 100% Guaranteed Cancer Cheap Lying Scumbags Xd!",
         "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
-        "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job!"
+        "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
+        "Dont Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Twat!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
