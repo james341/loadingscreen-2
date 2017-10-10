@@ -94,7 +94,8 @@ var l_bgImages = [
         "touhou040.jpg",
         "touhou041.jpg",
         "touhou042.jpg",
-        "touhou043.jpg"
+        "touhou043.jpg",
+        "touhou044.jpg"
 ];
 
 /*Random background images order?*/
