@@ -157,10 +157,10 @@ var l_musicPlaylist = [
         {youtube: "Ss0kFNUP4P4", name: "I Don't Wanna Miss a Thing"},
         {youtube: "CuDEP6eFkeA", name: "Haddaway What is Love"},
         {youtube: "pPGa6vzfvqk", name: "Tony Orr Up the fucking ass"},
-        {youtube: "ZZ5LpwO-An4", name: "HEYYEYAAEYAAAEYAEYAA"},
+        {youtube: "dqgOSsRjHRk", name: "S Club 7 - 'Reach"},
         {youtube: "FB4OOpo4sBU", name: "Adele Hello"},
         {youtube: "CuZBfX2mW7s", name: "what does the fox say"},
-        {youtube: "IeqtAB1WgEw", name: "KC & The Sunshine Band Give It Up"},
+        {youtube: "EywNmeL9wqE", name: "El hipopotamo y el perro bailando"},
         {youtube: "U4BrnSm1yIs", name: "Opportunity Pete Murray"},
         {youtube: "r5EXKDlf44M", name: "Green Day Boulevard of Broken Dreams"},
         {youtube: "q1ULJ92aldE", name: "Cole Feel Good"},
@@ -168,16 +168,16 @@ var l_musicPlaylist = [
         {youtube: "psuRGfAaju4", name: "Owl City Fire Flies"},
         {youtube: "IIrCDAV3EgI", name: "Tobu Candyland"},
         {youtube: "0t2tjNqGyJI", name: "Twenty One Pilots Stressed Out"},
-        {youtube: "PqXwslCcPws", name: "Bob Marley Red Red Wine"},
+        {youtube: "97OtwnnjZ6I", name: "Lily Allen Littlest Things Instrumental"},
         {youtube: "dX3k_QDnzHE", name: "M83 'Midnight"},
         {youtube: "nnrECgBw30U", name: "Shooting Stars"},
-        {youtube: "nI26a2pDxGk", name: "Don't Tattle On Me"},
-        {youtube: "K2rwxs1gH9w", name: "Spooky Scary Skeletons"},
+        {youtube: "cp6XGd-Ge-w", name: "Don't Tattle On Me"},
+        {youtube: "FAf8ut69Sa4", name: "Colours"},
         {youtube: "C0X3CLJVMJU", name: "Turning Japanese"},
         {youtube: "UknCBaEt38k", name: "Eric Prydz - Call On Me"},
         {youtube: "HJVW42s3vrk", name: "Try Everything"},
-        {youtube: "mIIN_SGQy9c", name: "Sexy Bitch"},
-        {youtube: "85Ts8jI0KhY", name: "Sex On The Radio"}
+        {youtube: "K4DyBUG242c", name: "Cartoon - On & On"},
+        {youtube: "qzVSd4egH9s", name: "Set My heart Afire-Defqwop x Panda Nation"}
 
 
 
