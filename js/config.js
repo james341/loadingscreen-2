@@ -184,7 +184,11 @@ var l_musicPlaylist = [
         {youtube: "qzVSd4egH9s", name: "Set My heart Afire-Defqwop x Panda Nation"},
         {youtube: "5ethBJzPDEU", name: "PayPhone"},
         {youtube: "cs926AIL-ck", name: "Ween Ocean Man"},
-        {youtube: "VtIaGqFMIJ0", name: "Cry For You September"}
+        {youtube: "VtIaGqFMIJ0", name: "Cry For You September"},
+        {youtube: "8ciZGNmlWgo", name: "AudioscribeFree Fall"},
+        {youtube: "Lq2UrnDsI_s", name: "Laszlo - Fall To Light"},
+        {youtube: "X5mcY8ecs8I", name: "Ahrix Nova"},
+        {youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE My Heart"}
 
 
 
