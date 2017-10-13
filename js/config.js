@@ -222,8 +222,9 @@ var l_messages = [
         "Faded Servers Is Complete 100% Guaranteed Cancer Cheap Lying Scumbags Xd!",
         "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
-        "Dont Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Twat!",
-        "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS!"
+        "Dont Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
+        "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS!",
+        "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
