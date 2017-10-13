@@ -188,7 +188,9 @@ var l_musicPlaylist = [
         {youtube: "8ciZGNmlWgo", name: "AudioscribeFree Fall"},
         {youtube: "Lq2UrnDsI_s", name: "Laszlo - Fall To Light"},
         {youtube: "X5mcY8ecs8I", name: "Ahrix Nova"},
-        {youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE My Heart"}
+        {youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE My Heart"},
+        {youtube: "C4j84uIwTQ4", name: "Heroes & Trolls"},
+        {youtube: "VPSWmVbnwZw", name: "21 Pilots Donnie Trump"}
 
 
 
