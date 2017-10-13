@@ -182,7 +182,9 @@ var l_musicPlaylist = [
         {youtube: "oWz4fHcCX0U", name: "Try Everything"},
         {youtube: "K4DyBUG242c", name: "Cartoon On & On"},
         {youtube: "qzVSd4egH9s", name: "Set My heart Afire-Defqwop x Panda Nation"},
-        {youtube: "5ethBJzPDEU", name: "PayPhone"}
+        {youtube: "5ethBJzPDEU", name: "PayPhone"},
+        {youtube: "cs926AIL-ck", name: "Ween Ocean Man"},
+        {youtube: "VtIaGqFMIJ0", name: "Cry For You September"}
 
 
 
