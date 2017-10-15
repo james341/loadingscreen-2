@@ -196,7 +196,9 @@ var l_musicPlaylist = [
         {youtube: "OBwl2glmqC0", name: "Tobu Life"},
         {youtube: "ux8-EbW6DUI", name: "Tobu Infectious"},
         {youtube: "FkKjZz2vpy4", name: "Itro Panda"},
-        {youtube: "x6aY13UkgsU", name: "POLLY Perfect kinda day"}
+        {youtube: "x6aY13UkgsU", name: "POLLY Perfect kinda day"},
+        {youtube: "5ZYgIrqELFw", name: "All Star - Smash Mouth"},
+        {youtube: "8UVNT4wvIGY", name: "Gotye - Somebody That I Used To Know (feat. Kimbra"}
 
 
 
