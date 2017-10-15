@@ -193,7 +193,10 @@ var l_musicPlaylist = [
         {youtube: "X5mcY8ecs8I", name: "Ahrix Nova"},
         {youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE My Heart"},
         {youtube: "C4j84uIwTQ4", name: "Heroes & Trolls"},
-        {youtube: "VPSWmVbnwZw", name: "21 Pilots Donnie Trump"}
+        {youtube: "OBwl2glmqC0", name: "Tobu Life"},
+        {youtube: "ux8-EbW6DUI", name: "Tobu Infectious"},
+        {youtube: "FkKjZz2vpy4", name: "Itro Panda"},
+        {youtube: "x6aY13UkgsU", name: "POLLY Perfect kinda day"}
 
 
 
