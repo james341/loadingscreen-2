@@ -202,7 +202,8 @@ var l_musicPlaylist = [
         {youtube: "8UVNT4wvIGY", name: "Gotye Somebody That I Used To Know"},
         {youtube: "I4Pa-OJ7yjQ", name: "Prince Ali Obama"},
         {youtube: "kaMdSxKzz8k", name: "The Cranberries Dreams"},
-        {youtube: "RILP53OR63k", name: "I'm Yours - Jason Mraz"}
+        {youtube: "RILP53OR63k", name: "I'm Yours - Jason Mraz"},
+        {youtube: "Z7tEQLH25wA", name: "Cee Lo Green - Fuck You"}
 
 
 
