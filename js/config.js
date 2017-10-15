@@ -168,7 +168,7 @@ var l_musicPlaylist = [
         {youtube: "kbqmEJTr3nU", name: "PACIFIC SUN Nicolai Heidlas Music"},
         {youtube: "FB4OOpo4sBU", name: "Adele Hello"},
         {youtube: "siCmqvfw_1g", name: "Spring In My Step Silent Partne"},
-        {youtube: "3h6BdI_JnI0", name: "Toy Story Strange Things"},
+        {youtube: "pUVxaYdgS_Q", name: "She Will Be Loved"},
         {youtube: "U4BrnSm1yIs", name: "Opportunity Pete Murray"},
         {youtube: "nOCc8D2rbkQ", name: "Jazz Theme"},
         {youtube: "q1ULJ92aldE", name: "Cole Feel Good"},
@@ -199,7 +199,10 @@ var l_musicPlaylist = [
         {youtube: "FkKjZz2vpy4", name: "Itro Panda"},
         {youtube: "x6aY13UkgsU", name: "POLLY Perfect kinda day"},
         {youtube: "5ZYgIrqELFw", name: "All Star - Smash Mouth"},
-        {youtube: "8UVNT4wvIGY", name: "Gotye - Somebody That I Used To Know (feat. Kimbra"}
+        {youtube: "8UVNT4wvIGY", name: "Gotye Somebody That I Used To Know"},
+        {youtube: "I4Pa-OJ7yjQ", name: "Prince Ali Obama"},
+        {youtube: "kaMdSxKzz8k", name: "The Cranberries Dreams"},
+        {youtube: "RILP53OR63k", name: "I'm Yours - Jason Mraz"}
 
 
 
