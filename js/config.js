@@ -194,7 +194,7 @@ var l_musicPlaylist = [
         {youtube: "cs926AIL-ck", name: "Ween Ocean Man"},
         {youtube: "VtIaGqFMIJ0", name: "Cry For You September"},
         {youtube: "8ciZGNmlWgo", name: "AudioscribeFree Fall"},
-        {youtube: "Lq2UrnDsI_s", name: "Laszlo - Fall To Light"},
+        {youtube: "Lq2UrnDsI_s", name: "Laszlo Fall To Light"},
         {youtube: "X5mcY8ecs8I", name: "Ahrix Nova"},
         {youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE My Heart"},
         {youtube: "C4j84uIwTQ4", name: "Heroes & Trolls"},
@@ -209,7 +209,11 @@ var l_musicPlaylist = [
         {youtube: "RILP53OR63k", name: "I'm Yours Jason Mraz"},
         {youtube: "Z7tEQLH25wA", name: "Fuck You"},
         {youtube: "oBpvsSeBh54", name: "Michael Buble Haven't Met You Yet"},
-        {youtube: "mRNhuJ3l060", name: "Tremor Sensation 2014 Anthem"}  
+        {youtube: "mRNhuJ3l060", name: "Tremor Sensation 2014 Anthem"},  
+        {youtube: "LL12z7vHWn0", name: "Eric Carmen - Make me Lose Control"},
+        {youtube: "0LpW0N5zeHU", name: "Lighthouse Family"},
+        {youtube: "aNO6yd66PpA", name: "Iris The Goo Goo Dolls"},
+        {youtube: "jD9dr2ZRm9A", name: "Adele Someone"}
 
 
 
@@ -236,14 +240,14 @@ var l_messages = [
         "Here To Advertise Your Server ? Well Then You Can Fuck Off Out Of Here!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Please Apply On The Forums!",
-        "I Dont Know What Else To Fucking Say AnyMore Just Be Good Ok!",
+        "I Don't Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get You Ip Banned!",
         "Poseidon Is Gay XD :)!",
         "Check Out Ceyayroxs Youtube Channel He Is A Cool Dude Bro!",
         "Faded Servers Is Complete 100% Guaranteed Cancer Cheap Lying Scumbags Xd!",
         "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
-        "Dont Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
+        "Don't Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
         "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS!",
         "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!"
 ];
