@@ -179,7 +179,7 @@ var l_musicPlaylist = [
         {youtube: "nOCc8D2rbkQ", name: "Jazz Theme"},
         {youtube: "q1ULJ92aldE", name: "Cole Feel Good"},
         {youtube: "Z1k8Kk5VNLs", name: "Boys Of Summer"},
-        {youtube: "7u65WiPxZKc", name: "Homer's Day"},
+        {youtube: "7YfxeEvR89A", name: "Mr. Pink - Topher Mohr and Alex Elena"},
         {youtube: "IIrCDAV3EgI", name: "Tobu Candyland"},
         {youtube: "0t2tjNqGyJI", name: "Twenty One Pilots Stressed Out"},
         {youtube: "97OtwnnjZ6I", name: "Lily Allen Littlest Things Instrumental"},
