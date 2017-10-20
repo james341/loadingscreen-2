@@ -213,7 +213,12 @@ var l_musicPlaylist = [
         {youtube: "LL12z7vHWn0", name: "Eric Carmen - Make me Lose Control"},
         {youtube: "0LpW0N5zeHU", name: "Lighthouse Family"},
         {youtube: "aNO6yd66PpA", name: "Iris The Goo Goo Dolls"},
-        {youtube: "jD9dr2ZRm9A", name: "Adele Someone"}
+        {youtube: "jD9dr2ZRm9A", name: "Adele Someone"},
+        {youtube: "KnmQdHSRQ1U", name: "I Am Alive Rick and Morty"},
+        {youtube: "lOr-22Ra7S0", name: "Schwifty Beat"},
+        {youtube: "HZ5m_nlfZe4", name: "Noob-Noob! (Rick and Morty Remix"},
+        {youtube: "avbFUPZRPOU", name: "Whirly Dirly"},
+        {youtube: "6wlbB1PTzJU", name: "Summer Smile Silent Partner"}
 
 
 
