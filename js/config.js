@@ -218,9 +218,11 @@ var l_musicPlaylist = [
         {youtube: "jD9dr2ZRm9A", name: "Adele Someone"},
         {youtube: "KnmQdHSRQ1U", name: "I Am Alive Rick and Morty"},
         {youtube: "lOr-22Ra7S0", name: "Schwifty Beat"},
-        {youtube: "HZ5m_nlfZe4", name: "Noob-Noob! (Rick and Morty Remix"},
+        {youtube: "HZ5m_nlfZe4", name: "Noob-Noob!"},
         {youtube: "avbFUPZRPOU", name: "Whirly Dirly"},
-        {youtube: "6wlbB1PTzJU", name: "Summer Smile Silent Partner"}
+        {youtube: "6wlbB1PTzJU", name: "Summer Smile Silent Partner"},
+        {youtube: "EQlgcK25wh0", name: "Outnumbered"},
+        {youtube: "Bh0QZvHdSKo", name: "Henry Hall Here Comes The Boogeyman"}
 
 
 
