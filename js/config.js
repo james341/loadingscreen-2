@@ -115,8 +115,8 @@ var l_bgImages = [
         "touhou061.jpg",
         "touhou062.jpg",
         "touhou063.jpg",
-        "touhou064.jpg"
-        "touhou065.jpg"
+        "touhou064.jpg",
+        "touhou065.jpg",
         "touhou066.jpg"
 ];
 
@@ -233,7 +233,10 @@ var l_musicPlaylist = [
         {youtube: "EQlgcK25wh0", name: "Outnumbered"},
         {youtube: "Bh0QZvHdSKo", name: "Henry Hall Here Comes The Boogeyman"},
         {youtube: "TUj0otkJEBo", name: "Ty Dolla $ignOr Nah ft The Weeknd Wiz Khalifa & DJ Mustard"},
-        {youtube: "7PCkvCPvDXk", name: "Meghan Trainor - All About That Bass"}
+        {youtube: "7PCkvCPvDXk", name: "Meghan Trainor - All About That Bass"},
+        {youtube: "I4Pa-OJ7yjQ", name: "Prince Ali Obama Aladdin Parody"},
+        {youtube: "6nqWNZl3Ou4", name: "On the Open Road"},
+        {youtube: "zDxAEY3l9BQ", name: "My Shiny Teeth and Me - Chip Skylark"}
 
 
 
