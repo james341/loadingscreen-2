@@ -213,7 +213,7 @@ var l_musicPlaylist = [
         {youtube: "x6aY13UkgsU", name: "POLLY Perfect kinda day"},
         {youtube: "5ZYgIrqELFw", name: "All Star - Smash Mouth"},
         {youtube: "8UVNT4wvIGY", name: "Gotye Somebody That I Used To Know"},
-        {youtube: "2IjRTHamD70", name: "Don't Hug Me I'm Scared 3"},
+        {youtube: "9nWZOk4mwhs", name: "Complicated - Avril Lavigne"},
         {youtube: "kaMdSxKzz8k", name: "The Cranberries Dreams"},
         {youtube: "RILP53OR63k", name: "I'm Yours Jason Mraz"},
         {youtube: "Z7tEQLH25wA", name: "Fuck You"},
@@ -229,7 +229,9 @@ var l_musicPlaylist = [
         {youtube: "avbFUPZRPOU", name: "Whirly Dirly"},
         {youtube: "6wlbB1PTzJU", name: "Summer Smile Silent Partner"},
         {youtube: "EQlgcK25wh0", name: "Outnumbered"},
-        {youtube: "Bh0QZvHdSKo", name: "Henry Hall Here Comes The Boogeyman"}
+        {youtube: "Bh0QZvHdSKo", name: "Henry Hall Here Comes The Boogeyman"},
+        {youtube: "TUj0otkJEBo", name: "Ty Dolla $ignOr Nah ft The Weeknd Wiz Khalifa & DJ Mustard"},
+        {youtube: "7PCkvCPvDXk", name: "Meghan Trainor - All About That Bass"}
 
 
 
