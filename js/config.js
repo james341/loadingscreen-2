@@ -203,7 +203,7 @@ var l_musicPlaylist = [
         {youtube: "qzVSd4egH9s", name: "Set My heart Afire-Defqwop x Panda Nation"},
         {youtube: "5ethBJzPDEU", name: "PayPhone"},
         {youtube: "cs926AIL-ck", name: "Ween Ocean Man"},
-        {youtube: "VtIaGqFMIJ0", name: "Cry For You September"},
+        {youtube: "5tepYJno7rU", name: "Ain't No Mountain High Enough"},
         {youtube: "8ciZGNmlWgo", name: "AudioscribeFree Fall"},
         {youtube: "Lq2UrnDsI_s", name: "Laszlo Fall To Light"},
         {youtube: "X5mcY8ecs8I", name: "Ahrix Nova"},
@@ -236,7 +236,11 @@ var l_musicPlaylist = [
         {youtube: "7PCkvCPvDXk", name: "Meghan Trainor - All About That Bass"},
         {youtube: "I4Pa-OJ7yjQ", name: "Prince Ali Obama Aladdin Parody"},
         {youtube: "6nqWNZl3Ou4", name: "On the Open Road"},
-        {youtube: "zDxAEY3l9BQ", name: "My Shiny Teeth and Me - Chip Skylark"}
+        {youtube: "zDxAEY3l9BQ", name: "My Shiny Teeth and Me - Chip Skylark"},
+        {youtube: "aOl4oeHZnBk", name: "You Sexy Thing I Believe in Miracles"},
+        {youtube: "H0m3Lfkzcw4", name: "Happy Pharrell Williams"},
+        {youtube: "HXEJjtBouRA", name: "Daft Punk Get Lucky"},
+        {youtube: "g8PrTzLaLHc", name: "Imagine Dragons - On Top of the World"}
 
 
 
