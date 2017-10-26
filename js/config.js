@@ -248,7 +248,14 @@ var l_musicPlaylist = [
         {youtube: "aOl4oeHZnBk", name: "You Sexy Thing I Believe in Miracles"},
         {youtube: "H0m3Lfkzcw4", name: "Happy Pharrell Williams"},
         {youtube: "HXEJjtBouRA", name: "Daft Punk Get Lucky"},
-        {youtube: "g8PrTzLaLHc", name: "Imagine Dragons - On Top of the World"}
+        {youtube: "g8PrTzLaLHc", name: "Imagine Dragons - On Top of the World"},
+        {youtube: "p3J5KMbdniI", name: "Hallo-winners Bob's Burgers Remix"},
+        {youtube: "fTtgVSxfr5M", name: "Elton John Can You Feel The Love Tonight"},
+        {youtube: "QnABC0b1gCI", name: "You spin me right round (like a record baby"},
+        {youtube: "qDLJ3pUZm9A", name: "Toto - Africa (Lyrics on screen"},
+        {youtube: "d0lgswGOgrs", name: "Jeepers Creepers Song"},
+        {youtube: "6wINQ4ywd3U", name: "Macarena"},
+       {youtube: "v2nUtpv0IAQ", name: "Naked Eyes: Theres Always Something There to Remind Me"}
 
 
 
@@ -283,7 +290,7 @@ var l_messages = [
         "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
         "Don't Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
-        "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS!",
+        "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS Here Is My Email Taine049@gmail.com!",
         "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!"
 ];
 /*Random message order?*/
