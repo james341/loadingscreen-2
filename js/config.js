@@ -295,7 +295,7 @@ var l_messages = [
         "Don't Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
         "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS Here Is My Email Taine049@gmail.com!",
         "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
-        "Sky Rp Is Cancer M8 Play Here XD Save Yourself From BullShit Trust Me DarkRp Id Full Of It!"
+        "Sky Rp Is Cancer M8 Play Here XD Save Yourself From BullShit Trust Me DarkRp Is Full Of It!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
