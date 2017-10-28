@@ -125,7 +125,8 @@ var l_bgImages = [
         "touhou071.jpg",
         "touhou072.jpg",
         "touhou073.jpg",
-        "touhou074.jpg"
+        "touhou074.jpg",
+        "touhou075.jpg"
 ];
 
 /*Random background images order?*/
@@ -255,8 +256,10 @@ var l_musicPlaylist = [
         {youtube: "qDLJ3pUZm9A", name: "Toto - Africa (Lyrics on screen"},
         {youtube: "d0lgswGOgrs", name: "Jeepers Creepers Song"},
         {youtube: "6wINQ4ywd3U", name: "Macarena"},
-       {youtube: "v2nUtpv0IAQ", name: "Naked Eyes: Theres Always Something There to Remind Me"}
-
+       {youtube: "v2nUtpv0IAQ", name: "Naked Eyes: Theres Always Something There to Remind Me"},
+       {youtube: "5bHimOJb-Xw", name: "Pomf Pomf"},
+       {youtube: "YwsHq3eh7U", name: "Living In The Sunlight"},
+       {youtube: "CVZXj53i9Js", name: "Together in Electric Dreams"}
 
 
 ];
@@ -291,7 +294,8 @@ var l_messages = [
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
         "Don't Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
         "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS Here Is My Email Taine049@gmail.com!",
-        "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!"
+        "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
+        "Sky Rp Is Cancer M8 Play Here XD Save Yourself From BullShit Trust Me DarkRp Id Full Of It!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
