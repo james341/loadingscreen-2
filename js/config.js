@@ -262,7 +262,8 @@ var l_musicPlaylist = [
        {youtube: "CVZXj53i9Js", name: "Together in Electric Dreams"},
        {youtube: "dUpBNu6ckfU", name: "Good Things"},
        {youtube: "LPn0KFlbqX8", name: "Cyndi Lauper True Colors"},
-       {youtube: "9mW4qmh8_9g", name: "Martika Toy Soldiers Lyrics"}
+       {youtube: "9mW4qmh8_9g", name: "Martika Toy Soldiers Lyrics"},
+       {youtube: "509yiHTzTH4", name: "Five nights at Freddy's 4 Song The Final Chapter"}
 
 
 ];
