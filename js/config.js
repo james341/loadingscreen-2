@@ -259,7 +259,10 @@ var l_musicPlaylist = [
        {youtube: "v2nUtpv0IAQ", name: "Naked Eyes: Theres Always Something There to Remind Me"},
        {youtube: "5bHimOJb-Xw", name: "Pomf Pomf"},
        {youtube: "YwsHq3eh7U", name: "Living In The Sunlight"},
-       {youtube: "CVZXj53i9Js", name: "Together in Electric Dreams"}
+       {youtube: "CVZXj53i9Js", name: "Together in Electric Dreams"},
+       {youtube: "dUpBNu6ckfU", name: "Good Things"},
+       {youtube: "LPn0KFlbqX8", name: "Cyndi Lauper True Colors"},
+       {youtube: "9mW4qmh8_9g", name: "Martika Toy Soldiers Lyrics"}
 
 
 ];
