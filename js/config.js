@@ -164,7 +164,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "u4cFNwqX8hA", name: "StarShips Nicki Minaj"},
+	{youtube: "DHITmcKUGik", name: "n u a g e s - closer"},
 	{youtube: "Ssvu2yncgWU", name: "We Are One Vexento"},
 	{youtube: "q1ULJ92aldE", name: "Syn Feel Good"},
 	{youtube: "liEHDMrnUcc", name: "Goodbye Moonmen"},
@@ -187,9 +187,9 @@ var l_musicPlaylist = [
         {youtube: "ih-fhlJtCh4", name: "The Mine Song Instrumental"},
         {youtube: "SE_QDk3dR4c", name: "Candy-Coloured Sky"},
 	{youtube: "0-JzHyJSPmk", name: "Galantis No Money"},
-        {youtube: "nX1VeFBo9AQ", name: "You're Beautiful"},
+        {youtube: "GsIRt0bge1Y", name: "The Dream Academy Life In A Northern Town"},
         {youtube: "F3TzxXfoEHo", name: "Sugar Zone"},
-        {youtube: "fh5LQHwTAMA", name: "Its Been Raining For So Long"},
+        {youtube: "anmtXXf88cc", name: "Alicks. - Next To You"},
         {youtube: "5kDO8hLu9iI", name: "Blue Skies"},
         {youtube: "Dw20ZkMwI10", name: "Dog and Pony Show Silent Partne"},
         {youtube: "VF9_dCo6JT4", name: "Dreams Joakim Karud"},
@@ -209,8 +209,8 @@ var l_musicPlaylist = [
         {youtube: "nnrECgBw30U", name: "Shooting Stars"},
         {youtube: "cp6XGd-Ge-w", name: "Don't Tattle On Me"},
         {youtube: "FAf8ut69Sa4", name: "Colours"},
-        {youtube: "KqnxVO5QiCs", name: "The Best Day Ever"},
-        {youtube: "tiXhkcb4q7U", name: "Brain Power"},
+        {youtube: "qK_NeRZOdq4", name: "Ed Sheeran - Shape Of You"},
+        {youtube: "24rreFqTmO4", name: "but if you close your eyes remix"},
         {youtube: "oWz4fHcCX0U", name: "Try Everything"},
         {youtube: "K4DyBUG242c", name: "Cartoon On & On"},
         {youtube: "qzVSd4egH9s", name: "Set My heart Afire-Defqwop x Panda Nation"},
@@ -240,7 +240,7 @@ var l_musicPlaylist = [
         {youtube: "jD9dr2ZRm9A", name: "Adele Someone"},
         {youtube: "KnmQdHSRQ1U", name: "I Am Alive Rick and Morty"},
         {youtube: "lOr-22Ra7S0", name: "Schwifty Beat"},
-        {youtube: "HZ5m_nlfZe4", name: "Noob-Noob!"},
+        {youtube: "mlmpVkhV0X4", name: "Faded vs Closer Mashup Alan Walker, The Chainsmokers & Halsey"},
         {youtube: "avbFUPZRPOU", name: "Whirly Dirly"},
         {youtube: "6wlbB1PTzJU", name: "Summer Smile Silent Partner"},
         {youtube: "EQlgcK25wh0", name: "Outnumbered"},
@@ -267,7 +267,7 @@ var l_musicPlaylist = [
        {youtube: "dUpBNu6ckfU", name: "Good Things"},
        {youtube: "LPn0KFlbqX8", name: "Cyndi Lauper True Colors"},
        {youtube: "9mW4qmh8_9g", name: "Martika Toy Soldiers Lyrics"},
-       {youtube: "509yiHTzTH4", name: "Five nights at Freddy's 4 Song The Final Chapter"}
+       {youtube: "K0GqcpVy5EA", name: "Sorrow - Kalypso"}
 
 
 ];
@@ -295,15 +295,15 @@ var l_messages = [
         "Do Not Ask For Ranks Please Apply On The Forums!",
         "I Don't Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get You Ip Banned!",
-        "Poseidon Is Gay XD :)!",
+        ": Welcome to SkeletalServers!",
         "Check Out Ceyayroxs Youtube Channel He Is A Cool Dude Bro!",
-        "Faded Servers Is Complete 100% Guaranteed Cancer Cheap Lying Scumbags Xd!",
+        "Make sure to read the rules!",
         "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
         "Don't Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
         "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS Here Is My Email Taine049@gmail.com!",
         "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
-        "Sky Rp Is Cancer M8 Play Here XD Save Yourself From BullShit Trust Me DarkRp Is Full Of It!"
+        "Enjoy your time on our server!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
