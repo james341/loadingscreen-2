@@ -303,7 +303,8 @@ var l_messages = [
         "Don't Like The Server Then Get The Fuck Out Of Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
         "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS Here Is My Email Taine049@gmail.com!",
         "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
-        "Enjoy your time on our server!"
+        "Enjoy your time on our server!",
+        "Any Kind Of Cyber Bullying Is Not Tolerated Here Please Respect All Players If You're Caught Doing This It's A Permanent Ban For Life!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
