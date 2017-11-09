@@ -78,10 +78,10 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 /*Music playlist
 Place how much .ogg songs you want
