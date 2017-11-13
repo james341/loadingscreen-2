@@ -88,8 +88,10 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "rP2UYqleZYU", name: "Song 1"},
-	{youtube: "4_PMZUu9pww", name: "Song 2"}
-	
+	{youtube: "4_PMZUu9pww", name: "Song 2"},
+	{youtube: "B7fxeWzRB5E", name: "Song 3"},
+        {youtube: "ZDQ5-i9RGB8", name: "Song 4"}
+
 ];
 
 /*Random music order?*/
