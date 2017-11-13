@@ -120,7 +120,7 @@ var l_messages = [
         "Make sure to read the rules!",
         "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
-        "Don't Like The Server Then Get Lwave Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
+        "Don't Like The Server Then Get Leave Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
         "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS Here Is My Email Taine049@gmail.com!",
         "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
         "Enjoy your time on our server!",
