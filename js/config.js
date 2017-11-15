@@ -87,10 +87,11 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "rP2UYqleZYU", name: "Song 1"},
+	{youtube: "YO1xot13JLQ", name: "Song 1"},
 	{youtube: "4_PMZUu9pww", name: "Song 2"},
 	{youtube: "B7fxeWzRB5E", name: "Song 3"},
-        {youtube: "ZDQ5-i9RGB8", name: "Song 4"}
+        {youtube: "ZDQ5-i9RGB8", name: "Song 4"},
+        {youtube: "BuvXJKNO-MU", name: "Song 5"}
 
 ];
 
