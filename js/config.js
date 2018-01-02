@@ -87,11 +87,11 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "YO1xot13JLQ", name: "Song 1"},
-	{youtube: "4_PMZUu9pww", name: "Song 2"},
-	{youtube: "B7fxeWzRB5E", name: "Song 3"},
-        {youtube: "ZDQ5-i9RGB8", name: "Song 4"},
-        {youtube: "BuvXJKNO-MU", name: "Song 5"}
+	{youtube: "cvCjNxJJhas", name: "Boys Of Summer"},
+	{youtube: "0GbfHjG6EhY", name: "A Flock Of Seagulls I Ran"},
+	{youtube: "ptmKHhxr6Y0", name: "PayPhone"},
+        {youtube: "PimD6LtlMtM", name: "KC & The Sunshine - Give it Up"},
+        {youtube: "FAf8ut69Sa4", name: "Colours HQ Instrumental"}
 
 ];
 
@@ -118,13 +118,13 @@ var l_messages = [
         "Do Not Ask For Ranks Please Apply On The Forums!",
         "I Don't Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get You Ip Banned!",
-        ": Welcome to Deity RP!",
+        "Welcome to Deity RP!",
         "Check Out Ceyayroxs Youtube Channel He Is A Cool Dude Bro!",
         "Make sure to read the rules!",
         "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
         "Don't Like The Server Then Get Leave Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
-        "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here FFS Here Is My Email Taine049@gmail.com!",
+        "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here My Email Is Taine049@gmail.com!",
         "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
         "Enjoy your time on our server!",
         "Any Kind Of Cyber Bullying Is Not Tolerated Here Please Respect All Players If You're Caught Doing This It's A Permanent Ban For Life!"
