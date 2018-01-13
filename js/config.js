@@ -95,7 +95,8 @@ var l_musicPlaylist = [
 	{youtube: "0GbfHjG6EhY", name: "A Flock Of Seagulls I Ran"},
 	{youtube: "ptmKHhxr6Y0", name: "PayPhone"},
         {youtube: "PimD6LtlMtM", name: "KC & The Sunshine - Give it Up"},
-        {youtube: "FAf8ut69Sa4", name: "Colours HQ Instrumental"}
+        {youtube: "0IYHGj_pSAg", name: "I'm Like A Bird Instrumental"},
+        {youtube: "xoUVtthd7gY", name: "Bastille - Pompeii Audien Remix"}
 
 ];
 
@@ -127,11 +128,11 @@ var l_messages = [
         "Make sure to read the rules!",
         "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
-        "Don't Like The Server Then Get Leave Here Then. Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
-        "Donate Your Money To My Server Or No Vip Shit For You. I Ant Runging A Charity Here My Email Is Taine049@gmail.com!",
+        "Don't Like The Server Then Leave Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
+        "Donate Your Money To My Server!",
         "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
         "Enjoy your time on our server!",
-        "Any Kind Of Cyber Bullying Is Not Tolerated Here Please Respect All Players If You're Caught Doing This It's A Permanent Ban For Life!"
+        "Cyber Bullying Is Not Tolerated Here Please Respect All Players If You're Caught Doing This It's A Permanent Ban!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
