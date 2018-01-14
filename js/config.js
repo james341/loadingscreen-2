@@ -96,7 +96,9 @@ var l_musicPlaylist = [
 	{youtube: "ptmKHhxr6Y0", name: "PayPhone"},
         {youtube: "PimD6LtlMtM", name: "KC & The Sunshine - Give it Up"},
         {youtube: "0IYHGj_pSAg", name: "I'm Like A Bird Instrumental"},
-        {youtube: "xoUVtthd7gY", name: "Bastille - Pompeii Audien Remix"}
+        {youtube: "XK1n-Yv6N4E", name: "Bastille - Pompeii Audien Remix"},
+        {youtube: "SE_QDk3dR4c", name: "Catmosphere Candy Coloured Sky"},
+        {youtube: "JfVdQ0YuUY0", name: "Radioactive - Imagine Dragons"}
 
 ];
 
@@ -117,16 +119,16 @@ var l_messages = [
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
         "Don't You Dare Disconnect From Here Or We Will Hunt You Down And Destroy You!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here!",
-        "Invite Your Friends For Your Chance To Win Some Really Cool Stuff!",
+        "Invite Your Friends For Your Chance To Win VIP!",
         "Here To Advertise Your Server ? Well Then You Can Fuck Off Out Of Here!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
-        "Do Not Ask For Ranks Please Apply On The Forums!",
+        "Do Not Ask For Ranks Apply On The Forums!",
         "I Don't Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get You Ip Banned!",
-        "Welcome to Deity RP!",
-        "Check Out Ceyayroxs Youtube Channel He Is A Cool Dude Bro!",
+        "Welcome to Golden Servers!",
+        "Check Out Ceyayroxs Youtube Channel Bro!",
         "Make sure to read the rules!",
-        "I Have had It With Them Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
+        "Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
         "Don't Like The Server Then Leave Go Join Your Favorite SandBox Server You Little Bitching Piece Of Shit!",
         "Donate Your Money To My Server!",
