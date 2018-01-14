@@ -58,6 +58,9 @@ var l_bgImages = [
         "image3.jpg",
         "image4.jpg",
         "image5.jpg",
+        "image6.jpg",
+        "image7.jpg",
+        "image8.jpg",
 ];
 
 /*Random background images order?*/
@@ -95,10 +98,12 @@ var l_musicPlaylist = [
 	{youtube: "0GbfHjG6EhY", name: "A Flock Of Seagulls I Ran"},
 	{youtube: "ptmKHhxr6Y0", name: "PayPhone"},
         {youtube: "PimD6LtlMtM", name: "KC & The Sunshine - Give it Up"},
-        {youtube: "0IYHGj_pSAg", name: "I'm Like A Bird Instrumental"},
+        {youtube: "0IYHGj_pSAg", name: "I'm Like A Bird"},
         {youtube: "XK1n-Yv6N4E", name: "Bastille - Pompeii Audien Remix"},
         {youtube: "SE_QDk3dR4c", name: "Catmosphere Candy Coloured Sky"},
-        {youtube: "JfVdQ0YuUY0", name: "Radioactive - Imagine Dragons"}
+        {youtube: "JfVdQ0YuUY0", name: "Radioactive - Imagine Dragons"},
+        {youtube: "EUEphhX80YU", name: "Coldplay - Paradise"},
+        {youtube: "EUEphhX80YU", name: "We Are One - Vexento"}
 
 ];
 
