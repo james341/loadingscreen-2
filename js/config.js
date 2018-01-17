@@ -103,7 +103,7 @@ var l_musicPlaylist = [
         {youtube: "SE_QDk3dR4c", name: "Catmosphere Candy Coloured Sky"},
         {youtube: "JfVdQ0YuUY0", name: "Radioactive - Imagine Dragons"},
         {youtube: "EUEphhX80YU", name: "Coldplay - Paradise"},
-        {youtube: "EUEphhX80YU", name: "We Are One - Vexento"},
+        {youtube: "2N4t_kChuiU", name: "We Are One - Vexento"},
         {youtube: "Q7MXO7tMwc", name: "Owl City Fireflies"},
         {youtube: "V5UMTNPNgng", name: "Michael Buble Haven't Met You Yet"}
 
