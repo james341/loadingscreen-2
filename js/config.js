@@ -105,7 +105,7 @@ var l_musicPlaylist = [
         {youtube: "EUEphhX80YU", name: "Coldplay - Paradise"},
         {youtube: "EUEphhX80YU", name: "We Are One - Vexento"},
         {youtube: "Q7MXO7tMwc", name: "Owl City Fireflies"},
-        {youtube: "HZoPmu3Dvas", name: "walking in a straight line"}
+        {youtube: "V5UMTNPNgng", name: "Michael Buble Haven't Met You Yet"}
 
 ];
 
