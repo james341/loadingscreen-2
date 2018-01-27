@@ -107,7 +107,10 @@ var l_musicPlaylist = [
         {youtube: "Q7MXO7tMwc", name: "Owl City Fireflies"},
         {youtube: "V5UMTNPNgng", name: "Michael Buble Haven't Met You Yet"},
         {youtube: "0BPu5m63_go", name: "Imagine Dragons Radioactive"},
-        {youtube: "3JFYSA-10xc", name: "Galantis No Money"}
+        {youtube: "3JFYSA-10xc", name: "Galantis No Money"},
+        {youtube: "Ida_1AVJDMs", name: "Fox Stevenson All This Time"},
+        {youtube: "Bznxx12Ptl0", name: "Im An Albatraoz"},
+        {youtube: "bSgl08QkR-U", name: "Becouse Im Happy"}
 
 ];
 
