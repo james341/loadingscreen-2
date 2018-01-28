@@ -110,7 +110,10 @@ var l_musicPlaylist = [
         {youtube: "3JFYSA-10xc", name: "Galantis No Money"},
         {youtube: "Ida_1AVJDMs", name: "Fox Stevenson All This Time"},
         {youtube: "Bznxx12Ptl0", name: "Im An Albatraoz"},
-        {youtube: "bSgl08QkR-U", name: "Becouse Im Happy"}
+        {youtube: "bSgl08QkR-U", name: "Becouse Im Happy"},
+        {youtube: "HOnqr8ifta0", name: "Bruno Mars Treasure"},
+        {youtube: "M2TU662vy-Y", name: "Swedish House Mafia Don't You Worry Child"},
+        {youtube: "OK031NYi4AQ", name: "twenty one pilots"}
 
 ];
 
