@@ -109,12 +109,12 @@ var l_musicPlaylist = [
 	{youtube: "ptmKHhxr6Y0", name: "PayPhone"},
         {youtube: "DVn8OqZEAsg", name: "Hello Adele"},
         {youtube: "0IYHGj_pSAg", name: "I'm Like A Bird"},
-        {youtube: "XK1n-Yv6N4E", name: "Bastille - Pompeii Audien Remix"},
+        {youtube: "V_YSoM-Wt9Q", name: "Alicia Keys - No One"},
         {youtube: "SE_QDk3dR4c", name: "Catmosphere Candy Coloured Sky"},
         {youtube: "JfVdQ0YuUY0", name: "Radioactive - Imagine Dragons"},
         {youtube: "EUEphhX80YU", name: "Coldplay Paradise"},
         {youtube: "2N4t_kChuiU", name: "We Are One Vexento"},
-        {youtube: "FUK6egJ0aLc", name: "Mysterious Forest"},
+        {youtube: "5JlrDzdW2lQ", name: "Jordin Sparks No Air"},
         {youtube: "V5UMTNPNgng", name: "Michael Buble Haven't Met You Yet"},
         {youtube: "0BPu5m63_go", name: "Imagine Dragons Radioactive"},
         {youtube: "3JFYSA-10xc", name: "Galantis No Money"},
@@ -125,7 +125,9 @@ var l_musicPlaylist = [
         {youtube: "M2TU662vy-Y", name: "Swedish House Mafia Don't You Worry Child"},
         {youtube: "OK031NYi4AQ", name: "twenty one pilots"},
         {youtube: "CPy2TLPbpVY", name: "Beach MBB"},
-        {youtube: "2GW4pD-bKc0", name: "It Was Not Your Fault But Mine"}
+        {youtube: "2GW4pD-bKc0", name: "It Was Not Your Fault But Mine"},
+        {youtube: "4_PMZUu9pww", name: "On Top Of The World Imagine Dragons"},
+        {youtube: "Y53kOdnjWec", name: "Echosmith Cool Kids"}
 
 ];
 
