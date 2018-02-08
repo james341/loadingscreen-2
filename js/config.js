@@ -105,7 +105,7 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "cvCjNxJJhas", name: "Boys Of Summer"},
-	{youtube: "0GbfHjG6EhY", name: "A Flock Of Seagulls I Ran"},
+	{youtube: "mSLuJYtl89Y", name: "Lensko - Let's Go"},
 	{youtube: "ptmKHhxr6Y0", name: "PayPhone"},
         {youtube: "DVn8OqZEAsg", name: "Hello Adele"},
         {youtube: "0IYHGj_pSAg", name: "I'm Like A Bird"},
@@ -118,14 +118,14 @@ var l_musicPlaylist = [
         {youtube: "V5UMTNPNgng", name: "Michael Buble Haven't Met You Yet"},
         {youtube: "0BPu5m63_go", name: "Imagine Dragons Radioactive"},
         {youtube: "3JFYSA-10xc", name: "Galantis No Money"},
-        {youtube: "Ida_1AVJDMs", name: "Fox Stevenson All This Time"},
-        {youtube: "Bznxx12Ptl0", name: "Im An Albatraoz"},
-        {youtube: "bSgl08QkR-U", name: "Becouse Im Happy"},
+        {youtube: "g6swHZbWtRc", name: "Happy - MBB"},
+        {youtube: "CPy2TLPbpVY", name: "Beach - MBB"},
+        {youtube: "PqGSUPNC7Cg", name: "Let's Party - HookSounds"},
         {youtube: "HOnqr8ifta0", name: "Bruno Mars Treasure"},
         {youtube: "M2TU662vy-Y", name: "Swedish House Mafia Don't You Worry Child"},
         {youtube: "OK031NYi4AQ", name: "twenty one pilots"},
         {youtube: "CPy2TLPbpVY", name: "Beach MBB"},
-        {youtube: "2GW4pD-bKc0", name: "It Was Not Your Fault But Mine"},
+        {youtube: "hLTgQ5SC-PU", name: "DO YOU KNOW DA WAE"},
         {youtube: "4_PMZUu9pww", name: "On Top Of The World Imagine Dragons"},
         {youtube: "Y53kOdnjWec", name: "Echosmith Cool Kids"}
 
