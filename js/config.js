@@ -104,7 +104,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "QRwqpBJDqaU", name: "Keep The Faith - Positive Uplifting Instrumental Background Music for Video"},
+	{youtube: "oNXzMBA9VU4&t=97s", name: "Golden Servers Installation Music"},
 	
 ];
 
