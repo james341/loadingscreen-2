@@ -71,6 +71,7 @@ var l_bgImages = [
         "image16.jpg",
         "image17.jpg",
         "image18.jpg",
+
 ];
 
 /*Random background images order?*/
@@ -104,7 +105,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "kERgtN5ntMY", name: "Golden Servers Installation Music"},
+	{youtube: "bvHR_KHELZ4", name: "Nightcore - Waiting For Love"},
 	
 ];
 
@@ -123,16 +124,16 @@ var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"The Admins Are AlWays Watching So Dont Fuck Up. And Please Behave!",
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-        "Golden Servers Are Not To Be Held Responsible For Refunds. Ones You Pay For VIP. You Agree To Our Terms Of Service!",
+        "Don't You Dare Disconnect From Here Or We Will Hunt You Down And Destroy You!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here!",
         "Invite Your Friends For Your Chance To Win VIP!",
-	"Please Do Not Advertise Other Servers!", 
+        "Here To Advertise Your Server ? Well Then You Can Fuck Off Out Of Here!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Apply On The Forums!",
-        "Failure To Obey Our Rules Can Result In A ban/kick/WhatEver, Obviously!",
-        "Crashing The Server Will Get Your Ip Banned And Steam Id Banned!",
+        "I Don't Know What Else To Fucking Say AnyMore Just Be Good Ok!",
+        "Crashing The Server Will Get Your Ip Banned!",
         "Welcome to Golden Servers!",
-        "Check Out Our Golden Servers Youtube Channel!",
+        "Check Out Ceyayroxs Youtube Channel Bro!",
         "Make sure to read the rules!",
         "Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
