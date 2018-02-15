@@ -105,33 +105,7 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "QRwqpBJDqaU", name: "Keep The Faith - Positive Uplifting Instrumental Background Music for Video"},
-	{youtube: "mSLuJYtl89Y", name: "Lensko - Let's Go"},
-	{youtube: "g7Kd0P-AFIQ", name: "Mac Startup Remix"},
-        {youtube: "DVn8OqZEAsg", name: "Hello Adele"},
-        {youtube: "nGbhR2qB5g8", name: "Imagine Dragons Demons"},
-        {youtube: "V_YSoM-Wt9Q", name: "Alicia Keys - No One"},
-        {youtube: "SE_QDk3dR4c", name: "Catmosphere Candy Coloured Sky"},
-        {youtube: "JfVdQ0YuUY0", name: "Radioactive - Imagine Dragons"},
-        {youtube: "Dw20ZkMwI10", name: "Dog and Pony Silent Partner"},
-        {youtube: "iN9oG6oaaQA", name: "Windows 10 Official Theme Song"},
-        {youtube: "XtkHFe8i9RU", name: "windows xp song"},
-        {youtube: "haBTLefWm2U", name: "Mac Computer"},
-        {youtube: "0BPu5m63_go", name: "Imagine Dragons Radioactive"},
-        {youtube: "qeIkbW49B6A", name: "Greenery - Silent Partner"},
-        {youtube: "SNaGVbPuK-4", name: "XP Startup Theme"},
-        {youtube: "CPy2TLPbpVY", name: "Beach - MBB"},
-        {youtube: "PqGSUPNC7Cg", name: "Let's Party - HookSounds"},
-        {youtube: "eRpSjPLMlRY", name: "windows xp"},
-        {youtube: "Ml_eZPDEEms", name: "Hello Windows"},
-        {youtube: "OK031NYi4AQ", name: "twenty one pilots"},
-        {youtube: "TU_UF9FMcZE", name: "Windows ME Extended Theme"},
-        {youtube: "HmXluLvoJKY", name: "Can't stop the feeling"},
-        {youtube: "-U3sP-KbrGk", name: "The Windows XP Tour Music"},
-        {youtube: "Y53kOdnjWec", name: "Echosmith Cool Kids"},
-        {youtube: "nAGp4kMt0zI", name: "Coldplay - Viva La Vida"},
-        {youtube: "oNXzMBA9VU4", name: "Windows XP Installation Music"},
-        {youtube: "VAz3HfbdKyQ", name: "Ocean THBD"}
-
+	
 ];
 
 /*Random music order?*/
