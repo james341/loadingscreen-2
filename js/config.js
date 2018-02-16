@@ -105,7 +105,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "bvHR_KHELZ4", name: "Nightcore - Waiting For Love"},
+	{youtube: "gkvbAOgEKLI", name: "Golden Servers Installation Music"},
 	
 ];
 
@@ -133,14 +133,14 @@ var l_messages = [
         "I Don't Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get Your Ip Banned!",
         "Welcome to Golden Servers!",
-        "Check Out Ceyayroxs Youtube Channel Bro!",
-        "Make sure to read the rules!",
-        "Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
+        "You Cant Finf AnyThing Better Then GS M8!",
+        "Now Please Make Be Sure To Read The Rules!",
+        "Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
-        "Don't Like The Server Then Leave Go Join Your Favorite SandBox Server!",
+        "Don't Like The Server Then Leave!",
         "Donate Your Money To My Server!",
-        "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
-        "Enjoy your time on our server!",
+        "Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
+        "Enjoy Your Time On Our Server!",
         "Cyber Bullying Is Not Tolerated Here Please Respect All Players If You're Caught Doing This It's A Permanent Ban!"
 ];
 /*Random message order?*/
