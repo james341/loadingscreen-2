@@ -110,7 +110,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "gkvbAOgEKLI", name: "Golden Servers Installation Music"},
+	{youtube: "uYW8KOK50IQ", name: "Golden Servers Installation Music"},
 	
 ];
 
