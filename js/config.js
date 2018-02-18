@@ -142,18 +142,18 @@ var l_messages = [
         "Here To Advertise Your Server ? Well Then You Can Fuck Off Out Of Here!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Apply On The Forums!",
-        "I Don't Know What Else To Fucking Say AnyMore Just Be Good Ok!",
+        "Be Respectful To All Players Out-Of-Character!",
         "Crashing The Server Will Get Your Ip Banned!",
-        "Welcome to Golden Servers!",
+        "Welcome to Golden Servers!", 
         "You Cant Find AnyThing Better Then GS M8!",
         "Now Please Make Be Sure To Read The Rules!",
         "Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
-        "Don't Like The Server Then Leave!",
+        "Like The Server Invite Your Friends!",
         "Donate Your Money To My Server!",
         "Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
-        "Enjoy Your Time On Our Server!",
-        "Cyber Bullying Is Not Tolerated Here Please Respect All Players If You're Caught Doing This It's A Permanent Ban!"
+        "Enjoy The Server!",
+        "Bullying Is Not Tolerated Respect All Players If You're Caught Doing This It's A Permanent Ban!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
