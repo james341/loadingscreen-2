@@ -56,8 +56,7 @@ var l_bgImages = [
 	"image1.jpg",
         "image2.jpg",
         "image3.jpg",
-        "image4.jpg",
-       
+              
 ];
 
 /*Random background images order?*/
@@ -110,19 +109,19 @@ var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"The Admins Are AlWays Watching So Dont Fuck Up. And Please Behave!",
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-        "Don't You Dare Disconnect From Here Or We Will Hunt You Down And Destroy You!",
+        "Don't abuse entities, this includes spamming them, using them to annoy other players and spamming smoke grenades!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here!",
         "Invite Your Friends For Your Chance To Win VIP!",
-        "Here To Advertise Your Server ? Well Then You Can Fuck Off Out Of Here!", 
+        "You must wait 10 minutes before raiding the same place again. This is ten minutes from the END of the first raid, not the start!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Apply On The Forums!",
         "Be Respectful To All Players Out-Of-Character!",
         "Crashing The Server Will Get Your Ip Banned!",
         "Welcome to Golden Servers!", 
         "You Cant Find AnyThing Better Then GS M8!",
-        "Now Please Make Be Sure To Read The Rules!",
+        "Do not disrespect other players in out of character (OOC). This includes being racist and/or sexually harassing players!",
         "Children Asking For Ranks Like Come On Right Fuck Me XD!",
-        "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
+        "Random Deathmatch RDM Killing without legitimate roleplay reasoning - also known as freekilling!",
         "Like The Server Invite Your Friends!",
         "Donate Your Money To My Server!",
         "Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
