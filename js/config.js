@@ -93,6 +93,7 @@ var l_musicPlaylist = [
 	{youtube: "uYW8KOK50IQ", name: "FreedomNetWorks Installation Music"},
 	{youtube: "9NApuzbEbcw", name: "FreedomNetWorks Soundtrack"},
         {youtube: "IHRM5A6bXFQ", name: "FreedomNetWorks Good Ending Theme"},
+        {youtube: "a5DdD2dTDBo", name: "FreedomNetWorks Gabe's Watching"},
 
 ];
 
