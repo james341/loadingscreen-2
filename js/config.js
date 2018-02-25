@@ -118,7 +118,7 @@ var l_messages = [
         "Do Not Ask For Ranks Apply On The Forums!",
         "Be Respectful To All Players Out-Of-Character!",
         "Crashing The Server Will Get Your Ip Banned!",
-        "Welcome to Golden Servers!", 
+        "Welcome This Is Freedom-Net-Works!", 
         "You Cant Find AnyThing Better Then GS M8!",
         "Do not disrespect other players in out of character (OOC). This includes being racist and/or sexually harassing players!",
         "Children Asking For Ranks Like Come On Right Fuck Me XD!",
@@ -127,7 +127,8 @@ var l_messages = [
         "Donate Your Money To My Server!",
         "Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
         "Enjoy The Server!",
-        "Bullying Is Not Tolerated Respect All Players If You're Caught Doing This It's A Permanent Ban!"
+        "Bullying Is Not Tolerated Respect All Players If You're Caught Doing This It's A Permanent Ban!",
+        "Minge Groups Like The MLU Will Be Permanently Banned On Sight Becouse I Dont Give A Shit!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
