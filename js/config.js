@@ -91,7 +91,8 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "uYW8KOK50IQ", name: "FreedomNetWorks Installation Music"},
-	{youtube: "9NApuzbEbcw", name: "Pizza Place Soundtrack"},
+	{youtube: "9NApuzbEbcw", name: "FreedomNetWorks Soundtrack"},
+        {youtube: "IHRM5A6bXFQ", name: "FreedomNetWorks Good Ending Theme"},
 
 ];
 
