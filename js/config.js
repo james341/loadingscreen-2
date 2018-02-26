@@ -96,6 +96,8 @@ var l_musicPlaylist = [
         {youtube: "a5DdD2dTDBo", name: "FreedomNetWorks Gabe's Watching"},
         {youtube: "XtIBHfOdyX0", name: "FreedomNetWorks Berdthday boy"},
         {youtube: "l8wMVmY7Zpw", name: "FreedomNetWorks Berdst friend"},
+        {youtube: "uDGEpsFrBT8", name: "FreedomNetWorks Gabe the halls"},
+        {youtube: "kf7lybT9Y0o", name: "FreedomNetWorks Tour Music"},
 
 ];
 
@@ -133,6 +135,7 @@ var l_messages = [
         "Enjoy The Server!",
         "Bullying Is Not Tolerated Respect All Players If You're Caught Doing This It's A Permanent Ban!",
         "Minge Groups Like The MLU Will Be Permanently Banned On Sight Becouse I Dont Give A Shit!"
+        "Any Use Of Citizen Hack Is Not Allowed If Your Known To Have This Hack It's A straight Up Ban!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
