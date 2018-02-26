@@ -136,6 +136,7 @@ var l_messages = [
         "Bullying Is Not Tolerated Respect All Players If You're Caught Doing This It's A Permanent Ban!",
         "Minge Groups Like The MLU Will Be Permanently Banned On Sight Becouse I Dont Give A Shit!",
         "Any Use Of Citizen Hack Is Not Allowed If Your Known To Have This Hack It's A straight Up Ban!"
+
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
