@@ -97,7 +97,7 @@ var l_musicPlaylist = [
         {youtube: "XtIBHfOdyX0", name: "FreedomNetWorks Berdthday boy"},
         {youtube: "l8wMVmY7Zpw", name: "FreedomNetWorks Berdst friend"},
         {youtube: "uDGEpsFrBT8", name: "FreedomNetWorks Gabe the halls"},
-        {youtube: "kf7lybT9Y0o", name: "FreedomNetWorks Tour Music"},
+        {youtube: "kf7lybT9Y0o", name: "FreedomNetWorks Tour Music"}
 
 ];
 
