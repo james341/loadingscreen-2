@@ -134,7 +134,7 @@ var l_messages = [
         "Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
         "Enjoy The Server!",
         "Bullying Is Not Tolerated Respect All Players If You're Caught Doing This It's A Permanent Ban!",
-        "Minge Groups Like The MLU Will Be Permanently Banned On Sight Becouse I Dont Give A Shit!"
+        "Minge Groups Like The MLU Will Be Permanently Banned On Sight Becouse I Dont Give A Shit!",
         "Any Use Of Citizen Hack Is Not Allowed If Your Known To Have This Hack It's A straight Up Ban!"
 ];
 /*Random message order?*/
