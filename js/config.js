@@ -98,13 +98,13 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "bvHR_KHELZ4", name: "Nightcore - Waiting For Love"},
-	{youtube: "nXxZQ2t7NKk", name: "Nightcore - Too Good At Goodbyes"},
-	{youtube: "ywGE8Ydjzsc", name: "Panda Eyes - KIKO"},
-        {youtube: "-iwYHk_SwNA", name: "Panda Eyes - Colorblind"},
-        {youtube: "uInmFU6JkU", name: "Lost Woods Legend of Zelda"},
-        {youtube: "d1vQMIisJuc", name: "I Wanna Be Like You"},
-        {youtube: "ZNra8eK0K6k", name: "Alessia Cara How Far I'll Go"},
+	{youtube: "l8wMVmY7Zpw", name: "Freedom Networks Berdst friend"},
+	{youtube: "XtIBHfOdyX0", name: "Freedom Networks - Berdthday boy"},
+	{youtube: "JLLmX8-WHrw", name: "Freedom Networks - Gabe's Watching"},
+        {youtube: "gkvbAOgEKLI", name: "Freedom Networks - installation music"},
+        {youtube: "uYW8KOK50IQ", name: "Freedom Networks - Istallation Music"},
+        {youtube: "QoitiIbdeaM", name: "Freedom Networks - Said The Sky Remix"},
+        {youtube: "DTF8PQpo-2M", name: "Freedom Networks - Positive 5 - PeriTune"},
 
 ];
 
