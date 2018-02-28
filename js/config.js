@@ -56,6 +56,15 @@ var l_bgImages = [
 	"image1.jpg",
         "image2.jpg",
         "image3.jpg",
+        "image4.jpg",
+        "image5.jpg",
+        "image6.jpg",
+        "image7.jpg",
+        "image8.jpg",
+        "image9.jpg",
+        "image10.jpg",
+        "image11.jpg",
+        "image12.jpg",
 ];
 
 /*Random background images order?*/
@@ -89,13 +98,13 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "uYW8KOK50IQ", name: "FreedomNetWorks Installation Music"},
-	{youtube: "9NApuzbEbcw", name: "FreedomNetWorks Soundtrack"},
-        {youtube: "IHRM5A6bXFQ", name: "FreedomNetWorks Good Ending Theme"},
-        {youtube: "a5DdD2dTDBo", name: "FreedomNetWorks Gabe's Watching"},
-        {youtube: "XtIBHfOdyX0", name: "FreedomNetWorks Berdthday boy"},
-        {youtube: "l8wMVmY7Zpw", name: "FreedomNetWorks Berdst friend"},
-        {youtube: "kf7lybT9Y0o", name: "FreedomNetWorks Whistler Tracks"} 
+	{youtube: "bvHR_KHELZ4", name: "Nightcore - Waiting For Love"},
+	{youtube: "nXxZQ2t7NKk", name: "Nightcore - Too Good At Goodbyes"},
+	{youtube: "ywGE8Ydjzsc", name: "Panda Eyes - KIKO"},
+        {youtube: "-iwYHk_SwNA", name: "Panda Eyes - Colorblind"},
+        {youtube: "uInmFU6JkU", name: "Lost Woods Legend of Zelda"},
+        {youtube: "d1vQMIisJuc", name: "I Wanna Be Like You"},
+        {youtube: "ZNra8eK0K6k", name: "Alessia Cara How Far I'll Go"},
 
 ];
 
@@ -114,26 +123,24 @@ var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"The Admins Are AlWays Watching So Dont Fuck Up. And Please Behave!",
 	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-        "Don't abuse entities, this includes spamming them, using them to annoy other players and spamming smoke grenades!",
+        "Don't You Dare Disconnect From Here Or We Will Hunt You Down And Destroy You!",
         "Thanks For Playing Here Hope You Enjoy Your Time Here!",
         "Invite Your Friends For Your Chance To Win VIP!",
-        "You must wait 10 minutes before raiding the same place again. This is ten minutes from the END of the first raid, not the start!", 
+        "Here To Advertise Your Server ? Well Then You Can Fuck Off Out Of Here!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Apply On The Forums!",
-        "Be Respectful To All Players Out-Of-Character!",
+        "I Don't Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get Your Ip Banned!",
-        "Welcome This Is Freedom-Net-Works!", 
-        "You Cant Find AnyThing Better Then GS M8!",
-        "Do not disrespect other players in out of character (OOC). This includes being racist and/or sexually harassing players!",
-        "Children Asking For Ranks Like Come On Right Fuck Me XD!",
-        "Random Deathmatch RDM Killing without legitimate roleplay reasoning - also known as freekilling!",
-        "Like The Server Invite Your Friends!",
+        "Welcome to Golden Servers!",
+        "Check Out Ceyayroxs Youtube Channel Bro!",
+        "Make sure to read the rules!",
+        "Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
+        "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
+        "Don't Like The Server Then Leave Go Join Your Favorite SandBox Server!",
         "Donate Your Money To My Server!",
-        "Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
-        "Enjoy The Server!",
-        "Bullying Is Not Tolerated Respect All Players If You're Caught Doing This It's A Permanent Ban!",
-        "Minge Groups Like The MLU Will Be Permanently Banned On Sight Becouse I Dont Give A Shit!",
-        "Any Use Of Citizen Hack Is Not Allowed If Your Known To Have This Hack Its A straight Up Ban!"
+        "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
+        "Enjoy your time on our server!",
+        "Cyber Bullying Is Not Tolerated Here Please Respect All Players If You're Caught Doing This It's A Permanent Ban!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
