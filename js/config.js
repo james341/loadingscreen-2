@@ -98,9 +98,9 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "l8wMVmY7Zpw", name: "Freedom Networks Berdst friend"},
-	{youtube: "XtIBHfOdyX0", name: "Freedom Networks - Berdthday boy"},
-	{youtube: "JLLmX8-WHrw", name: "Freedom Networks - Gabe's Watching"},
+	{youtube: "uiTGhGfmgfo", name: "Freedom Networks Pizzeria Simulator"},
+	{youtube: "6V1BWVNLCkU", name: "Freedom Networks - Jim Yosef Imagine"},
+	{youtube: "7SzlKLeBBzY", name: "Freedom Networks - Be Together"},
         {youtube: "gkvbAOgEKLI", name: "Freedom Networks - installation music"},
         {youtube: "uYW8KOK50IQ", name: "Freedom Networks - Istallation Music"},
         {youtube: "QoitiIbdeaM", name: "Freedom Networks - Said The Sky Remix"},
