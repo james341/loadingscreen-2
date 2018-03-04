@@ -59,6 +59,7 @@ var l_bgImages = [
         "image4.jpg",
         "image5.jpg",
         "image6.jpg",
+        "image7.jpg",
 ];
 
 /*Random background images order?*/
@@ -99,6 +100,7 @@ var l_musicPlaylist = [
         {youtube: "uYW8KOK50IQ", name: "Freedom Networks - Istallation Music"},
         {youtube: "QoitiIbdeaM", name: "Freedom Networks - Said The Sky Remix"},
         {youtube: "DTF8PQpo-2M", name: "Freedom Networks - Positive 5 - PeriTune"},
+        {youtube: "noyZUnVv_rs", name: "Freedom Networks - Dozen big black guys"},
 
 ];
 
