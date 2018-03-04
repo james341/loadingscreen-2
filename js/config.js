@@ -102,6 +102,8 @@ var l_musicPlaylist = [
         {youtube: "DTF8PQpo-2M", name: "Freedom Networks - Positive 5 PeriTune"},
         {youtube: "n2oTA5JSk80", name: "Freedom Networks - Last Summer Ikson"},
         {youtube: "fpnUrPUlJXY", name: "Freedom Networks - When Can I See You Again Owl"},
+        {youtube: "safkWMNJdDg", name: "Freedom Networks - Cher Believe"},
+        {youtube: "TKfS5zVfGBc", name: "Freedom Networks - System Dreamscape"},
 
 ];
 
