@@ -58,6 +58,7 @@ var l_bgImages = [
         "image3.jpg",
         "image4.jpg",
         "image5.jpg",
+        "image6.jpg",
 ];
 
 /*Random background images order?*/
@@ -133,7 +134,7 @@ var l_messages = [
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
         "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
         "You cannot kill yourself to evade a roleplay situation!",
-        "Cyber Bullying Is Not Tolerated Here Please Respect All Players If You're Caught Doing This It's A Permanent Ban!"
+        "Cyber Bullying Is Not Tolerated Respect All Players If You're Caught Doing This It's A Permanent Ban!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
