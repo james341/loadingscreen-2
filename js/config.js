@@ -96,18 +96,8 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "uiTGhGfmgfo", name: "Freedom Networks Pizzeria Simulator"},
-	{youtube: "6V1BWVNLCkU", name: "Freedom Networks - Jim Yosef Imagine"},
-	{youtube: "7SzlKLeBBzY", name: "Freedom Networks - Be Together"},
-        {youtube: "gkvbAOgEKLI", name: "Freedom Networks - installation music"},
-        {youtube: "uYW8KOK50IQ", name: "Freedom Networks - Istallation Music"},
-        {youtube: "QoitiIbdeaM", name: "Freedom Networks - Said The Sky Remix"},
-        {youtube: "DTF8PQpo-2M", name: "Freedom Networks - Positive 5 PeriTune"},
-        {youtube: "n2oTA5JSk80", name: "Freedom Networks - Last Summer Ikson"},
-        {youtube: "fpnUrPUlJXY", name: "Freedom Networks - When Can I See You Again Owl"},
-        {youtube: "safkWMNJdDg", name: "Freedom Networks - Cher Believe"},
-        {youtube: "TKfS5zVfGBc", name: "Freedom Networks - System Dreamscape"},
-
+	{youtube: "gkvbAOgEKLI", name: "Freedom Networks - installation music"},
+	
 ];
 
 /*Random music order?*/
