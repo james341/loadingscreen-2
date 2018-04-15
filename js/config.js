@@ -97,7 +97,10 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "gkvbAOgEKLI", name: "Freedom Networks - installation music"},
-	
+	{youtube: "0ksd0X2J-j8", name: "Freedom Networks - Pure Imagination"},
+        {youtube: "vUUEm_tIaAw", name: "Freedom Networks - One Summer's Day"},
+
+
 ];
 
 /*Random music order?*/
@@ -127,12 +130,12 @@ var l_messages = [
         "Do not build inside unowned buildings!",
         "Your base must have at least one entrance that is possible for thieves to lockpick. You are allowed to propblock excess entrances such as windows and extra doors!",
         "Use of CitizenHack is not Allowed if crought it's a Permanent Ip Ban!",
-        "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
-        "Don't Like The Server Then Leave Go Join Your Favorite SandBox Server!",
+        "Not doing your job could get you either fined in-game, or temporarily banned from that particular job!",
+        "Don't Like The Server Then Go Join Your Favorite SandBox Server!",
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
         "Do not prop climb, surf, kill, block, bridge, push, trap or spam!",
         "You cannot kill yourself to evade a roleplay situation!",
-        "Bullying Is Not Tolerated Respect All Players!"
+        "Bullying is not tolerated!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
