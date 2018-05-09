@@ -96,9 +96,9 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "gkvbAOgEKLI", name: "Freedom Networks - installation music"},
-	{youtube: "0ksd0X2J-j8", name: "Freedom Networks - Pure Imagination"},
-        {youtube: "vUUEm_tIaAw", name: "Freedom Networks - One Summer's Day"},
+	{youtube: "mrvSDaD4b2I", name: "Ultra 5 Gaming - Legitimate Business"},
+	{youtube: "djps4IvfYQc", name: "Ultra 5 Gaming - Sunday Drive"},
+        {youtube: "E5sWnnSqXOg", name: "Ultra 5 Gaming - Harbour Hustle"},
 
 
 ];
@@ -118,15 +118,15 @@ var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"Do not joke about crashing the server. Doing so will result in a permanent ban!",
 	"Mingeing In This Server Will Result In A Perma Ban!",
-        "Please Dont Disconnect From Freedom Networks Get To Know Us More!",
+        "Please Dont Disconnect Get to Know Us First!",
         "If your printers/items are stolen, you must wait one hour before rejoining the server if you chose to leave!",
         "Invite Your Friends For Your Chance To Win VIP!",
-        "Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!", 
-        "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
+        "Do NOT threaten to DDoS the server - This will result in a perma ban!", 
+        "Mingeing Is Unacceptable Behavior You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Apply On The Forums!",
         "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
         "Crashing The Server Will Get Your Ip Banned!",
-        "Welcome Your In Freedom Networks!",
+        "Welcome This Is Ultra5 Gaming!",
         "Do not build inside unowned buildings!",
         "Your base must have at least one entrance that is possible for thieves to lockpick. You are allowed to propblock excess entrances such as windows and extra doors!",
         "Use of CitizenHack is not Allowed if crought it's a Permanent Ip Ban!",
