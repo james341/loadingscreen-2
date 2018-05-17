@@ -99,6 +99,7 @@ var l_musicPlaylist = [
 	{youtube: "mrvSDaD4b2I", name: "Ultra 5 Gaming - Legitimate Business"},
 	{youtube: "0IYHGj_pSAg", name: "Ultra 5 Gaming - I'm Like A Bird"},
         {youtube: "xoUVtthd7gY", name: "Ultra 5 Gaming - Bastille - Pompeii"},
+        {youtube: "K4DyBUG242c", name: "Ultra 5 Gaming - Cartoon On & On"},
 
 
 ];
@@ -135,7 +136,7 @@ var l_messages = [
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
         "Do not prop climb, surf, kill, block, bridge, push, trap or spam!",
         "You cannot kill yourself to evade a roleplay situation!",
-        "Bullying is not tolerated!"
+        "Bullying Is Not Tolerated!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
