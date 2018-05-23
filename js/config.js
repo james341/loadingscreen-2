@@ -96,10 +96,11 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "mrvSDaD4b2I", name: "Ultra 5 Gaming - Legitimate Business"},
-	{youtube: "n2oTA5JSk80", name: "Ultra 5 Gaming - Last Summer - Ikson"},
+	{youtube: "cvCjNxJJhas", name: "Ultra 5 Gaming - Don Henley - Boys Of Summer"},
+	{youtube: "svcAwJQFVwM", name: "Ultra 5 Gaming - Toto - Africa"},
         {youtube: "B7fxeWzRB5E", name: "Ultra 5 Gaming - Maroon 5 - Payphone"},
         {youtube: "3I-pw_YtAok", name: "Ultra 5 Gaming - Pizzeria Simulator OST"},
+        {youtube: "AsXGO0sLkVQ", name: "Ultra 5 Gaming - Cyndi lauper- Time After Time"},
 
 
 ];
@@ -127,10 +128,10 @@ var l_messages = [
         "Do Not Ask For Ranks Apply On The Forums!",
         "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
         "Crashing The Server Will Get Your Ip Banned!",
-        "Welcome This Is Ultra5 Gaming!",
+        "Welcome To Ultra5 Gaming!",
         "Do not build inside unowned buildings!",
         "Your base must have at least one entrance that is possible for thieves to lockpick. You are allowed to propblock excess entrances such as windows and extra doors!",
-        "Use of CitizenHack is not Allowed if crought it's a Permanent Ip Ban!",
+        "CitizenHack is not Allowed if crought it's a Permanent!",
         "Not doing your job could get you either fined in-game, or temporarily banned from that particular job!",
         "Don't Like The Server Then Go Join Your Favorite SandBox Server!",
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
