@@ -63,6 +63,7 @@ var l_bgImages = [
         "image8.jpg",
         "image9.jpg",
         "image10.jpg",
+        "image11.jpg",
 ];
 
 /*Random background images order?*/
@@ -96,11 +97,11 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "cvCjNxJJhas", name: "Ultra 5 Gaming - Don Henley - Boys Of Summer"},
-	{youtube: "svcAwJQFVwM", name: "Ultra 5 Gaming - Toto - Africa"},
-        {youtube: "B7fxeWzRB5E", name: "Ultra 5 Gaming - Maroon 5 - Payphone"},
-        {youtube: "3I-pw_YtAok", name: "Ultra 5 Gaming - Pizzeria Simulator OST"},
-        {youtube: "AsXGO0sLkVQ", name: "Ultra 5 Gaming - Cyndi lauper- Time After Time"},
+	{youtube: "4_PMZUu9pww", name: "Ultra 5 Gaming - Don Henley - On Top Of The World - Imagine Dragons"},
+	{youtube: "JfVdQ0YuUY0", name: "Ultra 5 Gaming - Radioactive - Imagine Dragons"},
+        {youtube: "jK2aIUmmdP4", name: "Ultra 5 Gaming - Different Heaven & EH!DE - My Heart"},
+        {youtube: "ptmKHhxr6Y0", name: "Ultra 5 Gaming - Maroon 5 Ft. Wiz Khalifa - Payphone"},
+        {youtube: "gYRc0ORl3ac", name: "Ultra 5 Gaming - Silverchair - Straight Lines"},
 
 
 ];
@@ -117,27 +118,27 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
+	"You are allowed to keep someone kidnapped for a maximum of 10 minutes!",
 	"Do not joke about crashing the server. Doing so will result in a permanent ban!",
 	"Mingeing In This Server Will Result In A Perma Ban!",
-        "Please Dont Disconnect Get to Know Us First!",
+        "Do NOT RDM (Random Death Match)!",
         "If your printers/items are stolen, you must wait one hour before rejoining the server if you chose to leave!",
-        "Invite Your Friends For Your Chance To Win VIP!",
+        "Do NOT CDM (Car Death Match)!",
         "Do NOT threaten to DDoS the server - This will result in a perma ban!", 
         "Mingeing Is Unacceptable Behavior You Will Be Permanently Banned!",
-        "Do Not Ask For Ranks Apply On The Forums!",
+        "Terrorists can ONLY attack people (With their gun) If they are attacked first!",
         "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
         "Crashing The Server Will Get Your Ip Banned!",
-        "Welcome To Ultra5 Gaming!",
-        "Do not build inside unowned buildings!",
-        "Your base must have at least one entrance that is possible for thieves to lockpick. You are allowed to propblock excess entrances such as windows and extra doors!",
-        "CitizenHack is not Allowed if crought it's a Permanent!",
+        "Welcome This Is [AU] Ultra Five Gaming!",
+        "You may NOT return to your point of death for 3 minutes. Follow the NLR Rule (New Life Rule!",
+        "Do NOT Spam (Mic, Chat, Prop, Etc!",
+        "CitizenHack is not Allowed if crought. it's a Permanent ban!",
         "Not doing your job could get you either fined in-game, or temporarily banned from that particular job!",
         "Don't Like The Server Then Go Join Your Favorite SandBox Server!",
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
         "Do not prop climb, surf, kill, block, bridge, push, trap or spam!",
         "You cannot kill yourself to evade a roleplay situation!",
-        "Bullying Is Not Tolerated!"
+        "Do NOT Abuse Props (Prop Climb, Prop Kill, Prop Block Etc!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
