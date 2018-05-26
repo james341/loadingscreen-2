@@ -100,8 +100,8 @@ var l_musicPlaylist = [
 	{youtube: "4_PMZUu9pww", name: "Ultra 5 Gaming - Don Henley - On Top Of The World - Imagine Dragons"},
 	{youtube: "JfVdQ0YuUY0", name: "Ultra 5 Gaming - Radioactive - Imagine Dragons"},
         {youtube: "jK2aIUmmdP4", name: "Ultra 5 Gaming - Different Heaven & EH!DE - My Heart"},
-        {youtube: "ptmKHhxr6Y0", name: "Ultra 5 Gaming - Maroon 5 Ft. Wiz Khalifa - Payphone"},
-        {youtube: "gYRc0ORl3ac", name: "Ultra 5 Gaming - Silverchair - Straight Lines"},
+        {youtube: "Q7tDVUt3Rlg", name: "Ultra 5 Gaming - Rihanna - Only Girl"},
+        {youtube: "4vrDmLAkswM", name: "Ultra 5 Gaming - NOIXES - Rage"},
 
 
 ];
