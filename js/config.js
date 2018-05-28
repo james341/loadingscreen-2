@@ -97,11 +97,11 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "4_PMZUu9pww", name: "Ultra 5 Gaming - Don Henley - On Top Of The World - Imagine Dragons"},
-	{youtube: "JfVdQ0YuUY0", name: "Ultra 5 Gaming - Radioactive - Imagine Dragons"},
-        {youtube: "jK2aIUmmdP4", name: "Ultra 5 Gaming - Different Heaven & EH!DE - My Heart"},
-        {youtube: "Q7tDVUt3Rlg", name: "Ultra 5 Gaming - Rihanna - Only Girl"},
-        {youtube: "4vrDmLAkswM", name: "Ultra 5 Gaming - NOIXES - Rage"},
+	{youtube: "Nvc0hgt9I1g", name: "Ultra 5 Gaming - Vexento - Masked Raver"},
+	{youtube: "6ZTs78crINU", name: "Ultra 5 Gaming - Clarity - Zedd feat Foxes"},
+        {youtube: "svcAwJQFVwM", name: "Ultra 5 Gaming - Toto - Africa"},
+        {youtube: "SgbXu5gE2qA", name: "Ultra 5 Gaming - Waiting For Love - Avicii Karaoke"},
+        {youtube: "H2dUbfJ12_s", name: "Ultra 5 Gaming - Wake Me Up - Avicii Karaoke"},
 
 
 ];
@@ -120,21 +120,21 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"You are allowed to keep someone kidnapped for a maximum of 10 minutes!",
 	"Do not joke about crashing the server. Doing so will result in a permanent ban!",
-	"Mingeing In This Server Will Result In A Perma Ban!",
+	"No breaking NLR. You may not return to where you die for 5 minutes!",
         "Do NOT RDM (Random Death Match)!",
         "If your printers/items are stolen, you must wait one hour before rejoining the server if you chose to leave!",
         "Do NOT CDM (Car Death Match)!",
         "Do NOT threaten to DDoS the server - This will result in a perma ban!", 
-        "Mingeing Is Unacceptable Behavior You Will Be Permanently Banned!",
+        "Mingeing Is Unacceptable Behavior!",
         "Terrorists can ONLY attack people (With their gun) If they are attacked first!",
         "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
-        "Crashing The Server Will Get Your Ip Banned!",
+        "No hits on the same person more than one time every five minutes. (Even if you are the hitman!",
         "Welcome This Is [AU] Ultra Five Gaming!",
         "You may NOT return to your point of death for 3 minutes. Follow the NLR Rule (New Life Rule!",
         "Do NOT Spam (Mic, Chat, Prop, Etc!",
         "CitizenHack is not Allowed if crought. it's a Permanent ban!",
         "Not doing your job could get you either fined in-game, or temporarily banned from that particular job!",
-        "Don't Like The Server Then Go Join Your Favorite SandBox Server!",
+        "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
         "Do not prop climb, surf, kill, block, bridge, push, trap or spam!",
         "You cannot kill yourself to evade a roleplay situation!",
