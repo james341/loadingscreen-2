@@ -98,11 +98,11 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "Nvc0hgt9I1g", name: "Ultra 5 Gaming - Vexento - Masked Raver"},
-	{youtube: "6ZTs78crINU", name: "Ultra 5 Gaming - Clarity - Zedd feat Foxes"},
+	{youtube: "E5i5lg5olYE", name: "Ultra 5 Gaming - Van Halen - Jump"},
         {youtube: "svcAwJQFVwM", name: "Ultra 5 Gaming - Toto - Africa"},
         {youtube: "SgbXu5gE2qA", name: "Ultra 5 Gaming - Waiting For Love - Avicii Karaoke"},
         {youtube: "H2dUbfJ12_s", name: "Ultra 5 Gaming - Wake Me Up - Avicii Karaoke"},
-
+        
 
 ];
 
