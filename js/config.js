@@ -65,6 +65,7 @@ var l_bgImages = [
         "image10.jpg",
         "image11.jpg",
         "image12.jpg",
+        "image13.jpg",
 ];
 
 /*Random background images order?*/
@@ -100,10 +101,11 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "Nvc0hgt9I1g", name: "Ultra 5 Gaming - Vexento - Masked Raver"},
 	{youtube: "E5i5lg5olYE", name: "Ultra 5 Gaming - Van Halen - Jump"},
-        {youtube: "svcAwJQFVwM", name: "Ultra 5 Gaming - Toto - Africa"},
+        {youtube: "U6be691TCI4", name: "Ultra 5 Gaming - K-391 - Earth"},
         {youtube: "SgbXu5gE2qA", name: "Ultra 5 Gaming - Waiting For Love - Avicii Karaoke"},
         {youtube: "H2dUbfJ12_s", name: "Ultra 5 Gaming - Wake Me Up - Avicii Karaoke"},
         {youtube: "AZjYZ8Kjgs8", name: "Ultra 5 Gaming - Catmosphere - Candy-Coloured Sky"},
+        {youtube: "nRa-eGzpT6o", name: "Ultra 5 Gaming - Valesco - Cloud 9"},
 
 
 ];
