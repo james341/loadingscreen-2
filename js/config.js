@@ -103,7 +103,8 @@ var l_musicPlaylist = [
         {youtube: "svcAwJQFVwM", name: "Ultra 5 Gaming - Toto - Africa"},
         {youtube: "SgbXu5gE2qA", name: "Ultra 5 Gaming - Waiting For Love - Avicii Karaoke"},
         {youtube: "H2dUbfJ12_s", name: "Ultra 5 Gaming - Wake Me Up - Avicii Karaoke"},
-        
+        {youtube: "AZjYZ8Kjgs8", name: "Ultra 5 Gaming - Catmosphere - Candy-Coloured Sky"},
+
 
 ];
 
@@ -120,26 +121,26 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"You are allowed to keep someone kidnapped for a maximum of 10 minutes!",
-	"Do not joke about crashing the server. Doing so will result in a permanent ban!",
+	"Only Hobos and the Mayor can build on sidewalks. DJ's must require approval!",
 	"No breaking NLR. You may not return to where you die for 5 minutes!",
         "Do NOT RDM (Random Death Match)!",
         "If your printers/items are stolen, you must wait one hour before rejoining the server if you chose to leave!",
         "Do NOT CDM (Car Death Match)!",
         "Do NOT threaten to DDoS the server - This will result in a perma ban!", 
-        "Mingeing Is Unacceptable Behavior!",
+        "There must be at least one entrance  and exit to the base!",
         "Terrorists can ONLY attack people (With their gun) If they are attacked first!",
         "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
         "No hits on the same person more than one time every five minutes. (Even if you are the hitman!",
-        "Welcome This Is [AU] Ultra Five Gaming!",
+        "Do as the staff say. If you are speaking over the admin this is considered disrespect. You will be punished!",
         "You may NOT return to your point of death for 3 minutes. Follow the NLR Rule (New Life Rule!",
-        "Do NOT Spam (Mic, Chat, Prop, Etc!",
+        "Vehicle Death Matching (VDM) is not tolerated!",
         "CitizenHack is not Allowed if crought. it's a Permanent ban!",
         "Not doing your job could get you either fined in-game, or temporarily banned from that particular job!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
-        "Do not prop climb, surf, kill, block, bridge, push, trap or spam!",
+        "You may kill players who are trying to steal your car!",
         "You cannot kill yourself to evade a roleplay situation!",
-        "Do NOT Abuse Props (Prop Climb, Prop Kill, Prop Block Etc!"
+        "Staff word is final. If you have an issue with a certain staff member or sit, please report it on the forums!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
