@@ -101,11 +101,11 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "Nvc0hgt9I1g", name: "Ultra 5 Gaming - Vexento - Masked Raver"},
 	{youtube: "E5i5lg5olYE", name: "Ultra 5 Gaming - Van Halen - Jump"},
-        {youtube: "U6be691TCI4", name: "Ultra 5 Gaming - K-391 - Earth"},
+        {youtube: "uZ8X9k-Ot8s", name: "Ultra 5 Gaming - Foreigner - I Want To Know What Love Is"},
         {youtube: "SgbXu5gE2qA", name: "Ultra 5 Gaming - Waiting For Love - Avicii Karaoke"},
         {youtube: "H2dUbfJ12_s", name: "Ultra 5 Gaming - Wake Me Up - Avicii Karaoke"},
-        {youtube: "AZjYZ8Kjgs8", name: "Ultra 5 Gaming - Catmosphere - Candy-Coloured Sky"},
-        {youtube: "nRa-eGzpT6o", name: "Ultra 5 Gaming - Valesco - Cloud 9"},
+        {youtube: "DbJZJCkcs3U", name: "Ultra 5 Gaming - Zedd feat. Foxes - Clarity"},
+        {youtube: "Ry4TqqM5TGs", name: "Ultra 5 Gaming - AWOLNATION - Sail HQ"},
 
 
 ];
@@ -126,22 +126,22 @@ var l_messages = [
 	"Only Hobos and the Mayor can build on sidewalks. DJ's must require approval!",
 	"No breaking NLR. You may not return to where you die for 5 minutes!",
         "Do NOT RDM (Random Death Match)!",
-        "If your printers/items are stolen, you must wait one hour before rejoining the server if you chose to leave!",
+        "Raid Cooldown (Same Person) - 10 Minutes!",
         "Do NOT CDM (Car Death Match)!",
-        "Do NOT threaten to DDoS the server - This will result in a perma ban!", 
+        "Police, during PD raids ARE permitted to break NLR; this is to make PD raids difficult!", 
         "There must be at least one entrance  and exit to the base!",
         "Terrorists can ONLY attack people (With their gun) If they are attacked first!",
         "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
-        "No hits on the same person more than one time every five minutes. (Even if you are the hitman!",
+        "Do not prop block. (Purposely block players or Block rooms without a keypad!",
         "Do as the staff say. If you are speaking over the admin this is considered disrespect. You will be punished!",
         "You may NOT return to your point of death for 3 minutes. Follow the NLR Rule (New Life Rule!",
-        "Vehicle Death Matching (VDM) is not tolerated!",
+        "Do not use chain adverts, at most you can have ONE action on ONE bind. (Ex: raid/raid over, PD raid/raid, These are not allowed!",
         "CitizenHack is not Allowed if crought. it's a Permanent ban!",
         "Not doing your job could get you either fined in-game, or temporarily banned from that particular job!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
         "You may kill players who are trying to steal your car!",
-        "You cannot kill yourself to evade a roleplay situation!",
+        "You may not player warn, except for hobos and Vapers [3 advert warns]. If they are bothering you ask a staff member!",
         "Staff word is final. If you have an issue with a certain staff member or sit, please report it on the forums!"
 ];
 /*Random message order?*/
