@@ -99,13 +99,13 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "Nvc0hgt9I1g", name: "Ultra 5 Gaming - Vexento - Masked Raver"},
-	{youtube: "E5i5lg5olYE", name: "Ultra 5 Gaming - Van Halen - Jump"},
-        {youtube: "uZ8X9k-Ot8s", name: "Ultra 5 Gaming - Foreigner - I Want To Know What Love Is"},
-        {youtube: "SgbXu5gE2qA", name: "Ultra 5 Gaming - Waiting For Love - Avicii Karaoke"},
-        {youtube: "H2dUbfJ12_s", name: "Ultra 5 Gaming - Wake Me Up - Avicii Karaoke"},
-        {youtube: "DbJZJCkcs3U", name: "Ultra 5 Gaming - Zedd feat. Foxes - Clarity"},
-        {youtube: "Ry4TqqM5TGs", name: "Ultra 5 Gaming - AWOLNATION - Sail HQ"},
+	{youtube: "", name: "Ultra 5 Gaming -"},
+	{youtube: "", name: "Ultra 5 Gaming -"},
+        {youtube: "", name: "Ultra 5 Gaming -"},
+        {youtube: "", name: "Ultra 5 Gaming -"},
+        {youtube: "", name: "Ultra 5 Gaming -"},
+        {youtube: "", name: "Ultra 5 Gaming -"},
+        {youtube: "", name: "Ultra 5 Gaming -"},
 
 
 ];
