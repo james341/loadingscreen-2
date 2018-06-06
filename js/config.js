@@ -68,6 +68,10 @@ var l_bgImages = [
         "image13.jpg",
         "image14.jpg",
         "image15.jpg",
+        "image16.jpg",
+        "image17.jpg",
+        "image18.jpg",
+        "image19.jpg",
 ];
 
 /*Random background images order?*/
