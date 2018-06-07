@@ -72,6 +72,8 @@ var l_bgImages = [
         "image17.jpg",
         "image18.jpg",
         "image19.jpg",
+        "image20.jpg",
+        "image21.jpg",
 ];
 
 /*Random background images order?*/
@@ -136,17 +138,17 @@ var l_messages = [
         "Do NOT CDM (Car Death Match)!",
         "Police, during PD raids ARE permitted to break NLR; this is to make PD raids difficult!", 
         "There must be at least one entrance  and exit to the base!",
-        "Terrorists can ONLY attack people (With their gun) If they are attacked first!",
+        "Do not impersonate staff members!",
         "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
         "Do not prop block. (Purposely block players or Block rooms without a keypad!",
         "Do as the staff say. If you are speaking over the admin this is considered disrespect. You will be punished!",
         "You may NOT return to your point of death for 3 minutes. Follow the NLR Rule (New Life Rule!",
         "Do not use chain adverts, at most you can have ONE action on ONE bind. (Ex: raid/raid over, PD raid/raid, These are not allowed!",
         "CitizenHack is not Allowed if crought. it's a Permanent ban!",
-        "Not doing your job could get you either fined in-game, or temporarily banned from that particular job!",
+        "Goverment officials (Mayor, Police, SWAT) are not allowed to have money printers!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
-        "You may kill players who are trying to steal your car!",
+        "You're not allowed to raid a house which is being built please look for a building sign!",
         "You may not player warn, except for hobos and Vapers [3 advert warns]. If they are bothering you ask a staff member!",
         "Staff word is final. If you have an issue with a certain staff member or sit, please report it on the forums!"
 ];
