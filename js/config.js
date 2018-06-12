@@ -74,6 +74,7 @@ var l_bgImages = [
         "image19.jpg",
         "image20.jpg",
         "image21.jpg",
+        "image22.jpg",
 ];
 
 /*Random background images order?*/
@@ -107,7 +108,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "", name: "Ultra 5 Gaming -"},
+	{youtube: "uYW8KOK50IQ", name: "Ultra 5 Gaming - Installation Music"},
 	{youtube: "", name: "Ultra 5 Gaming -"},
         {youtube: "", name: "Ultra 5 Gaming -"},
         {youtube: "", name: "Ultra 5 Gaming -"},
@@ -132,14 +133,14 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"You are allowed to keep someone kidnapped for a maximum of 10 minutes!",
 	"Only Hobos and the Mayor can build on sidewalks. DJ's must require approval!",
-	"No breaking NLR. You may not return to where you die for 5 minutes!",
-        "Do NOT RDM (Random Death Match)!",
+	"Please do not prop climb, surf, kill, block, bridge, push, trap or spam!",
+        "GOLDEN RULE: USE COMMON SENSE!",
         "Raid Cooldown (Same Person) - 10 Minutes!",
         "Do NOT CDM (Car Death Match)!",
-        "Police, during PD raids ARE permitted to break NLR; this is to make PD raids difficult!", 
+        "Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!", 
         "There must be at least one entrance  and exit to the base!",
         "Do not impersonate staff members!",
-        "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
+        "Sexism / racism will not be tolerated and if caught or reported, you will be liable for a 12hour - 1day ban with no appeal!",
         "Do not prop block. (Purposely block players or Block rooms without a keypad!",
         "Do as the staff say. If you are speaking over the admin this is considered disrespect. You will be punished!",
         "You may NOT return to your point of death for 3 minutes. Follow the NLR Rule (New Life Rule!",
@@ -147,10 +148,10 @@ var l_messages = [
         "CitizenHack is not Allowed if crought. it's a Permanent ban!",
         "Goverment officials (Mayor, Police, SWAT) are not allowed to have money printers!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
-        "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
-        "You're not allowed to raid a house which is being built please look for a building sign!",
+        "Do not complain about staffing decisions in game or in global chat. Appeals or reports can be made on the forums!",
+        "No random lockdowns, (you must give a reason) random lockdowns will result in a permanent job ban!",
         "You may not player warn, except for hobos and Vapers [3 advert warns]. If they are bothering you ask a staff member!",
-        "Staff word is final. If you have an issue with a certain staff member or sit, please report it on the forums!"
+        "Be respectful to all players out-of-character!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
