@@ -109,8 +109,8 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "uYW8KOK50IQ", name: "Ultra 5 Gaming - Installation Music"},
-	{youtube: "oNXzMBA9VU4", name: "Ultra 5 Gaming - Installation Music"},
-        {youtube: "", name: "Ultra 5 Gaming - "},
+	{youtube: "", name: "Ultra 5 Gaming - "},
+        {youtube: "fjOFbBV3cBM", name: "Ultra 5 Gaming - Vexento - We Are One"},
         {youtube: "3I-pw_YtAok", name: "Ultra 5 Gaming - Pizzeria Simulator"},
         {youtube: "7nEXGvvLskQ", name: "Ultra 5 Gaming - Forgotten Sunday Show"},
         {youtube: "", name: "Ultra 5 Gaming -"},
@@ -132,14 +132,14 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"You are allowed to keep someone kidnapped for a maximum of 10 minutes!",
-	"Only Hobos and the Mayor can build on sidewalks. DJ's must require approval!",
+	"RDM: John kills Billy because why not (this does not include death matches that involve job rules ex: Pissed Baby killing Pedophiles!",
 	"Please do not prop climb, surf, kill, block, bridge, push, trap or spam!",
         "GOLDEN RULE: USE COMMON SENSE!",
         "Raid Cooldown (Same Person) - 10 Minutes!",
-        "Do NOT CDM (Car Death Match)!",
-        "Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!", 
+        "Dont Harrass people (Follow people, annoy people)!",
+        "DO report bugs / exploits! Using them to your own advantage and not reporting them will have you banned!", 
         "There must be at least one entrance  and exit to the base!",
-        "Do not impersonate staff members!",
+        "Please Do not mug people 5 million at times a minute (wait like 3 minutes for the same person!",
         "Sexism / racism will not be tolerated and if caught or reported, you will be liable for a 12hour - 1day ban with no appeal!",
         "Do not prop block. (Purposely block players or Block rooms without a keypad!",
         "Do as the staff say. If you are speaking over the admin this is considered disrespect. You will be punished!",
@@ -150,7 +150,7 @@ var l_messages = [
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "Do not complain about staffing decisions in game or in global chat. Appeals or reports can be made on the forums!",
         "No random lockdowns, (you must give a reason) random lockdowns will result in a permanent job ban!",
-        "You may not player warn, except for hobos and Vapers [3 advert warns]. If they are bothering you ask a staff member!",
+        "Dont Mic Spam (Dont choke your microphone!",
         "Be respectful to all players out-of-character!"
 ];
 /*Random message order?*/
