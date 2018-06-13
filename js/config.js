@@ -110,9 +110,9 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "uYW8KOK50IQ", name: "Ultra 5 Gaming - Installation Music"},
 	{youtube: "oNXzMBA9VU4", name: "Ultra 5 Gaming - Installation Music"},
-        {youtube: "9zd1tIJuDqk", name: "Ultra 5 Gaming - Installation Music"},
+        {youtube: "", name: "Ultra 5 Gaming - "},
         {youtube: "3I-pw_YtAok", name: "Ultra 5 Gaming - Pizzeria Simulator"},
-        {youtube: "", name: "Ultra 5 Gaming -"},
+        {youtube: "7nEXGvvLskQ", name: "Ultra 5 Gaming - Forgotten Sunday Show"},
         {youtube: "", name: "Ultra 5 Gaming -"},
         {youtube: "", name: "Ultra 5 Gaming -"},
 
