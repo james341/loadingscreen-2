@@ -110,10 +110,10 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "uYW8KOK50IQ", name: "Ultra 5 Gaming - Installation Music"},
 	{youtube: "", name: "Ultra 5 Gaming - "},
-        {youtube: "fjOFbBV3cBM", name: "Ultra 5 Gaming - Vexento - We Are One"},
+        {youtube: "FA1XMNNC4xk", name: "Ultra 5 Gaming - Thank Your For Your Patience"},
         {youtube: "3I-pw_YtAok", name: "Ultra 5 Gaming - Pizzeria Simulator"},
         {youtube: "7nEXGvvLskQ", name: "Ultra 5 Gaming - Forgotten Sunday Show"},
-        {youtube: "", name: "Ultra 5 Gaming -"},
+        {youtube: "qJuZmfOMpm0", name: "Ultra 5 Gaming - Just Add Water"},
         {youtube: "", name: "Ultra 5 Gaming -"},
 
 
@@ -151,7 +151,7 @@ var l_messages = [
         "Do not complain about staffing decisions in game or in global chat. Appeals or reports can be made on the forums!",
         "No random lockdowns, (you must give a reason) random lockdowns will result in a permanent job ban!",
         "Dont Mic Spam (Dont choke your microphone!",
-        "Be respectful to all players out-of-character!"
+        "If your friend is a hitman you may NOT help him complete his hit. It does not matter if you are in the same gang or not. You could only potentially interfere if the person shot you directly!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
