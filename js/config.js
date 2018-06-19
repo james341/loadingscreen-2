@@ -115,7 +115,7 @@ var l_musicPlaylist = [
         {youtube: "3I-pw_YtAok", name: "Ultra 5 Gaming - Pizzeria Simulator"},
         {youtube: "7nEXGvvLskQ", name: "Ultra 5 Gaming - Forgotten Sunday Show"},
         {youtube: "qJuZmfOMpm0", name: "Ultra 5 Gaming - Just Add Water"},
-        {youtube: "", name: "Ultra 5 Gaming -"},
+        {youtube: "pU6RJGpm4Ec", name: "Ultra 5 Gaming -OST - Travel 2"},
 
 
 ];
@@ -135,7 +135,7 @@ var l_messages = [
 	"You are allowed to keep someone kidnapped for a maximum of 10 minutes!",
 	"RDM: John kills Billy because why not (this does not include death matches that involve job rules ex: Pissed Baby killing Pedophiles!",
 	"Please do not prop climb, surf, kill, block, bridge, push, trap or spam!",
-        "GOLDEN RULE: USE COMMON SENSE!",
+        "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "Raid Cooldown (Same Person) - 10 Minutes!",
         "Dont Harrass people (Follow people, annoy people)!",
         "DO report bugs / exploits! Using them to your own advantage and not reporting them will have you banned!", 
