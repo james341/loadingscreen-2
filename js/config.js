@@ -109,13 +109,13 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "iScT5IfgG-Q", name: "Ultra 5 Gaming - Electric Joy Ride - Origin"},
+	{youtube: "qJuZmfOMpm0", name: "Ultra 5 Gaming - Just Add Water"},
 	{youtube: "8ciZGNmlWgo", name: "Ultra 5 Gaming - Audioscribe - Free Fall"},
         {youtube: "FA1XMNNC4xk", name: "Ultra 5 Gaming - Thank Your For Your Patience"},
         {youtube: "3I-pw_YtAok", name: "Ultra 5 Gaming - Pizzeria Simulator"},
-        {youtube: "7nEXGvvLskQ", name: "Ultra 5 Gaming - Forgotten Sunday Show"},
-        {youtube: "qJuZmfOMpm0", name: "Ultra 5 Gaming - Just Add Water"},
-        {youtube: "pU6RJGpm4Ec", name: "Ultra 5 Gaming -OST - Travel 2"},
+        {youtube: "q1ULJ92aldE", name: "Ultra 5 Gaming - Syn Cole - Feel Good"},
+        {youtube: "BuvXJKNO-MU", name: "Ultra 5 Gaming - Sister Location OST"},
+        {youtube: "1iEZPAt1k3A", name: "Ultra 5 Gaming - Electro-Light - Symbolism"},
 
 
 ];
@@ -133,25 +133,25 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"You are allowed to keep someone kidnapped for a maximum of 10 minutes!",
-	"RDM: John kills Billy because why not (this does not include death matches that involve job rules ex: Pissed Baby killing Pedophiles!",
+	"RDM John kills Billy because why not (this does not include death matches that involve job rules ex: Pissed Baby killing Pedophiles!",
 	"Please do not prop climb, surf, kill, block, bridge, push, trap or spam!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
-        "Raid Cooldown (Same Person) - 10 Minutes!",
+        "Keypads must be working, have a hold length of 4 seconds, and be placed next to the door they open!",
         "Dont Harrass people (Follow people, annoy people)!",
-        "DO report bugs / exploits! Using them to your own advantage and not reporting them will have you banned!", 
+        "Do report bugs / exploits! Using them to your own advantage and not reporting them will have you banned!", 
         "There must be at least one entrance  and exit to the base!",
         "Please Do not mug people 5 million at times a minute (wait like 3 minutes for the same person!",
         "Sexism / racism will not be tolerated and if caught or reported, you will be liable for a 12hour - 1day ban with no appeal!",
         "Do not prop block. (Purposely block players or Block rooms without a keypad!",
         "Do as the staff say. If you are speaking over the admin this is considered disrespect. You will be punished!",
-        "You may NOT return to your point of death for 3 minutes. Follow the NLR Rule (New Life Rule!",
+        "No Bunny Hopping. It is unrealistic!",
         "Do not use chain adverts, at most you can have ONE action on ONE bind. (Ex: raid/raid over, PD raid/raid, These are not allowed!",
-        "CitizenHack is not Allowed if crought. it's a Permanent ban!",
+        "CitizenHack is not Allowed if caught. it's a permanent ban!",
         "Goverment officials (Mayor, Police, SWAT) are not allowed to have money printers!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "Do not complain about staffing decisions in game or in global chat. Appeals or reports can be made on the forums!",
         "No random lockdowns, (you must give a reason) random lockdowns will result in a permanent job ban!",
-        "Dont Mic Spam (Dont choke your microphone!",
+        "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "If your friend is a hitman you may NOT help him complete his hit. It does not matter if you are in the same gang or not. You could only potentially interfere if the person shot you directly!"
 ];
 /*Random message order?*/
