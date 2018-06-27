@@ -112,10 +112,10 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "AZjYZ8Kjgs8", name: "Ultra 5 Gaming - Candy-Coloured Sky"},
+	{youtube: "", name: "Ultra 5 Gaming - "},
 	{youtube: "uYW8KOK50IQ", name: "Ultra 5 Gaming - Installation Music"},
         {youtube: "B1H90Zz15wQ", name: "Ultra 5 Gaming - Just add water"},
-        {youtube: "QoitiIbdeaM", name: "Ultra 5 Gaming - Fireflies"},
+        {youtube: "", name: "Ultra 5 Gaming - "},
         {youtube: "", name: "Ultra 5 Gaming - "},
         {youtube: "", name: "Ultra 5 Gaming - "},
         {youtube: "", name: "Ultra 5 Gaming - "},
