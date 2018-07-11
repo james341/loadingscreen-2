@@ -113,7 +113,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "", name: "Ultra 5 Gaming - "},
+	{youtube: "F31dEvFD-EE", name: "Ultra 5 Gaming - Syn Cole - Feel Good"},
 	{youtube: "uYW8KOK50IQ", name: "Ultra 5 Gaming - Installation Music"},
         {youtube: "PE1lzqJCeJ0", name: "Ultra 5 Gaming - Together in Electric Dreams"},
         {youtube: "vvucj_1NQ5M", name: "Ultra 5 Gaming - Track 23"},
@@ -143,15 +143,15 @@ var l_messages = [
         "Keypads must be working, have a hold length of 4 seconds, and be placed next to the door they open!",
         "Dont Harrass people (Follow people, annoy people)!",
         "Do report bugs / exploits! Using them to your own advantage and not reporting them will have you banned!", 
-        "There must be at least one entrance  and exit to the base!",
+        "You CANNOT own doors within a property if someone else owns a door in the building!",
         "Please Do not mug people 5 million at times a minute (wait like 3 minutes for the same person!",
         "Sexism / racism will not be tolerated and if caught or reported, you will be liable for a 12hour - 1day ban with no appeal!",
         "Do not prop block. (Purposely block players or Block rooms without a keypad!",
         "Do as the staff say. If you are speaking over the admin this is considered disrespect. You will be punished!",
-        "No Bunny Hopping. It is unrealistic!",
+        "Money printers/Drugs are illegal = AOS (Arrest On Sight)!",
         "Do not use chain adverts, at most you can have ONE action on ONE bind. (Ex: raid/raid over, PD raid/raid, These are not allowed!",
         "CitizenHack is not Allowed if caught. it's a permanent ban!",
-        "Goverment officials (Mayor, Police, SWAT) are not allowed to have money printers!",
+        "As Mayor you CANNOT make unrealistic laws such as Rdm tall people on sight!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "Do not complain about staffing decisions in game or in global chat. Appeals or reports can be made on the forums!",
         "No random lockdowns, (you must give a reason) random lockdowns will result in a permanent job ban!",
