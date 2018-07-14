@@ -80,6 +80,9 @@ var l_bgImages = [
         "image25.jpg",
         "image26.jpg",
         "image27.jpg",
+        "image28.jpg",
+        "image29.jpg",
+        "image30.jpg",
 ];
 
 /*Random background images order?*/
@@ -113,11 +116,11 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "F31dEvFD-EE", name: "Ultra 5 Gaming - Syn Cole - Feel Good"},
-	{youtube: "uYW8KOK50IQ", name: "Ultra 5 Gaming - Installation Music"},
-        {youtube: "PE1lzqJCeJ0", name: "Ultra 5 Gaming - Together in Electric Dreams"},
-        {youtube: "vvucj_1NQ5M", name: "Ultra 5 Gaming - Track 23"},
-        {youtube: "0-441OIxpes", name: "Ultra 5 Gaming - Track 7"},
+	{youtube: "H6jN4rPyhPw", name: "Ultra 5 Gaming - Syn Cole - Feel Good"},
+	{youtube: "", name: "Ultra 5 Gaming - Installation Music"},
+        {youtube: "", name: "Ultra 5 Gaming - "},
+        {youtube: "", name: "Ultra 5 Gaming - "},
+        {youtube: "", name: "Ultra 5 Gaming - "},
         {youtube: "", name: "Ultra 5 Gaming - "},
         {youtube: "", name: "Ultra 5 Gaming - "},
 
