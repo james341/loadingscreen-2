@@ -116,13 +116,13 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "H6jN4rPyhPw", name: "Syn Cole - Feel Good"},
-	{youtube: "", name: "Installation Music"},
-        {youtube: "o9lAPQvwYWE", name: "Baldi's Basics Theme Song"},
-        {youtube: "", name: "Ultra 5 Gaming - "},
-        {youtube: "", name: "Ultra 5 Gaming - "},
-        {youtube: "", name: "Ultra 5 Gaming - "},
-        {youtube: "", name: "Ultra 5 Gaming - "},
+	{youtube: "twPg_hoYDkY", name: "Atlas Gaming - The View - Pyrosion"},
+	{youtube: "uYW8KOK50IQ&t=4s", name: "Atlas Gaming - Installation Music"},
+        {youtube: "oBpvsSeBh54", name: "Atlas Gaming - Michael Buble - Haven't Met You Yet"},
+        {youtube: "", name: "Atlas Gaming - "},
+        {youtube: "", name: "Atlas Gaming - "},
+        {youtube: "", name: "Atlas Gaming - "},
+        {youtube: "", name: "Atlas Gaming - "},
 
 
 ];
