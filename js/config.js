@@ -117,10 +117,10 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "twPg_hoYDkY", name: "Atlas Gaming - The View - Pyrosion"},
-	{youtube: "uYW8KOK50IQ&t=4s", name: "Atlas Gaming - Installation Music"},
+	{youtube: "gkvbAOgEKLI", name: "Atlas Gaming - Installation Music"},
         {youtube: "oBpvsSeBh54", name: "Atlas Gaming - Michael Buble - Haven't Met You Yet"},
-        {youtube: "", name: "Atlas Gaming - "},
-        {youtube: "", name: "Atlas Gaming - "},
+        {youtube: "ytBR7ET_6uU", name: "Atlas Gaming - Owl City - Fireflies"},
+        {youtube: "2qqWcjBXHS8", name: "Atlas Gaming - Price Tag - Jessie J Lyrics"},
         {youtube: "", name: "Atlas Gaming - "},
         {youtube: "", name: "Atlas Gaming - "},
 
