@@ -116,13 +116,13 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "twPg_hoYDkY", name: "Zoinked - The View - Pyrosion"},
 	{youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
-        {youtube: "IMyfa4MyiHE", name: "Zoinked - Lily Allen - 22 WITH LYRICS"},
-        {youtube: "ytBR7ET_6uU", name: "Zoinked - Owl City - Fireflies"},
-        {youtube: "2qqWcjBXHS8", name: "Zoinked - Price Tag - Jessie J Lyrics"},
-        {youtube: "ytBR7ET_6uU", name: "Zoinked - Owl City - Fireflies"},
-        {youtube: "Ax7IG6ZHBDc", name: "Zoinked - Twenty One Pilots Letra traducida"},
+	{youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
+        {youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
+        {youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
+        {youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
+        {youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
+        {youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
 
 
 ];
