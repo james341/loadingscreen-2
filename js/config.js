@@ -118,11 +118,11 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "uYW8KOK50IQ", name: "Zoinked - Installation Music"},
 	{youtube: "uYW8KOK50IQ", name: "Zoinked - Installation Music"},
-        {youtube: "uYW8KOK50IQ", name: "Zoinked - Installation Music"},
+        {youtube: "bThTHiM8lkM", name: "Zoinked - Installation Music"},
+        {youtube: "8GW6sLrK40k", name: "Zoinked - Installation Music"},
         {youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
         {youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
-        {youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
-        {youtube: "uYW8KOK50IQ", name: "Zoinked - Installation Music"},
+        {youtube: "YZ93o&t=134s", name: "Zoinked - Installation Music"},
 
 
 ];
