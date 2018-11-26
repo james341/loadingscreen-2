@@ -1,4 +1,4 @@
-/*    _           _    _                     _ 
+Atlas Gaming/*    _           _    _                     _ 
      | |         | |  | |                   | |
   ___| | ___  ___| | _| |     ___   __ _  __| |
  / __| |/ _ \/ _ \ |/ / |    / _ \ / _` |/ _` |
@@ -116,13 +116,13 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "uYW8KOK50IQ", name: "Zoinked - Installation Music"},
-	{youtube: "uYW8KOK50IQ", name: "Zoinked - Installation Music"},
-        {youtube: "bThTHiM8lkM", name: "Zoinked - Installation Music"},
-        {youtube: "8GW6sLrK40k", name: "Zoinked - Installation Music"},
-        {youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
-        {youtube: "gkvbAOgEKLI", name: "Zoinked - Installation Music"},
-        {youtube: "YZ93o&t=134s", name: "Zoinked - Installation Music"},
+	{youtube: "CTGJSnUb2pc", name: "Atlas Gaming - Installation Music"},
+	{youtube: "uYW8KOK50IQ", name: "Atlas Gaming - Installation Music"},
+        {youtube: "Eu3SdvNmBQY", name: "Atlas Gaming - Installation Music"},
+        {youtube: "8GW6sLrK40k", name: "Atlas Gaming - Installation Music"},
+        {youtube: "gkvbAOgEKLI", name: "Atlas Gaming - Installation Music"},
+        {youtube: "mSLuJYtl89Y", name: "Atlas Gaming - Installation Music"},
+        {youtube: "YZ93o&t=134s", name: "Atlas Gaming - Installation Music"},
 
 
 ];
