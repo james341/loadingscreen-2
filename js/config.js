@@ -166,7 +166,7 @@ var l_messages = [
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
         "If we close down you will not get your money back and if we open up again you will no longer have the Vip packages!",
         "If you are  depresso nevermore fizzy & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!"
-\];
+];
 /*Random message order?*/
 var l_messagesRandom = true;
 
