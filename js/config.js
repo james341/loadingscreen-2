@@ -165,7 +165,8 @@ var l_messages = [
         "Please dont spam the sound sweps that come with your job!",
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
         "If we close down you will not get your money back and if we open up again you will no longer have the Vip packages!",
-        "If you are  depresso nevermore fizzy & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!"
+        "If you are  depresso nevermore fizzy 𝐼𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
+        "Oculus Is cancer i do recommend you invite all your friends here instead Trust me man it's worth it!"
 
 ];
 /*Random message order?*/
