@@ -116,15 +116,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "AZjYZ8Kjgs8", name: "Atlas Gaming - Installation Music"},
-	{youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "zp7hpWYOZvk", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
+	{youtube: "AZjYZ8Kjgs8", name: "Cockulus Gayming - Installation Music"},
+	{youtube: "MMD9n-YZ93o", name: "Cockulus Gayming - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Cockulus Gayming - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Cockulus Gayming - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Cockulus Gayming - Installation Music"},
+        {youtube: "zp7hpWYOZvk", name: "Cockulus Gayming - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Cockulus Gayming - Installation Music"},
+        {youtube: "FQ2Q5gmysLg", name: "Cockulus Gayming - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Cockulus Gayming - Installation Music"},
 
 ];
 
