@@ -116,15 +116,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "Vagz2DjV3EI", name: "Cockulus Gayming - Installation Music"},
-	{youtube: "Vagz2DjV3EI", name: "Cockulus Gayming - Installation Music"},
-        {youtube: "Vagz2DjV3EI", name: "Cockulus Gayming - Installation Music"},
-        {youtube: "Vagz2DjV3EI", name: "Cockulus Gayming - Installation Music"},
-        {youtube: "Vagz2DjV3EI", name: "Cockulus Gayming - Installation Music"},
-        {youtube: "Vagz2DjV3EI", name: "Cockulus Gayming - Installation Music"},
-        {youtube: "Vagz2DjV3EI", name: "Cockulus Gayming - Installation Music"},
-        {youtube: "Vagz2DjV3EI", name: "Cockulus Gayming - Installation Music"},
-        {youtube: "Vagz2DjV3EI", name: "Cockulus Gayming - Installation Music"},
+	{youtube: "Vagz2DjV3EI", name: "Atlas - Installation Music"},
+	{youtube: "Vagz2DjV3EI", name: "Atlas - Installation Music"},
+        {youtube: "Vagz2DjV3EI", name: "Atlas - Installation Music"},
+        {youtube: "Vagz2DjV3EI", name: "Atlas - Installation Music"},
+        {youtube: "Vagz2DjV3EI", name: "Atlas - Installation Music"},
+        {youtube: "Vagz2DjV3EI", name: "Atlas - Installation Music"},
+        {youtube: "Vagz2DjV3EI", name: "Atlas - Installation Music"},
+        {youtube: "Vagz2DjV3EI", name: "Atlas - Installation Music"},
+        {youtube: "Vagz2DjV3EI", name: "Atlas - Installation Music"},
 
 ];
 
