@@ -120,11 +120,11 @@ var l_musicPlaylist = [
 	{youtube: "wI4GeZYHBo", name: "Isaacs - Installation Music"},
         {youtube: "AZjYZ8Kjgs8", name: "Isaac - Installation Music"},
         {youtube: "AZjYZ8Kjgs8", name: "Isaac - Installation Music"},
-        {youtube: "", name: "Isaacs - Installation Music"},
-        {youtube: "", name: "Isaacs - Installation Music"},
-        {youtube: "", name: "Isaacs - Installation Music"},
-        {youtube: "", name: "Isaacs - Installation Music"},
-        {youtube: "", name: "Isaacs - Installation Music"},
+        {youtube: "Vk3sngqyyvY", name: "Isaacs - Installation Music"},
+        {youtube: "FA1XMNNC4xk", name: "Isaacs - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Isaacs - Installation Music"},
+        {youtube: "uYW8KOK50IQ&t=5s", name: "Isaacs - Installation Music"},
+        {youtube: "uYW8KOK50IQ&t=5s", name: "Isaacs - Installation Music"},
 
 ];
 
@@ -148,7 +148,7 @@ var l_messages = [
         "No breaking NLR. You may not return to where you die for 5 minutes!",
         "Do not FailRP (Fail Role Play). This is when you do something unrealistic!", 
         "Do not no collide cameras and physgun them into other people's bases, this is known as camera abuse!",
-        " Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
+        "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "Do not failure RP!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
         "Your Fading door has to be open longer than 5seconds!",
