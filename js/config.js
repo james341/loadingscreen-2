@@ -140,7 +140,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"If you have a suggestion for the server or if you believe there is something to improve on, create a thread on the forums!",
+	"Don't attempt to exploit the server or act with malicious intent towards it!",
 	"Do not spam. Spam: Excessively typing/saying/doing something repeatedly in quick succession!",
 	"Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
@@ -152,7 +152,7 @@ var l_messages = [
         "Leave the admins to do their jobs, if they're busy then be patient and wait for them to finish!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
         "Your Fading door has to be open longer than 5seconds!",
-        "If you are told to stop, you stop. Make an appeal or report if you disagree with a decision!",
+        "Don't use an inappropriate RP name!",
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Do not involve yourself in situations especially admin situations which you are not apart of in the first place!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
@@ -166,7 +166,7 @@ var l_messages = [
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
         "If we close down you will not get your money back and if we open up again you will no longer have the Vip packages!",
         "If you are  depresso nevermore fizzy 𝐼𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
-        "You may not camp the mayors office during his grace with the purpose of killing him afterwards!"
+        "No disorienting advantages such as black rooms, fully invisible props, or world glow effects!"
 
 ];
 /*Random message order?*/
