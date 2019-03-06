@@ -118,13 +118,13 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "OFOv1FiZoWI", name: "Isaacs - Installation Music"},
 	{youtube: "wI4GeZYHBo", name: "Isaacs - Installation Music"},
-        {youtube: "K4DyBUG242c", name: "Isaac - Installation Music"},
+        {youtube: "uhCnsIRmkBo", name: "Isaac - Installation Music"},
         {youtube: "AZjYZ8Kjgs8", name: "Isaac - Installation Music"},
         {youtube: "cUCe3lkzKzo", name: "Isaacs - Installation Music"},
         {youtube: "0-JzHyJSPmk", name: "Isaacs - Installation Music"},
         {youtube: "MMD9n-YZ93o", name: "Isaacs - Installation Music"},
         {youtube: "gJeh_dLjPN4", name: "Isaacs - Installation Music"},
-        {youtube: "TW9d8vYrVFQ", name: "Isaacs - Installation Music"},
+        {youtube: "XX92zPTM0CQ", name: "Isaacs - Installation Music"},
 
 ];
 
