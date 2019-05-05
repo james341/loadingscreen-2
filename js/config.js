@@ -116,15 +116,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "XtIBHfOdyX0", name: "atlas - Installation Music"},
+	{youtube: "4RFSymw6ZrU", name: "atlas - Installation Music"},
 	{youtube: "", name: "atlas - Installation Music"},
         {youtube: "Pwl3G4SI698", name: "atlas - Installation Music"},
         {youtube: "UxD1FObOH4", name: "atlas - Installation Music"},
         {youtube: "uhCnsIRmkBo", name: "atlas - Installation Music"},
         {youtube: "nGbhR2qB5g8", name: "atlas - Installation Music"},
-        {youtube: "", name: "atlas - Installation Music"},
-        {youtube: "", name: "atlas - Installation Music"},
+        {youtube: "qJuZmfOMpm0", name: "atlas - Installation Music"},
+        {youtube: "Mzkzriu0vBc", name: "atlas - Installation Music"},
         {youtube: "l8wMVmY7Zpw", name: "atlas - Installation Music"},
+        {youtube: "FA1XMNNC4xk", name: "atlas - Installation Music"},
 
 ];
 
@@ -142,7 +143,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Are items like the gambling machine and radio considered to be raidables? ➢ No, as they may be frozen anywhere and if frozen may not be C4ed!",
 	"Do not spam. Spam: Excessively typing/saying/doing something repeatedly in quick succession!",
-	"Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
+	"Animatronics must remain in the restaurant!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "Mayors can not take away rights from players such as freedom of privacy. This means no laws saying that players can't lock their doors!",
         "No breaking NLR. You may not return to where you die for 5 minutes!",
