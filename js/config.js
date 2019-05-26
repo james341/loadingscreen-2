@@ -116,13 +116,13 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "6ypqreQH5a4&t", name: "atlas - Installation Music"},
-	{youtube: "6ypqreQH5a4&t", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t", name: "atlas - Installation Music"},
+	{youtube: "d_w3uT2fVqg", name: "atlas - Installation Music"},
+	{youtube: "7VXrhzbvd-A", name: "atlas - Installation Music"},
+        {youtube: "DjfJnHdUwgo", name: "atlas - Installation Music"},
+        {youtube: "SgbXu5gE2qA", name: "atlas - Installation Music"},
+        {youtube: "pgVyrWItI70", name: "atlas - Installation Music"},
+        {youtube: "QtTs4vybXFY", name: "atlas - Installation Music"},
+        {youtube: "CVZXj53i9Js", name: "atlas - Installation Music"},
         {youtube: "", name: "atlas - Installation Music"},
         {youtube: "", name: "atlas - Installation Music"},
         {youtube: "", name: "atlas - Installation Music"},
@@ -141,7 +141,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Are items like the gambling machine and radio considered to be raidables? ➢ No, as they may be frozen anywhere and if frozen may not be C4ed!",
+	"In the PD, the Mayor has final say on building defenses. If they waive this right, then it is passed on to the Police Chief!",
 	"Do not spam. Spam: Excessively typing/saying/doing something repeatedly in quick succession!",
 	"Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
@@ -150,7 +150,7 @@ var l_messages = [
         "Do not FailRP (Fail Role Play). This is when you do something unrealistic!", 
         "Do not no collide cameras and physgun them into other people's bases, this is known as camera abuse!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
-        "Leave the admins to do their jobs, if they're busy then be patient and wait for them to finish!",
+        "You cannot trap people or force anyone to pay a toll to exit an obstruction if you are not a hostage taking class!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
         "Do not camp in mayors office during his grace with the purpose of killing him afterwards!",
         "Staff are also obligated to convene if they can find the proof to convict, like a confession or video proof for all that has been listed except advert!",
@@ -163,7 +163,7 @@ var l_messages = [
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "Do not abuse the fading door tool. (Using the numpad to constantly spam it or open and close it quickly!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
-        "Please dont spam the sound sweps that come with your job!",
+        "Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
         "If we close down you will not get your money back and if we open up again you will no longer have the Vip packages!",
         "If you are  depresso nevermore fizzy 𝐼𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
