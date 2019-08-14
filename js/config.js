@@ -116,16 +116,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "d_w3uT2fVqg", name: "atlas - Installation Music"},
+	{youtube: "E3YBHgzQLP8", name: "atlas - Installation Music"},
 	{youtube: "7VXrhzbvd-A", name: "atlas - Installation Music"},
         {youtube: "DjfJnHdUwgo", name: "atlas - Installation Music"},
         {youtube: "SgbXu5gE2qA", name: "atlas - Installation Music"},
         {youtube: "pgVyrWItI70", name: "atlas - Installation Music"},
         {youtube: "QtTs4vybXFY", name: "atlas - Installation Music"},
         {youtube: "CVZXj53i9Js", name: "atlas - Installation Music"},
-        {youtube: "", name: "atlas - Installation Music"},
-        {youtube: "", name: "atlas - Installation Music"},
-        {youtube: "", name: "atlas - Installation Music"},
+        {youtube: "izAV02k9neE", name: "atlas - Installation Music"},
+        {youtube: "SBdgk2LEQ1s", name: "atlas - Installation Music"},
+        {youtube: "EBCNNrAdvzI", name: "atlas - Installation Music"},
 
 ];
 
@@ -146,7 +146,7 @@ var l_messages = [
 	"Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "Mayors can not take away rights from players such as freedom of privacy. This means no laws saying that players can't lock their doors!",
-        "No breaking NLR. You may not return to where you die for 5 minutes!",
+        "Do not Break NLR. You may not return to where you die for 5 minutes!",
         "Do not FailRP (Fail Role Play). This is when you do something unrealistic!", 
         "Do not no collide cameras and physgun them into other people's bases, this is known as camera abuse!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
@@ -158,7 +158,7 @@ var l_messages = [
         "Do not involve yourself in situations especially admin situations which you are not apart of in the first place!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
-        "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
+        "We are Serious. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "A staff member has final say on all rule interpretations including those not explicitly stated in the rules!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "Do not abuse the fading door tool. (Using the numpad to constantly spam it or open and close it quickly!",
@@ -166,7 +166,7 @@ var l_messages = [
         "Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
         "If we close down you will not get your money back and if we open up again you will no longer have the Vip packages!",
-        "If you are  depresso nevermore fizzy 𝐼𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
+        "If you're anybody going by the name depresso Nevermore Fizzy I𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
         "Insubordination (Not obeying lawful orders given by leadership jobs which go beyond just the Police job or displaying clear corruption!"
 
 ];
