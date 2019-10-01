@@ -116,16 +116,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
-	{youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
-        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
+	{youtube: "aT4vKGkpOB8", name: "atlas - Installation Music"},
+	{youtube: "m7LhiJaAckE", name: "atlas - Installation Music"},
+        {youtube: "R4nmSUIt4o4", name: "atlas - Installation Music"},
+        {youtube: "oUv0NbjbGzQ", name: "atlas - Installation Music"},
+        {youtube: "hfmxO-HQ5rU", name: "atlas - Installation Music"},
+        {youtube: "KyosPwwTl7s", name: "atlas - Installation Music"},
+        {youtube: "JsxavPANO8s", name: "atlas - Installation Music"},
+        {youtube: "DnUSGAi9j8I", name: "atlas - Installation Music"},
+        {youtube: "7QyoRzZrF00", name: "atlas - Installation Music"},
+        {youtube: "XjBwAYIxUso", name: "atlas - Installation Music"},
 
 ];
 
@@ -159,15 +159,15 @@ var l_messages = [
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "We are Serious. Consider being serious at all times but understand there may also be times when the server relaxes!",
-        "A staff member has final say on all rule interpretations including those not explicitly stated in the rules!",
+        "Accidentally killing someone (crossfire) is RDM (Not if for a valid reason aka raiding). If you think you might miss your shot or kill someone else, DON'T SHOOT!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "Do not abuse the fading door tool. (Using the numpad to constantly spam it or open and close it quickly!",
-        "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
+        "Do not randomly kill someone (RDM - Random Death Match). If you don't know what it is, scroll down on this page to the 'Random Death Match' section!",
         "Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
         "If we close down you will not get your money back and if we open up again you will no longer have the Vip packages!",
         "If you're anybody going by the name depresso Nevermore Fizzy I𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
-        "Insubordination (Not obeying lawful orders given by leadership jobs which go beyond just the Police job or displaying clear corruption!"
+        "Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!"
 
 ];
 /*Random message order?*/
