@@ -116,16 +116,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "fJTX6MQTzTs", name: "atlas - Installation Music"},
-	{youtube: "r5EXKDlf44M", name: "atlas - Installation Music"},
-        {youtube: "Tmb7YIKqLeM", name: "atlas - Installation Music"},
-        {youtube: "pf4aSxDvlPw", name: "atlas - Installation Music"},
-        {youtube: "zFIGqHdcCKY", name: "atlas - Installation Music"},
-        {youtube: "h2a20YL5mvg", name: "atlas - Installation Music"},
-        {youtube: "CVZXj53i9Js", name: "atlas - Installation Music"},
-        {youtube: "izAV02k9neE", name: "atlas - Installation Music"},
-        {youtube: "SBdgk2LEQ1s", name: "atlas - Installation Music"},
-        {youtube: "EBCNNrAdvzI", name: "atlas - Installation Music"},
+	{youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
+	{youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
+        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
+        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
+        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
+        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
+        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
+        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
+        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
+        {youtube: "6ypqreQH5a4&t=3s", name: "atlas - Installation Music"},
 
 ];
 
