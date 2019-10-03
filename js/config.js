@@ -116,16 +116,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "aT4vKGkpOB8", name: "atlas - Installation Music"},
-	{youtube: "m7LhiJaAckE", name: "atlas - Installation Music"},
+	{youtube: "D6raJluIg40", name: "atlas - Installation Music"},
+	{youtube: "CKh0dLIuIu8", name: "atlas - Installation Music"},
+        {youtube: "22bK0C2obFc", name: "atlas - Installation Music"},
+        {youtube: "fpnUrPUlJXY", name: "atlas - Installation Music"},
         {youtube: "R4nmSUIt4o4", name: "atlas - Installation Music"},
-        {youtube: "oUv0NbjbGzQ", name: "atlas - Installation Music"},
-        {youtube: "hfmxO-HQ5rU", name: "atlas - Installation Music"},
+        {youtube: "5ZYgIrqELFw", name: "atlas - Installation Music"},
         {youtube: "KyosPwwTl7s", name: "atlas - Installation Music"},
-        {youtube: "JsxavPANO8s", name: "atlas - Installation Music"},
-        {youtube: "DnUSGAi9j8I", name: "atlas - Installation Music"},
-        {youtube: "7QyoRzZrF00", name: "atlas - Installation Music"},
-        {youtube: "XjBwAYIxUso", name: "atlas - Installation Music"},
+        {youtube: "6OwPHD61Y3s", name: "atlas - Installation Music"},
+        {youtube: "HImcaPDmfBY", name: "atlas - Installation Music"},
+        {youtube: "43GkQcl2ID0", name: "atlas - Installation Music"},
 
 ];
 
@@ -165,9 +165,9 @@ var l_messages = [
         "Do not randomly kill someone (RDM - Random Death Match). If you don't know what it is, scroll down on this page to the 'Random Death Match' section!",
         "Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
-        "If we close down you will not get your money back and if we open up again you will no longer have the Vip packages!",
+        "Gang leaders (Mob Boss, Crip leader and blood leader) are allowed to claim a section of the map (or a smaller area) as gang territory!",
         "If you're anybody going by the name depresso Nevermore Fizzy I𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
-        "Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!"
+        "Supremacy Is no Friend of ours!"
 
 ];
 /*Random message order?*/
