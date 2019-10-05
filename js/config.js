@@ -116,16 +116,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "D6raJluIg40", name: "atlas - Installation Music"},
-	{youtube: "CKh0dLIuIu8", name: "atlas - Installation Music"},
-        {youtube: "22bK0C2obFc", name: "atlas - Installation Music"},
-        {youtube: "fpnUrPUlJXY", name: "atlas - Installation Music"},
-        {youtube: "R4nmSUIt4o4", name: "atlas - Installation Music"},
+	{youtube: "1V0xQkk9kbc", name: "atlas - Installation Music"},
+	{youtube: "4RFSymw6ZrU", name: "atlas - Installation Music"},
         {youtube: "5ZYgIrqELFw", name: "atlas - Installation Music"},
-        {youtube: "KyosPwwTl7s", name: "atlas - Installation Music"},
-        {youtube: "6OwPHD61Y3s", name: "atlas - Installation Music"},
+        {youtube: "keg58u4CGYY", name: "atlas - Installation Music"},
+        {youtube: "ztvIhqVtrrw", name: "atlas - Installation Music"},
+        {youtube: "mSLuJYtl89Y", name: "atlas - Installation Music"},
+        {youtube: "X5mcY8ecs8I", name: "atlas - Installation Music"},
+        {youtube: "99bsAvp0Q_U", name: "atlas - Installation Music"},
         {youtube: "HImcaPDmfBY", name: "atlas - Installation Music"},
-        {youtube: "43GkQcl2ID0", name: "atlas - Installation Music"},
+        {youtube: "x0UXVJkCkKk", name: "atlas - Installation Music"},
 
 ];
 
@@ -167,7 +167,7 @@ var l_messages = [
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
         "Gang leaders (Mob Boss, Crip leader and blood leader) are allowed to claim a section of the map (or a smaller area) as gang territory!",
         "If you're anybody going by the name depresso Nevermore Fizzy I𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
-        "Supremacy Is no Friend of ours!"
+        "Supremacy Is no Friend of Ours!"
 
 ];
 /*Random message order?*/
