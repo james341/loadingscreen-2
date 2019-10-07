@@ -116,16 +116,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "1V0xQkk9kbc", name: "atlas - Installation Music"},
-	{youtube: "4RFSymw6ZrU", name: "atlas - Installation Music"},
-        {youtube: "5ZYgIrqELFw", name: "atlas - Installation Music"},
-        {youtube: "keg58u4CGYY", name: "atlas - Installation Music"},
-        {youtube: "ztvIhqVtrrw", name: "atlas - Installation Music"},
-        {youtube: "mSLuJYtl89Y", name: "atlas - Installation Music"},
-        {youtube: "X5mcY8ecs8I", name: "atlas - Installation Music"},
-        {youtube: "99bsAvp0Q_U", name: "atlas - Installation Music"},
-        {youtube: "HImcaPDmfBY", name: "atlas - Installation Music"},
-        {youtube: "x0UXVJkCkKk", name: "atlas - Installation Music"},
+	{youtube: "c5pp6GfVwbE", name: "atlas - Installation Music"},
+	{youtube: "CVZXj53i9Js", name: "atlas - Installation Music"},
+        {youtube: "oBpvsSeBh54", name: "atlas - Installation Music"},
+        {youtube: "mKWtYOswmyk", name: "atlas - Installation Music"},
+        {youtube: "iFe3iJDP3OY", name: "atlas - Installation Music"},
+        {youtube: "230sI_WxO7Y", name: "atlas - Installation Music"},
+        {youtube: "fpnUrPUlJXY", name: "atlas - Installation Music"},
+        {youtube: "wkYY46wkG-I", name: "atlas - Installation Music"},
+        {youtube: "g8PrTzLaLHc", name: "atlas - Installation Music"},
+        {youtube: "pf4aSxDvlPw", name: "atlas - Installation Music"},
 
 ];
 
@@ -142,7 +142,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"In the PD, the Mayor has final say on building defenses. If they waive this right, then it is passed on to the Police Chief!",
-	"Do not spam. Spam: Excessively typing/saying/doing something repeatedly in quick succession!",
+	"Do not harass, grief, or troll players of the community!",
 	"Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "Mayors can not take away rights from players such as freedom of privacy. This means no laws saying that players can't lock their doors!",
@@ -152,7 +152,7 @@ var l_messages = [
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "You cannot trap people or force anyone to pay a toll to exit an obstruction if you are not a hostage taking class!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
-        "Do not camp in mayors office during his grace with the purpose of killing him afterwards!",
+        "Do not impersonate other users (This includes having identical or similar names!",
         "Staff are also obligated to convene if they can find the proof to convict, like a confession or video proof for all that has been listed except advert!",
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Do not involve yourself in situations especially admin situations which you are not apart of in the first place!",
@@ -161,7 +161,7 @@ var l_messages = [
         "We are Serious. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "Accidentally killing someone (crossfire) is RDM (Not if for a valid reason aka raiding). If you think you might miss your shot or kill someone else, DON'T SHOOT!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
-        "Do not abuse the fading door tool. (Using the numpad to constantly spam it or open and close it quickly!",
+        "Do not abuse exploits or loopholes, report those to staff members, and you may receive a reward!",
         "Do not randomly kill someone (RDM - Random Death Match). If you don't know what it is, scroll down on this page to the 'Random Death Match' section!",
         "Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
