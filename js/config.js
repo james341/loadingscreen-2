@@ -157,7 +157,7 @@ var l_messages = [
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Do not involve yourself in situations especially admin situations which you are not apart of in the first place!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
-        "You must advert "Carjack" when carjacking someone You can carjack every 5 minutes, but you have to wait 10 minutes to carjack the same person!",
+        "You must advert Carjack when carjacking someone You can carjack every 5 minutes, but you have to wait 10 minutes to carjack the same person!",
         "We are Serious. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "Accidentally killing someone (crossfire) is RDM (Not if for a valid reason aka raiding). If you think you might miss your shot or kill someone else, DON'T SHOOT!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
