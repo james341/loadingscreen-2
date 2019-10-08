@@ -116,16 +116,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "c5pp6GfVwbE", name: "atlas - Installation Music"},
-	{youtube: "CVZXj53i9Js", name: "atlas - Installation Music"},
+	{youtube: "8VFCslLuPfY", name: "atlas - Installation Music"},
+	{youtube: "pTLnlkrCK8c", name: "atlas - Installation Music"},
+        {youtube: "XjBwAYIxUso", name: "atlas - Installation Music"},
+        {youtube: "UXCe2X-hYxc", name: "atlas - Installation Music"},
+        {youtube: "24rreFqTmO4", name: "atlas - Installation Music"},
+        {youtube: "KyosPwwTl7s", name: "atlas - Installation Music"},
         {youtube: "oBpvsSeBh54", name: "atlas - Installation Music"},
-        {youtube: "mKWtYOswmyk", name: "atlas - Installation Music"},
-        {youtube: "iFe3iJDP3OY", name: "atlas - Installation Music"},
-        {youtube: "230sI_WxO7Y", name: "atlas - Installation Music"},
-        {youtube: "fpnUrPUlJXY", name: "atlas - Installation Music"},
-        {youtube: "wkYY46wkG-I", name: "atlas - Installation Music"},
-        {youtube: "g8PrTzLaLHc", name: "atlas - Installation Music"},
-        {youtube: "pf4aSxDvlPw", name: "atlas - Installation Music"},
+        {youtube: "22bK0C2obFc", name: "atlas - Installation Music"},
+        {youtube: "SUgxZ8_Iiqc", name: "atlas - Installation Music"},
+        {youtube: "Oz6UptPNbdA", name: "atlas - Installation Music"},
 
 ];
 
@@ -142,7 +142,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"In the PD, the Mayor has final say on building defenses. If they waive this right, then it is passed on to the Police Chief!",
-	"Do not harass, grief, or troll players of the community!",
+	"You cannot shoot explosives through solid props. This means shooting walls to kill somebody on the other side. This includes fences. Also, do NOT use explosives in public!",
 	"Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "Mayors can not take away rights from players such as freedom of privacy. This means no laws saying that players can't lock their doors!",
@@ -157,7 +157,7 @@ var l_messages = [
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Do not involve yourself in situations especially admin situations which you are not apart of in the first place!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
-        "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
+        "You must advert "Carjack" when carjacking someone You can carjack every 5 minutes, but you have to wait 10 minutes to carjack the same person!",
         "We are Serious. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "Accidentally killing someone (crossfire) is RDM (Not if for a valid reason aka raiding). If you think you might miss your shot or kill someone else, DON'T SHOOT!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
@@ -165,9 +165,9 @@ var l_messages = [
         "Do not randomly kill someone (RDM - Random Death Match). If you don't know what it is, scroll down on this page to the 'Random Death Match' section!",
         "Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
-        "Gang leaders (Mob Boss, Crip leader and blood leader) are allowed to claim a section of the map (or a smaller area) as gang territory!",
+        "Gang leaders (Mob Boss, Crips leader and blood leaders) are allowed to claim a section of the map (or a smaller area) as gang territory!",
         "If you're anybody going by the name depresso Nevermore Fizzy I𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
-        "Supremacy Is no Friend of Ours!"
+        "You must advert raid over after completing/failing a raid!"
 
 ];
 /*Random message order?*/
