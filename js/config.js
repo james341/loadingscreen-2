@@ -118,16 +118,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "8VFCslLuPfY", name: "atlas - Installation Music"},
-	{youtube: "pTLnlkrCK8c", name: "atlas - Installation Music"},
-        {youtube: "XjBwAYIxUso", name: "atlas - Installation Music"},
-        {youtube: "UXCe2X-hYxc", name: "atlas - Installation Music"},
-        {youtube: "24rreFqTmO4", name: "atlas - Installation Music"},
-        {youtube: "KyosPwwTl7s", name: "atlas - Installation Music"},
-        {youtube: "oBpvsSeBh54", name: "atlas - Installation Music"},
-        {youtube: "22bK0C2obFc", name: "atlas - Installation Music"},
+	{youtube: "K4DyBUG242c", name: "atlas - Installation Music"},
+	{youtube: "zyXmsVwZqX4", name: "atlas - Installation Music"},
         {youtube: "SUgxZ8_Iiqc", name: "atlas - Installation Music"},
-        {youtube: "Oz6UptPNbdA", name: "atlas - Installation Music"},
+        {youtube: "IHisFtYwf1Y", name: "atlas - Installation Music"},
+        {youtube: "oUv0NbjbGzQ", name: "atlas - Installation Music"},
+        {youtube: "ldiUI2Pah9Y", name: "atlas - Installation Music"},
+        {youtube: "NLlybOjPbDU", name: "atlas - Installation Music"},
+        {youtube: "ThaW-YMFVus", name: "atlas - Installation Music"},
+        {youtube: "wZOQVbNjUVM", name: "atlas - Installation Music"},
+        {youtube: "2SKEp-H0Eqs", name: "atlas - Installation Music"},
 
 ];
 
@@ -148,13 +148,13 @@ var l_messages = [
 	"Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "Mayors can not take away rights from players such as freedom of privacy. This means no laws saying that players can't lock their doors!",
-        "Do not Break NLR. You may not return to where you die for 5 minutes!",
+        "As Mayor You may be any type of leader you would like (Mayor, Dictator, President, Etc!",
         "Do not FailRP (Fail Role Play). This is when you do something unrealistic!", 
         "Do not no collide cameras and physgun them into other people's bases, this is known as camera abuse!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "You cannot trap people or force anyone to pay a toll to exit an obstruction if you are not a hostage taking class!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
-        "Do not impersonate other users (This includes having identical or similar names!",
+        "Durring a PD Takeover, Police can return to the raid 1 minute after there death!",
         "Staff are also obligated to convene if they can find the proof to convict, like a confession or video proof for all that has been listed except advert!",
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Do not involve yourself in situations especially admin situations which you are not apart of in the first place!",
@@ -169,7 +169,7 @@ var l_messages = [
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
         "Gang leaders (Mob Boss, Crips leader and blood leaders) are allowed to claim a section of the map (or a smaller area) as gang territory!",
         "If you're anybody going by the name depresso Nevermore Fizzy I𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
-        "You must advert raid over after completing/failing a raid!"
+        "Terrorists can ONLY attack people (With their gun) If they are attacked first!"
 
 ];
 /*Random message order?*/
