@@ -118,15 +118,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "K4DyBUG242c", name: "atlas - Installation Music"},
-	{youtube: "zyXmsVwZqX4", name: "atlas - Installation Music"},
-        {youtube: "SUgxZ8_Iiqc", name: "atlas - Installation Music"},
+	{youtube: "DqYC8qU8pZY", name: "atlas - Installation Music"},
+	{youtube: "MMD9n-YZ93o", name: "atlas - Installation Music"},
+        {youtube: "g8PrTzLaLHc", name: "atlas - Installation Music"},
         {youtube: "IHisFtYwf1Y", name: "atlas - Installation Music"},
         {youtube: "oUv0NbjbGzQ", name: "atlas - Installation Music"},
         {youtube: "ldiUI2Pah9Y", name: "atlas - Installation Music"},
         {youtube: "NLlybOjPbDU", name: "atlas - Installation Music"},
         {youtube: "ThaW-YMFVus", name: "atlas - Installation Music"},
-        {youtube: "wZOQVbNjUVM", name: "atlas - Installation Music"},
+        {youtube: "Oz6UptPNbdA", name: "atlas - Installation Music"},
         {youtube: "2SKEp-H0Eqs", name: "atlas - Installation Music"},
 
 ];
@@ -148,7 +148,7 @@ var l_messages = [
 	"Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "Mayors can not take away rights from players such as freedom of privacy. This means no laws saying that players can't lock their doors!",
-        "As Mayor You may be any type of leader you would like (Mayor, Dictator, President, Etc!",
+        "KOS signs most are clearly placed at the entrance of a KOS area it must be sized and colored clearly any attempts to bait people into areas with obscure KOS signs will result in punishment from staff!",
         "Do not FailRP (Fail Role Play). This is when you do something unrealistic!", 
         "Do not no collide cameras and physgun them into other people's bases, this is known as camera abuse!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
