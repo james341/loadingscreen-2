@@ -128,6 +128,7 @@ var l_musicPlaylist = [
         {youtube: "3jx7SF65wbs", name: "atlas - Installation Music"},
         {youtube: "Oz6UptPNbdA", name: "atlas - Installation Music"},
         {youtube: "7UUPawNC5Lg", name: "atlas - Installation Music"},
+        {youtube: "pf4aSxDvlPw", name: "atlas - Installation Music"},
 
 ];
 
@@ -154,7 +155,7 @@ var l_messages = [
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "You cannot trap people or force anyone to pay a toll to exit an obstruction if you are not a hostage taking class!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
-        "Durring a PD Takeover, Police can return to the raid 1 minute after there death!",
+        "You may raid as Mob Boss, Mafia Leader, Thief, Pro Thief, Thief Custom Classes and Battle Medics!",
         "Staff are also obligated to convene if they can find the proof to convict, like a confession or video proof for all that has been listed except advert!",
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Do not involve yourself in situations especially admin situations which you are not apart of in the first place!",
