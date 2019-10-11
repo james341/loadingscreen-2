@@ -118,16 +118,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "DqYC8qU8pZY", name: "atlas - Installation Music"},
-	{youtube: "MMD9n-YZ93o", name: "atlas - Installation Music"},
-        {youtube: "g8PrTzLaLHc", name: "atlas - Installation Music"},
-        {youtube: "IHisFtYwf1Y", name: "atlas - Installation Music"},
-        {youtube: "oUv0NbjbGzQ", name: "atlas - Installation Music"},
-        {youtube: "ldiUI2Pah9Y", name: "atlas - Installation Music"},
-        {youtube: "NLlybOjPbDU", name: "atlas - Installation Music"},
-        {youtube: "ThaW-YMFVus", name: "atlas - Installation Music"},
+	{youtube: "GsIRt0bge1Y", name: "atlas - Installation Music"},
+	{youtube: "pTLnlkrCK8c", name: "atlas - Installation Music"},
+        {youtube: "K4DyBUG242c", name: "atlas - Installation Music"},
+        {youtube: "4RFSymw6ZrU", name: "atlas - Installation Music"},
+        {youtube: "gvb3PqVDkX0", name: "atlas - Installation Music"},
+        {youtube: "X-1dn0g1uQk", name: "atlas - Installation Music"},
+        {youtube: "fMmqh4Ut_Uo", name: "atlas - Installation Music"},
+        {youtube: "3jx7SF65wbs", name: "atlas - Installation Music"},
         {youtube: "Oz6UptPNbdA", name: "atlas - Installation Music"},
-        {youtube: "2SKEp-H0Eqs", name: "atlas - Installation Music"},
+        {youtube: "7UUPawNC5Lg", name: "atlas - Installation Music"},
 
 ];
 
@@ -169,7 +169,7 @@ var l_messages = [
         "A war is over when one team fights off the entire other team and gain their base and their goods of both sides agree to stop!",
         "Gang leaders (Mob Boss, Crips leader and blood leaders) are allowed to claim a section of the map (or a smaller area) as gang territory!",
         "If you're anybody going by the name depresso Nevermore Fizzy I𝓃𝒻𝒾𝓃𝒾𝓉𝑒 & all of the rest we will find you and ban you leave now while you still can stop trying to minge here FFS!",
-        "Terrorists can ONLY attack people (With their gun) If they are attacked first!"
+        "Terrorists can ONLY attack people (With their guns) If they are attacked first!"
 
 ];
 /*Random message order?*/
